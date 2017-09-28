@@ -3,6 +3,7 @@ import urllib2
 import pandas as pd
 from itertools import combinations
 import numpy as np
+from joblib import Parallel, delayed
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
@@ -42,10 +43,12 @@ min_d_projection = df[df['Salary'] == min_salary['D']][df['Position'] == 'D']['P
 min_dict = {'QB': 1, 'D': 1, 'RB': min_rb_projection, 'WR': min_wr_projection,\
          'K': min_k_projection, 'TE': min_te_projection, 'D': min_d_projection}
 
+
 grouped = df.groupby(['Position'])
 position_dict = {}
 for pos, frame in grouped:
     position_dict[pos] = frame[frame['Projection'] > min_dict[pos]].to_dict(orient='index')
+
 
 def total_lineup(qb, k, te, d, rb, wr, key):
     return round(position_dict['QB'][qb][key] + \
@@ -58,24 +61,39 @@ def total_lineup(qb, k, te, d, rb, wr, key):
         position_dict['WR'][wr[1]][key] + \
         position_dict['WR'][wr[2]][key], 2)
 
-def run():
-        i = 1
-        optimal_lineup = 0
-        lineup = []
-        for qb in position_dict['QB'].keys():
-                for k in position_dict['K'].keys():
-                        for te in position_dict['TE'].keys():
-                                for d in position_dict['D'].keys():
-                                    for rbs in combinations(position_dict['RB'], 2):
-                                        for wrs in combinations(position_dict['WR'], 3):
-                                            if i % 1000000000 == 0: print (i)
-                                            i += 1
-                                            salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
-                                            if 59000 < salary <= 60000:
-                                                if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
-                                                    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
-                                                    lineup = [qb, k, te, d, rbs, wrs]
-                                                    print (optimal_lineup, salary, lineup)
+
+def run(single_position):
+	optimal_lineup = 0
+	lineup = []
+	qb = single_position[0]
+	k = single_position[1]
+	te = single_position[2]
+	d = single_position[3]
+	for rbs in combinations(position_dict['RB'], 2):
+		for wrs in combinations(position_dict['WR'], 3):
+		    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+		    if 59000 < salary <= 60000:
+			if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
+			    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+			    lineup = [qb, k, te, d, rbs, wrs]
+			    print (optimal_lineup, salary, lineup)
+	return (optimal_lineup, lineup)
+
+
+def get_combo_list():
+	return [(qb,k,te,d) for qb in position_dict['QB'].keys() \
+		for k in position_dict['K'].keys() \
+		for te in position_dict['TE'].keys() \ 
+		for d in position_dict['D'].keys()]
+
 
 if __name__=="__main__":
-        run()
+	results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
+	print len(results)
+	max_projection = 0
+	team = []
+	for i in results:
+		if i[0] > max_projection:
+			max_projection = i[0]
+			team = i[1]
+	print max_projection, team 
