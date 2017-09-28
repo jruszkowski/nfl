@@ -65,26 +65,23 @@ def total_lineup(qb, k, te, d, rb, wr, key):
 def run(single_position):
 	optimal_lineup = 0
 	lineup = []
-	qb = single_position[0]
-	k = single_position[1]
-	te = single_position[2]
-	d = single_position[3]
-	for rbs in combinations(position_dict['RB'], 2):
-		for wrs in combinations(position_dict['WR'], 3):
-		    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
-		    if 59000 < salary <= 60000:
-			if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
-			    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
-			    lineup = [qb, k, te, d, rbs, wrs]
-			    print (optimal_lineup, salary, lineup)
+	qb = single_position
+	for k in position_dict['K'].keys():
+		for te in position_dict['TE'].keys():
+			for d in position_dict['D'].keys():
+				for rbs in combinations(position_dict['RB'], 2):
+					for wrs in combinations(position_dict['WR'], 3):
+					    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+					    if 59000 < salary <= 60000:
+						if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
+						    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+						    lineup = [qb, k, te, d, rbs, wrs]
+	print (optimal_lineup, lineup)
 	return (optimal_lineup, lineup)
 
 
 def get_combo_list():
-	return [(qb,k,te,d) for qb in position_dict['QB'].keys() \
-		for k in position_dict['K'].keys() \
-		for te in position_dict['TE'].keys() \ 
-		for d in position_dict['D'].keys()]
+	return [(qb) for qb in position_dict['QB'].keys()] 
 
 
 if __name__=="__main__":
