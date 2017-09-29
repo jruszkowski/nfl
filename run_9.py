@@ -98,9 +98,6 @@ if __name__=="__main__":
 		if i[0] > max_projection:
 			max_projection = i[0]
 			team = i[1]
-<<<<<<< HEAD
-	print(datetime.datetime.now() - start_time)
-=======
+
 	print (datetime.datetime.now() - start_time)
->>>>>>> 8175b0efb8dd12389064970e253ae70b509f6385
 	print (max_projection, team)
