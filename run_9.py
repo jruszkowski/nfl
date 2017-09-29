@@ -4,6 +4,7 @@ import pandas as pd
 from itertools import combinations
 import numpy as np
 from joblib import Parallel, delayed
+import datetime
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
@@ -87,12 +88,14 @@ def get_combo_list():
 
 
 if __name__=="__main__":
+	start_time = datetime.datetime.now()
 	results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
-	print len(results)
+	print (len(results))
 	max_projection = 0
 	team = []
 	for i in results:
 		if i[0] > max_projection:
 			max_projection = i[0]
 			team = i[1]
-	print max_projection, team 
+	print(datetime.datetime.now() - start_time)
+	print (max_projection, team)
