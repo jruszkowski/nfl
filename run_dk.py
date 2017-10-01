@@ -34,7 +34,6 @@ df[df['Projection'].isnull()]
 df = df[df['Projection'] > 1]
 
 min_salary = df.groupby(['Position'])['Salary'].agg([np.min])['amin'].to_dict()
-#min_salary = df.groupby(['Position'])['Projection'].agg([np.median])['median'].to_dict()
 min_rb_projection = df[df['Salary'] == min_salary['RB']][df['Position'] == 'RB']['Projection'].max()
 min_wr_projection = df[df['Salary'] == min_salary['WR']][df['Position'] == 'WR']['Projection'].max()
 min_te_projection = df[df['Salary'] == min_salary['TE']][df['Position'] == 'TE']['Projection'].max()
@@ -47,54 +46,45 @@ grouped = df.groupby(['Position'])
 position_dict = {}
 for pos, frame in grouped:
     position_dict[pos] = frame[frame['Projection'] > min_dict[pos]].to_dict(orient='index')
+player_dict = {}
+for item in position_dict.items():
+	for plyr_name in item[1].keys():
+		player_dict[plyr_name] = item[1][plyr_name]
 
-
-def total_lineup(qb, te, d, rb, wr, flex, key):
-    return round(position_dict['QB'][qb][key] + \
-        position_dict[flex[0]][flex[1]][key] + \
-        position_dict['TE'][te][key] + \
-        position_dict['DST'][d][key] + \
-        position_dict['RB'][rb[0]][key] + \
-        position_dict['RB'][rb[1]][key] + \
-        position_dict['WR'][wr[0]][key] + \
-        position_dict['WR'][wr[1]][key] + \
-        position_dict['WR'][wr[2]][key], 2)
-
-
-def flex_players():
-	flex_player_list = []
-	for item in position_dict.items():
-		if item[0] in ['TE','WR','RB']:
-			plyr_tuples = [(item[0], x) for x in item[1].keys()]
-			flex_player_list += plyr_tuples
-	return flex_player_list
-
-def flex_list(te, rbs, wrs):
+		
+def total_lineup(qb, te, d, rb, wr, key):
 	team_list = []
-	rbs = [x for x in rbs]
-	wrs = [x for x in wrs]
-	team_list = [te] + rbs + wrs
-	return [x for x in flex_players() if x[1] not in team_list]
+	rbs = [x for x in rb]
+	te = [x for x in te]
+	wrs = [x for x in wr]
+	team_list = te + rbs + wrs + [qb] + [d]
+	return round(sum([player_dict[x][key] for x in team_list]), 2)
+
+
+flex_combos = {
+	1: {'TE': 1, 'RB': 3, 'WR': 3},
+	2: {'TE': 1, 'RB': 2, 'WR': 4},
+	3: {'TE': 2, 'RB': 2, 'WR': 3}
+	}
 
 def run(single_position):
 	optimal_lineup = 0
 	lineup = []
 	qb = single_position
-	singles_list = [(te, d) for te in position_dict['TE'].keys() \
-			for d in position_dict['DST'].keys()]
-	for i in singles_list:
-		te,d = i
-		for rbs in combinations(position_dict['RB'], 2):
-			for wrs in combinations(position_dict['WR'], 3):
-				for flex in flex_list(te, rbs, wrs):
-				    salary = total_lineup(qb, te, d, rbs, wrs, flex, 'Salary')
-				    if 49500 < salary <= 50000:
-					total_projection = total_lineup(qb, te, d, rbs, wrs, flex, 'Projection')
-					if total_projection >= optimal_lineup:
-					    optimal_lineup = total_projection
-					    lineup = [qb, te, d, rbs, wrs, flex[1]]
-					    if total_projection > 130: 
-					    	print (optimal_lineup, lineup)
+	singles_list = [d for d in position_dict['DST'].keys()]
+	for d in singles_list:
+		for fc in flex_combos.keys():
+			for rbs in combinations(position_dict['RB'], flex_combos[fc]['RB']):
+				for wrs in combinations(position_dict['WR'], flex_combos[fc]['WR']):
+					for te in combinations(position_dict['TE'], flex_combos[fc]['TE']):
+					    salary = total_lineup(qb, te, d, rbs, wrs, 'Salary')
+					    if 49500 < salary <= 50000:
+						total_projection = total_lineup(qb, te, d, rbs, wrs, 'Projection')
+						if total_projection >= optimal_lineup:
+						    optimal_lineup = total_projection
+						    lineup = [qb, te, d, rbs, wrs]
+						    if total_projection > 130: 
+							print (optimal_lineup, lineup)
 	print ('final', optimal_lineup, lineup)
 	return (optimal_lineup, lineup)
 
