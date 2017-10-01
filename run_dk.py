@@ -34,11 +34,12 @@ df[df['Projection'].isnull()]
 df = df[df['Projection'] > 1]
 
 min_salary = df.groupby(['Position'])['Salary'].agg([np.min])['amin'].to_dict()
+#min_salary = df.groupby(['Position'])['Projection'].agg([np.median])['median'].to_dict()
 min_rb_projection = df[df['Salary'] == min_salary['RB']][df['Position'] == 'RB']['Projection'].max()
 min_wr_projection = df[df['Salary'] == min_salary['WR']][df['Position'] == 'WR']['Projection'].max()
 min_te_projection = df[df['Salary'] == min_salary['TE']][df['Position'] == 'TE']['Projection'].max()
 min_d_projection = df[df['Salary'] == min_salary['DST']][df['Position'] == 'DST']['Projection'].max()
-min_dict = {'QB': 1, 'RB': min_rb_projection, 'WR': min_wr_projection,\
+min_dict = {'QB': 10, 'RB': min_rb_projection, 'WR': min_wr_projection,\
          'TE': min_te_projection, 'DST': min_d_projection}
 
 
@@ -88,10 +89,13 @@ def run(single_position):
 				for flex in flex_list(te, rbs, wrs):
 				    salary = total_lineup(qb, te, d, rbs, wrs, flex, 'Salary')
 				    if 49500 < salary <= 50000:
-					if total_lineup(qb, te, d, rbs, wrs, flex, 'Projection') >= optimal_lineup:
-					    optimal_lineup = total_lineup(qb, te, d, rbs, wrs, flex, 'Projection')
+					total_projection = total_lineup(qb, te, d, rbs, wrs, flex, 'Projection')
+					if total_projection >= optimal_lineup:
+					    optimal_lineup = total_projection
 					    lineup = [qb, te, d, rbs, wrs, flex[1]]
-	print (optimal_lineup, lineup)
+					    if total_projection > 130: 
+					    	print (optimal_lineup, lineup)
+	print ('final', optimal_lineup, lineup)
 	return (optimal_lineup, lineup)
 
 
@@ -109,3 +113,5 @@ if __name__=="__main__":
 			max_projection = i[0]
 			team = i[1]
 	print max_projection, team 
+	df = pd.DataFrame(team)
+	df.to_csv('results.csv')
