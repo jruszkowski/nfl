@@ -67,19 +67,21 @@ def run(single_position):
 	optimal_lineup_projection = 0
 	optimal_lineup = []
 	qb = single_position
-	all_list = [(qb, k, te, d, rbs, wrs) for k in position_dict['K'].keys() \
-			for te in position_dict['TE'].keys() \
-			for d in position_dict['D'].keys() \
-			for rbs in combinations(position_dict['RB'], 2) \
-			for wrs in combinations(position_dict['WR'], 3) \
-			if 59500 < total_lineup(qb, k, te, d, rbs, wrs, 'Salary') <= 60000]
+
+	singles_list = [(k, te, d) for k in position_dict['K'].keys() \
+ 			for te in position_dict['TE'].keys() \
+ 			for d in position_dict['D'].keys()]
+
+ 	for i in singles_list:
+ 		k,te,d = i
+ 		for rbs in combinations(position_dict['RB'], 2):
+ 			for wrs in combinations(position_dict['WR'], 3):
+ 			    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+ 			    if 59000 < salary <= 60000:
+ 				if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
+ 				    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+ 				    lineup = [qb, k, te, d, rbs, wrs]
 	
-	for i in all_list:
-		qb,k,te,d,rbs,wrs = i
-			lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
-			if lineup >= optimal_lineup_projection:
-				optimal_lineup_projection = lineup
-				optimal_lineup = [qb, k, te, d, rbs, wrs]
 	print (optimal_lineup_projection, optimal_lineup)
 	return (optimal_lineup_projection, optimal_lineup)
 
@@ -91,7 +93,6 @@ def get_combo_list():
 if __name__=="__main__":
 	start_time = datetime.datetime.now()
 	results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
-	print (len(results))
 	max_projection = 0
 	team = []
 	for i in results:
@@ -101,3 +102,4 @@ if __name__=="__main__":
 
 	print (datetime.datetime.now() - start_time)
 	print (max_projection, team)
+	pd.DataFrame(results).to_csv('results.cvs')
