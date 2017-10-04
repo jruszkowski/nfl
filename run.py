@@ -3,6 +3,8 @@ import urllib2
 import pandas as pd
 from itertools import combinations
 import numpy as np
+from joblib import Parallel, delayed
+import datetime
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
@@ -44,15 +46,12 @@ def total_lineup(qb, rb, wr, key):
         position_dict['WR'][wr[0]][key] + \
         position_dict['WR'][wr[1]][key], 2)
 
-def run():
+def run(qb):
 	i = 1
 	optimal_lineup = 0
 	lineup = []
-	for qb in position_dict['QB'].keys():
-	    print (qb, i)
-	    for rbs in combinations(position_dict['RB'], 2):
+	for rbs in combinations(position_dict['RB'], 2):
 		for wrs in combinations(position_dict['WR'], 2):
-		    if i % 500000000 == 0: print (i)
 		    i += 1
 		    salary = total_lineup(qb, rbs, wrs, 'Salary')
 		    if 58000 < salary <= 60000:
@@ -60,6 +59,22 @@ def run():
 			    optimal_lineup = total_lineup(qb, rbs, wrs, 'Projection')
 			    lineup = [qb, rbs, wrs]
 			    print (optimal_lineup, salary, lineup)
+	return (optimal_lineup, lineup)
+
+
+def get_combo_list():
+        return [(qb) for qb in position_dict['QB'].keys()]
+
 
 if __name__=="__main__":
-	run()
+        start_time = datetime.datetime.now()
+        results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
+        max_projection = 0
+        team = []
+        for i in results:
+                if i[0] > max_projection:
+                        max_projection = i[0]
+                        team = i[1]
+
+        print (datetime.datetime.now() - start_time)
+        print (max_projection, team)
