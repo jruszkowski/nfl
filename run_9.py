@@ -67,22 +67,21 @@ def run(single_position):
 	optimal_lineup_projection = 0
 	optimal_lineup = []
 	qb = single_position
-
-	singles_list = [(k, te, d) for k in position_dict['K'].keys() \
- 			for te in position_dict['TE'].keys() \
- 			for d in position_dict['D'].keys()]
-
- 	for i in singles_list:
- 		k,te,d = i
- 		for rbs in combinations(position_dict['RB'], 2):
- 			for wrs in combinations(position_dict['WR'], 3):
- 			    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
- 			    if 59000 < salary <= 60000:
- 				if total_lineup(qb, k, te, d, rbs, wrs, 'Projection') >= optimal_lineup:
- 				    optimal_lineup = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
- 				    lineup = [qb, k, te, d, rbs, wrs]
 	
-	print (optimal_lineup_projection, optimal_lineup)
+	for k in position_dict['K'].keys():
+ 		for te in position_dict['TE'].keys():
+ 			for d in position_dict['D'].keys():
+				for rbs in combinations(position_dict['RB'], 2):
+					for wrs in combinations(position_dict['WR'], 3):
+					    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+					    if 59000 < salary <= 60000:
+						lineup = [qb, k, te, d, rbs, wrs]
+						projection = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+						if projection >= optimal_lineup_projection:
+						    optimal_lineup = lineup 
+						    optimal_lineup_projection = projection
+			
+						    print (optimal_lineup_projection, optimal_lineup)
 	return (optimal_lineup_projection, optimal_lineup)
 
 
