@@ -72,11 +72,13 @@ def run(single_position):
 	lineup = []
 	qb = single_position
 	singles_list = [d for d in position_dict['DST'].keys()]
+	i = 0
 	for d in singles_list:
 		for fc in flex_combos.keys():
 			for rbs in combinations(position_dict['RB'], flex_combos[fc]['RB']):
 				for wrs in combinations(position_dict['WR'], flex_combos[fc]['WR']):
 					for te in combinations(position_dict['TE'], flex_combos[fc]['TE']):
+					    i+=1
 					    salary = total_lineup(qb, te, d, rbs, wrs, 'Salary')
 					    if 49500 < salary <= 50000:
 						total_projection = total_lineup(qb, te, d, rbs, wrs, 'Projection')
@@ -84,7 +86,7 @@ def run(single_position):
 						    optimal_lineup = total_projection
 						    lineup = [qb, te, d, rbs, wrs]
 						    if total_projection > 130: 
-							print (optimal_lineup, lineup)
+							print (optimal_lineup, lineup, i)
 	print ('final', optimal_lineup, lineup)
 	return (optimal_lineup, lineup)
 
