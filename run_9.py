@@ -67,38 +67,28 @@ def run(single_position):
 	optimal_lineup_projection = 0
 	optimal_lineup = []
 	qb = single_position
-	
-	for k in position_dict['K'].keys():
- 		for te in position_dict['TE'].keys():
- 			for d in position_dict['D'].keys():
-				for rbs in combinations(position_dict['RB'], 2):
-					for wrs in combinations(position_dict['WR'], 3):
-					    salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
-					    if 59000 < salary <= 60000:
-						lineup = [qb, k, te, d, rbs, wrs]
-						projection = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
-						if projection >= optimal_lineup_projection:
-						    optimal_lineup = lineup 
-						    optimal_lineup_projection = projection
-			
-						    print (optimal_lineup_projection, optimal_lineup)
-	return (optimal_lineup_projection, optimal_lineup)
+	for te, d, k in singles_list:
+		for rbs in combinations(position_dict['RB'], 2):
+			for wrs in combinations(position_dict['WR'], 3):
+				salary = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+				projection = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+				if 59000 < salary <=60000 \
+				and projection > results_dict[qb]['projection']:
+					results_dict[qb]['salary'] = total_lineup(qb, k, te, d, rbs, wrs, 'Salary')
+					results_dict[qb]['projection'] = total_lineup(qb, k, te, d, rbs, wrs, 'Projection')
+					results_dict[qb]['lineup'] = [qb, k, te, d, rbs, wrs]
+					print (results_dict[qb])
 
 
 def get_combo_list():
 	return [(qb) for qb in position_dict['QB'].keys()] 
 
+singles_list = ((te, d, k) for te in position_dict['TE'].keys() for d in position_dict['D'].keys() for k in position_dict['K'])
+results_dict = {qb: {'salary': 0, 'projection': 0, 'lineup': []} for qb in position_dict['QB'].keys()}
 
 if __name__=="__main__":
 	start_time = datetime.datetime.now()
-	results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
-	max_projection = 0
-	team = []
-	for i in results:
-		if i[0] > max_projection:
-			max_projection = i[0]
-			team = i[1]
-
+	Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
 	print (datetime.datetime.now() - start_time)
-	print (max_projection, team)
-	pd.DataFrame(results).to_csv('results.cvs')
+	print (results_dict)
+	pd.DataFrame.from_dict(results_dict, orient='index').to_csv('results.cvs')
