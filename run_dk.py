@@ -4,6 +4,12 @@ import pandas as pd
 from itertools import combinations
 import numpy as np
 from joblib import Parallel, delayed
+import datetime
+
+f = open('nfl.txt', 'w')
+started = datetime.datetime.now()
+f.write(str(started))
+f.close()
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
@@ -85,8 +91,9 @@ def run(single_position):
 						if total_projection >= optimal_lineup:
 						    optimal_lineup = total_projection
 						    lineup = [qb, te, d, rbs, wrs]
-						    if total_projection > 130: 
-							print (optimal_lineup, lineup, i)
+						    print (optimal_lineup, lineup, i)
+						    with open('nfl.txt', 'a') as the_file:
+							the_file.write(str(optimal_lineup) +','+ str(lineup) + '\n')
 	print ('final', optimal_lineup, lineup)
 	return (optimal_lineup, lineup)
 
