@@ -6,11 +6,6 @@ import numpy as np
 from joblib import Parallel, delayed
 import datetime
 
-f = open('nfl.txt', 'w')
-started = datetime.datetime.now()
-f.write(str(started))
-f.close()
-
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
 startindex = list(range(40, 1080, 40))
@@ -58,29 +53,23 @@ for item in position_dict.items():
 		player_dict[plyr_name] = item[1][plyr_name]
 
 		
-def total_lineup(qb, te, d, rb, wr, key):
-	team_list = []
-	rbs = [x for x in rb]
-	te = [x for x in te]
-	wrs = [x for x in wr]
-	team_list = te + rbs + wrs + [qb] + [d]
+def total_lineup(combo, key):
+	qb = combo[0]
+	d = combo[1]
+	team_list = [qb] + [d]
 	return round(sum([player_dict[x][key] for x in team_list]), 2)
 
 
 flex_combos = {
-	1: {'TE': 1, 'RB': 3, 'WR': 3, 'QB': 1},
-	2: {'TE': 1, 'RB': 2, 'WR': 4, 'QB': 1},
-	3: {'TE': 2, 'RB': 2, 'WR': 3, 'QB': 1}
+	1: {'TE': 1, 'RB': 3, 'WR': 3},
+	2: {'TE': 1, 'RB': 2, 'WR': 4},
+	3: {'TE': 2, 'RB': 2, 'WR': 3}
 	}
-
-singles_list = ((qb, d, k) for qb in position_dict['QB'].keys() \
-				for d in position_dict['D'].keys() \
-				for k in position_dict['K'])
 
 
 def create_combo_dictionaries(combo_key):
-	for position in flex_combos.keys():
-		count = flex_combos[combo_key][postion]
+	for position in flex_combos[combo_key].keys():
+		count = flex_combos[combo_key][position]
 	
 		if position == 'RB': 
 			for combo in combinations(position_dict[position], count):
@@ -105,59 +94,95 @@ def create_combo_dictionaries(combo_key):
 					te_dict[combo_key][salary]['projection'] = projection
 					te_dict[combo_key][salary]['players'] = combo 
 
-		elif position == 'QB': 
-			for combo in singles_list:
-				projection = total_lineup(combo, 'Projection')
-				salary = total_lineup(combo, 'Salary')
-				if projection > qb_dict[combo_key][salary]['projection']:
-					qb_dict[combo_key][salary]['projection'] = projection
-					qb_dict[combo_key][salary]['players'] = combo 
-
 
 
 def get_combo_list():
 	return [(i, qb) for qb in position_dict['QB'].keys() for i in flex_combos.keys()] 
 
 results_dict = {i: {qb: {'salary': 0, 'projection': 0, 'lineup': []} for qb in position_dict['QB'].keys()} for i in flex_combos.keys()}
+
 def create_salary_dict():
-	return {i: {salary: {'players': [], 'projection': 0} for salary in range(0,60100,100) for i in flex_combos.keys()}}
+	return {i: {salary: {'players': [], 'projection': 0} for salary in range(1000,50100,100)} for i in flex_combos.keys()}
+
+def create_salary_dict_no_key():
+	return {salary: {'players': [], 'projection': 0} for salary in range(1000,50100,100)}
+
 rb_dict = create_salary_dict()
 wr_dict = create_salary_dict()
 te_dict = create_salary_dict()
-qb_dict = create_salary_dict()
+
+qb_dict = create_salary_dict_no_key()
+singles_list = ((qb, d) for qb in position_dict['QB'].keys() for d in position_dict['DST'].keys()) 
+for combo in singles_list:
+	projection = total_lineup(combo, 'Projection')
+	salary = total_lineup(combo, 'Salary')
+	if projection > qb_dict[salary]['projection']:
+		qb_dict[salary]['projection'] = projection
+		qb_dict[salary]['players'] = combo 
+
 
 def add_func(position, plyrs, key):
 	plyrs = [x for x in plyrs]
 	return sum([position_dict[position][x][key] for x in plyrs])
 
+def clean_dict(dict_zeros):
+	for key in dict_zeros.keys():
+		for salary in dict_zeros[key].keys():
+			if dict_zeros[key][salary]['projection'] == 0:
+				del dict_zeros[key][salary]
+	return dict_zeros
+
+def clean_dict_no_key(dict_zeros):
+	for salary in dict_zeros.keys():
+		if dict_zeros[salary]['projection'] == 0:
+			del dict_zeros[salary]
+	return dict_zeros
+
+def total_lineup_all(combo, key):
+	other = [x for x in combo[0]]
+	rb = [x for x in combo[1]]
+	wr = [x for x in combo[2]]
+	te = [x for x in combo[3]]
+	team_list = other + rb + wr + te
+	return round(sum([player_dict[x][key] for x in team_list]), 2)
+
+
 if __name__=="__main__":
-	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in flex_combos.keys())
+#	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in flex_combos.keys())
+	for i in flex_combos.keys():
+		print (i, 'hello')
+		create_combo_dictionaries(i)
 	rb_dict = clean_dict(rb_dict)
 	wr_dict = clean_dict(wr_dict)
-	qb_dict = clean_dict(qb_dict)
-	total_dict = {(qb_dict[key][other]['players'], rb_dict[key][rb]['players'], wr_dict[key][wr]['players'], te_dict[key][te]['players']): \
-		{'salary': total_lineup_all((qb_dict[key][other]['players'], \
-				rb_dict[key][rb]['players'], \
-				wr_dict[key][wr]['players'], \
-				te_dict[key][te]['players'], \
-				), 'Salary'),\
-		 'projection': total_lineup_all((qb_dict[other]['players'], \
-				rb_dict[key][rb]['players'], \
-				wr_dict[key][wr]['players'], \
-				te_dict[key][te]['players'], \
-				), 'Projection')} \
-		for other in qb_dict[key].keys() \
-		for rb in rb_dict[key].keys() \
-		for wr in wr_dict[key].keys() \
-		for te in te_dict[key].keys() \
-		for key in flex_combos.keys()
-		if total_lineup_all((qb_dict[key][other]['players'], \
-			rb_dict[key][rb]['players'], \
-			wr_dict[key][wr]['players'], \
-			te_dict[key][te]['players'], \
-			), 'Salary') <= 50000}
+	te_dict = clean_dict(te_dict)
+	qb_dict = clean_dict_no_key(qb_dict)
+	total_dict = {}
+	for i in flex_combos.keys():
+		total_dict.update({(qb_dict[salary]['players'], \
+				rb_dict[i][rb]['players'], \
+				wr_dict[i][wr]['players'], \
+				te_dict[i][te]['players']): \
+			{'salary': total_lineup_all((qb_dict[salary]['players'], \
+					rb_dict[i][rb]['players'], \
+					wr_dict[i][wr]['players'], \
+					te_dict[i][te]['players'], \
+					), 'Salary'),\
+			 'projection': total_lineup_all((qb_dict[salary]['players'], \
+					rb_dict[i][rb]['players'], \
+					wr_dict[i][wr]['players'], \
+					te_dict[i][te]['players'], \
+					), 'Projection')} \
+			for salary in qb_dict.keys() \
+			for rb in rb_dict[i].keys() \
+			for wr in wr_dict[i].keys() \
+			for te in te_dict[i].keys() \
+			if total_lineup_all((qb_dict[salary]['players'], \
+				rb_dict[i][rb]['players'], \
+				wr_dict[i][wr]['players'], \
+				te_dict[i][te]['players'], \
+				), 'Salary') <= 50000})
 
-        #df = pd.DataFrame.from_dict(total_dict, orient='index').set_index('projection').sort(ascending=False)
-        df = pd.DataFrame.from_dict(total_dict, orient='index')
+        df = pd.DataFrame.from_dict(total_dict, orient='index').set_index('projection').sort(ascending=False)
+        #df = pd.DataFrame.from_dict(total_dict, orient='index')
         print (df.head(10))
 
