@@ -150,7 +150,6 @@ def total_lineup_all(combo, key):
 if __name__=="__main__":
 #	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in flex_combos.keys())
 	for i in flex_combos.keys():
-		print (i, 'hello')
 		create_combo_dictionaries(i)
 	rb_dict = clean_dict(rb_dict)
 	wr_dict = clean_dict(wr_dict)
@@ -158,6 +157,7 @@ if __name__=="__main__":
 	qb_dict = clean_dict_no_key(qb_dict)
 	total_dict = {}
 	for i in flex_combos.keys():
+		print (i)
 		total_dict.update({(qb_dict[salary]['players'], \
 				rb_dict[i][rb]['players'], \
 				wr_dict[i][wr]['players'], \
@@ -176,13 +176,13 @@ if __name__=="__main__":
 			for rb in rb_dict[i].keys() \
 			for wr in wr_dict[i].keys() \
 			for te in te_dict[i].keys() \
-			if total_lineup_all((qb_dict[salary]['players'], \
+			if 49500 < total_lineup_all((qb_dict[salary]['players'], \
 				rb_dict[i][rb]['players'], \
 				wr_dict[i][wr]['players'], \
 				te_dict[i][te]['players'], \
 				), 'Salary') <= 50000})
 
-        df = pd.DataFrame.from_dict(total_dict, orient='index').set_index('projection').sort(ascending=False)
+        df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort_index(ascending=False)
         #df = pd.DataFrame.from_dict(total_dict, orient='index')
         print (df.head(10))
 
