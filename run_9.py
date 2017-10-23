@@ -144,6 +144,5 @@ if __name__=="__main__":
 		if total_lineup_all((qb_dict[other]['players'], \
 			rb_dict[rb]['players'], wr_dict[wr]['players']), 'Salary') <= 60000}
 
-	max_projection = max([total_dict[x]['projection'] for x in total_dict.keys()])
         df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort(ascending=False)
         print (df.head(10))
