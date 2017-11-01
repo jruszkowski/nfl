@@ -22,7 +22,7 @@ for i in startindex:
 			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
     page = base_page + addon + str(i)
 
-plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
+#plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
 df = pd.read_csv('fanduel.csv').set_index('Nickname')
@@ -107,30 +107,40 @@ def clean_dict(dict_zeros):
 			del dict_zeros[key]
 	return dict_zeros
 
-if __name__=="__main__":
-	start_time = datetime.datetime.now()
-	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in combos.items())
-	rb_dict = clean_dict(rb_dict)
-	wr_dict = clean_dict(wr_dict)
-	qb_dict = clean_dict(qb_dict)
-	total_dict = {(qb_dict[other]['players'], rb_dict[rb]['players'], wr_dict[wr]['players']): \
-		{'salary': total_lineup_all((qb_dict[other]['players'], \
-				rb_dict[rb]['players'], \
-				wr_dict[wr]['players']), 'Salary'),\
-		 'projection': total_lineup_all((qb_dict[other]['players'], \
-				rb_dict[rb]['players'], \
-				wr_dict[wr]['players']), 'Projection')} \
-		for other in qb_dict.keys() \
-		for rb in rb_dict.keys() \
-		for wr in wr_dict.keys() \
-		if total_lineup_all((qb_dict[other]['players'], \
-			rb_dict[rb]['players'], wr_dict[wr]['players']), 'Salary') <= 60000}
+def main():
+        start_time = datetime.datetime.now()
+	for i in combos.items():
+		create_combo_dictionaries(i)
+        rb_dict_clean = clean_dict(rb_dict)
+        wr_dict_clean = clean_dict(wr_dict)
+        qb_dict_clean = clean_dict(qb_dict)
+        total_dict = {(qb_dict_clean[other]['players'], rb_dict_clean[rb]['players'], wr_dict_clean[wr]['players']): \
+                {'salary': total_lineup_all((qb_dict_clean[other]['players'], \
+                                rb_dict_clean[rb]['players'], \
+                                wr_dict_clean[wr]['players']), 'Salary'),\
+                 'projection': total_lineup_all((qb_dict_clean[other]['players'], \
+                                rb_dict_clean[rb]['players'], \
+                                wr_dict_clean[wr]['players']), 'Projection')} \
+                for other in qb_dict_clean.keys() \
+                for rb in rb_dict_clean.keys() \
+                for wr in wr_dict_clean.keys() \
+                if total_lineup_all((qb_dict_clean[other]['players'], \
+                        rb_dict_clean[rb]['players'], wr_dict_clean[wr]['players']), 'Salary') <= 60000}
 
-	max_projection = max([total_dict[x]['projection'] for x in total_dict.keys()])
-	df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort(ascending=False)
-	print (df.head(15))
-	#for key in total_dict.keys():
-	#	print total_dict[key]['projection'], key
-	#	if total_dict[key]['projection'] == max_projection:
-	#		print key
-	print (datetime.datetime.now() - start_time)
+        for x in total_dict.keys():
+                total_dict[x]['players'] = []
+                for plyr_tuple in x:
+			if len(plyr_tuple) == 2:
+                        	total_dict[x]['players'] += list(plyr_tuple)
+			else:
+				total_dict[x]['players'].append(plyr_tuple)
+
+        total_dict = {y['projection']: y['players'] for x,y in total_dict.items()}
+        df = pd.DataFrame.from_dict(total_dict, orient='index').sort_index(ascending=False)
+        print (datetime.datetime.now() - start_time)
+        return df
+
+
+if __name__=="__main__":
+        df = main()
+        print (df.head(15))

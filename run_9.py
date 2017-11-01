@@ -22,7 +22,7 @@ for i in startindex:
 			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
     page = base_page + addon + str(i)
 
-plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
+#plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
 df = pd.read_csv('fanduel_9.csv').set_index('Nickname')
@@ -50,6 +50,18 @@ position_dict = {}
 for pos, frame in grouped:
     position_dict[pos] = frame[frame['Projection'] > min_dict[pos]].to_dict(orient='index')
 
+
+singles_list = ((qb, te, d, k) for qb in position_dict['QB'].keys() \
+				for te in position_dict['TE'].keys() \
+				for d in position_dict['D'].keys() \
+				for k in position_dict['K'])
+
+def create_salary_dict():
+	return {salary: {'players': [], 'projection': 0} for salary in range(0,60100,100)}
+
+rb_dict = create_salary_dict()
+wr_dict = create_salary_dict()
+qb_dict = create_salary_dict()
 
 def total_lineup(combo, key):
     return round(position_dict['QB'][combo[0]][key] + \
@@ -80,18 +92,9 @@ def add_func(position, plyrs, key):
 
 results_dict = {qb: {'salary': 0, 'projection': 0, 'lineup': []} for qb in position_dict['QB'].keys()}
 
-def create_salary_dict():
-	return {salary: {'players': [], 'projection': 0} for salary in range(0,60100,100)}
 
 
 combos = {'RB': 2, 'WR': 3, 'QB': 1}
-rb_dict = create_salary_dict()
-wr_dict = create_salary_dict()
-qb_dict = create_salary_dict()
-singles_list = ((qb, te, d, k) for qb in position_dict['QB'].keys() \
-				for te in position_dict['TE'].keys() \
-				for d in position_dict['D'].keys() \
-				for k in position_dict['K'])
 
 
 def create_combo_dictionaries(combo_args):
@@ -125,24 +128,34 @@ def clean_dict(dict_zeros):
 			del dict_zeros[key]
 	return dict_zeros
 
-if __name__=="__main__":
-	start_time = datetime.datetime.now()
-	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in combos.items())
-	rb_dict = clean_dict(rb_dict)
-	wr_dict = clean_dict(wr_dict)
-	qb_dict = clean_dict(qb_dict)
-	total_dict = {(qb_dict[other]['players'], rb_dict[rb]['players'], wr_dict[wr]['players']): \
-		{'salary': total_lineup_all((qb_dict[other]['players'], \
-				rb_dict[rb]['players'], \
-				wr_dict[wr]['players']), 'Salary'),\
-		 'projection': total_lineup_all((qb_dict[other]['players'], \
-				rb_dict[rb]['players'], \
-				wr_dict[wr]['players']), 'Projection')} \
-		for other in qb_dict.keys() \
-		for rb in rb_dict.keys() \
-		for wr in wr_dict.keys() \
-		if total_lineup_all((qb_dict[other]['players'], \
-			rb_dict[rb]['players'], wr_dict[wr]['players']), 'Salary') <= 60000}
+def main():
+        start_time = datetime.datetime.now()
+	for i in combos.items():
+		create_combo_dictionaries(i)
 
-        df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort(ascending=False)
-        print (df.head(10))
+        rb_dict_clean = clean_dict(rb_dict)
+        wr_dict_clean = clean_dict(wr_dict)
+        qb_dict_clean = clean_dict(qb_dict)
+        total_dict = {(qb_dict_clean[other]['players'], rb_dict_clean[rb]['players'], wr_dict_clean[wr]['players']): \
+                {'salary': total_lineup_all((qb_dict_clean[other]['players'], \
+                                rb_dict_clean[rb]['players'], \
+                                wr_dict_clean[wr]['players']), 'Salary'),\
+                 'projection': total_lineup_all((qb_dict_clean[other]['players'], \
+                                rb_dict_clean[rb]['players'], \
+                                wr_dict_clean[wr]['players']), 'Projection')} \
+                for other in qb_dict_clean.keys() \
+                for rb in rb_dict_clean.keys() \
+                for wr in wr_dict_clean.keys() \
+                if total_lineup_all((qb_dict_clean[other]['players'], \
+                        rb_dict_clean[rb]['players'], wr_dict_clean[wr]['players']), 'Salary') <= 60000}
+        for x in total_dict.keys():
+                total_dict[x]['players'] = []
+                for plyr_tuple in x:
+                        total_dict[x]['players'] += list(plyr_tuple)
+        total_dict = {y['projection']: y['players'] for x,y in total_dict.items()}
+        df = pd.DataFrame.from_dict(total_dict, orient='index').sort_index(ascending=False)
+	return df
+
+if __name__=="__main__":
+	df = main()
+	print (df.head(15))
