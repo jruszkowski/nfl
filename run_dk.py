@@ -22,7 +22,7 @@ for i in startindex:
 			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
     page = base_page + addon + str(i)
 
-plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
+#plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
 df = pd.read_csv('draftkings.csv').set_index('Name')
