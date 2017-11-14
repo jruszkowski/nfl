@@ -184,5 +184,5 @@ if __name__=="__main__":
 
         df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort_index(ascending=False)
         #df = pd.DataFrame.from_dict(total_dict, orient='index')
-        print (df.head(10))
+        print (df.head(20))
 

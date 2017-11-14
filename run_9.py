@@ -8,9 +8,15 @@ import datetime
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
 addon = '?startIndex='
-startindex = list(range(40, 1080, 40))
+startindex = list(range(40, 1000, 40))
 plyr_dict = {}
 page = base_page
+
+def return_int(s):
+	if s == '--':
+		return 0
+	return float(s)
+
 for i in startindex:
     get_page = urllib2.urlopen(page)
     soup = BeautifulSoup(get_page, 'html.parser')
@@ -18,7 +24,7 @@ for i in startindex:
     for row in rows:
         if len(row) == 14:
             if row.a.get_text()!='PLAYER':
-                plyr_dict[row.a.get_text()] = [float(td.string) \
+                plyr_dict[row.a.get_text()] = [return_int(td.string) \
 			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
     page = base_page + addon + str(i)
 
