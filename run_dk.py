@@ -3,7 +3,6 @@ import urllib2
 import pandas as pd
 from itertools import combinations
 import numpy as np
-from joblib import Parallel, delayed
 import datetime
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
@@ -25,7 +24,10 @@ for i in startindex:
 #plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
-df = pd.read_csv('draftkings.csv').set_index('Name')
+df = pd.read_csv('draftkings.csv')
+df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
+df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
+df = df.set_index('Name')
 df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 df = df.reset_index()
 df['Name'] = df['Name'].apply(lambda x: x.strip())
@@ -148,7 +150,6 @@ def total_lineup_all(combo, key):
 
 
 if __name__=="__main__":
-#	Parallel(n_jobs=-1)(delayed(create_combo_dictionaries)(i) for i in flex_combos.keys())
 	for i in flex_combos.keys():
 		create_combo_dictionaries(i)
 	rb_dict = clean_dict(rb_dict)
@@ -157,7 +158,6 @@ if __name__=="__main__":
 	qb_dict = clean_dict_no_key(qb_dict)
 	total_dict = {}
 	for i in flex_combos.keys():
-		print (i)
 		total_dict.update({(qb_dict[salary]['players'], \
 				rb_dict[i][rb]['players'], \
 				wr_dict[i][wr]['players'], \
@@ -182,7 +182,16 @@ if __name__=="__main__":
 				te_dict[i][te]['players'], \
 				), 'Salary') <= 50000})
 
-        df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort_index(ascending=False)
+        for x in total_dict.keys():
+                total_dict[x]['players'] = []
+                for plyr_tuple in x:
+                        total_dict[x]['players'] += list(plyr_tuple)
+
+        total_dict = {y['projection']: y['players'] for x,y in total_dict.items()}
+	columns = ['QB', 'DST', 'RB1', 'RB2', 'RB3', 'WR1', 'WR2', 'WR3', 'TE']	
+        df = pd.DataFrame.from_dict(total_dict, orient='index').sort_index(ascending=False)
+	df.columns = columns
+#        df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort_index(ascending=False)
         #df = pd.DataFrame.from_dict(total_dict, orient='index')
         print (df.head(20))
 

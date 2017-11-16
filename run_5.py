@@ -3,7 +3,6 @@ import urllib2
 import pandas as pd
 from itertools import combinations
 import numpy as np
-from joblib import Parallel, delayed
 import datetime
 
 base_page = 'http://games.espn.com/ffl/tools/projections'
@@ -22,10 +21,13 @@ for i in startindex:
 			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
     page = base_page + addon + str(i)
 
-#plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
-df = pd.read_csv('fanduel.csv').set_index('Nickname')
+df = pd.read_csv('fanduel.csv')
+df = df.drop(df.loc[(df['Nickname'] == 'Michael Thomas') & (df.Team == 'LAR')].index)
+df = df.drop(df.loc[(df['Nickname'] == 'Ryan Griffin') & (df.Team == 'TB')].index)
+df = df.drop(df.loc[(df['Nickname'] == 'Chris Thompson') & (df.Team == 'HOU')].index)
+df = df.set_index('Nickname')
 df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 df = df[df['Injury Indicator'].isnull()]
 df[df['Projection'].isnull()]
