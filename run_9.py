@@ -51,7 +51,7 @@ min_k_projection = df[df['Salary'] == min_salary['K']][df['Position'] == 'K']['P
 min_te_projection = df[df['Salary'] == min_salary['TE']][df['Position'] == 'TE']['Projection'].max()
 min_d_projection = df[df['Salary'] == min_salary['D']][df['Position'] == 'D']['Projection'].max()
 min_dict = {'QB': 1, 'D': 1, 'RB': min_rb_projection, 'WR': min_wr_projection,\
-         'K': min_k_projection, 'TE': min_te_projection, 'D': min_d_projection}
+         'K': min_k_projection, 'TE': min_te_projection}
 
 
 grouped = df.groupby(['Position'])
@@ -167,4 +167,4 @@ def main():
 
 if __name__=="__main__":
 	df = main()
-	print (df.head(15))
+	print (df.head(25))
