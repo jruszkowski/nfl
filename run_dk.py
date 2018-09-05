@@ -5,36 +5,43 @@ from itertools import combinations
 import numpy as np
 import datetime
 
-base_page = 'http://games.espn.com/ffl/tools/projections'
-addon = '?startIndex='
+base_page = 'http://games.espn.com/ffl/tools/projections?&scoringPeriodId=1&seasonId=2018'
+addon = '&startIndex='
 startindex = list(range(40, 1080, 40))
 plyr_dict = {}
 page = base_page
+
+def convert_string(s):
+	try:
+		return float(s)
+	except:
+		return 0.0
+
 for i in startindex:
-    get_page = urllib2.urlopen(page)
-    soup = BeautifulSoup(get_page, 'html.parser')
-    rows = soup.find_all('tr')
-    for row in rows:
-        if len(row) == 14:
-            if row.a.get_text()!='PLAYER':
-                plyr_dict[row.a.get_text()] = [float(td.string) \
-			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
-    page = base_page + addon + str(i)
+	get_page = urllib2.urlopen(page)
+	soup = BeautifulSoup(get_page, 'html.parser')
+	rows = soup.find_all('tr')
+	for row in rows:
+		if len(row) == 14:
+		    if row.a.get_text()!='PLAYER':
+			plyr_dict[row.a.get_text()] = [convert_string(td.string) \
+				for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
+	page = base_page + addon + str(i)
 
 #plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
 d_plyr_dict = {x.split(' ')[0]: y for (x,y) in plyr_dict.items() if x.split(' ')[1] == 'D/ST'}
 
-df = pd.read_csv('draftkings.csv')
-df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
-df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
-df = df.set_index('Name')
+df = pd.read_csv('dk_2.csv').set_index('Name')
 df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 df = df.reset_index()
 df['Name'] = df['Name'].apply(lambda x: x.strip())
+df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
+df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
 df.set_index(['Name'], inplace=True)
 df.loc[df['Position']=='DST', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
 df[df['Projection'].isnull()]
 df = df[df['Projection'] > 1]
+df = df[df['ID']!=11192832]
 
 min_salary = df.groupby(['Position'])['Salary'].agg([np.min])['amin'].to_dict()
 min_rb_projection = df[df['Salary'] == min_salary['RB']][df['Position'] == 'RB']['Projection'].max()
@@ -194,4 +201,3 @@ if __name__=="__main__":
 #        df = pd.DataFrame.from_dict(total_dict, orient='index').reset_index().set_index('projection').sort_index(ascending=False)
         #df = pd.DataFrame.from_dict(total_dict, orient='index')
         print (df.head(20))
-
