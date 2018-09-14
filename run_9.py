@@ -5,8 +5,10 @@ from itertools import combinations
 import numpy as np
 import datetime
 
-base_page = 'http://games.espn.com/ffl/tools/projections?&scoringPeriodId=1&seasonId=2018'
-addon = '&startIndex='
+#base_page = 'http://games.espn.com/ffl/tools/projections?&scoringPeriodId=1&seasonId=2018'
+#addon = '&startIndex='
+base_page = 'http://games.espn.com/ffl/tools/projections?'
+addon = 'startIndex='
 startindex = list(range(40, 1000, 40))
 plyr_dict = {}
 page = base_page
