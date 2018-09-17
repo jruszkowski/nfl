@@ -1,80 +1,118 @@
-from bs4 import BeautifulSoup
-import urllib2
+import sys
+import espn_projections as espn
 import pandas as pd
 from itertools import combinations
 import numpy as np
 from joblib import Parallel, delayed
 import datetime
+from collections import defaultdict
 
-base_page = 'http://games.espn.com/ffl/tools/projections'
-addon = '?startIndex='
-startindex = list(range(40, 1080, 40))
-plyr_dict = {}
-page = base_page
-for i in startindex:
-    get_page = urllib2.urlopen(page)
-    soup = BeautifulSoup(get_page, 'html.parser')
-    rows = soup.find_all('tr')
-    for row in rows:
-        if len(row) == 14:
-            if row.a.get_text()!='PLAYER':
-                plyr_dict[row.a.get_text()] = [float(td.string) \
-			for td in row.find_all('td', {'class': 'playertableStat appliedPoints sortedCell'})][0]
-    page = base_page + addon + str(i)
+plyr_dict, d_plyr_dict = espn.projections()
+f = sys.argv[1]
+df = pd.read_csv('inputs/' + f)
+if f[0] == 'd':
+	df = df.set_index('Name')
+	df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
+	df = df.reset_index()
+	df['Name'] = df['Name'].apply(lambda x: x.strip())
+	df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
+	df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
+	df.set_index(['Name'], inplace=True)
+	df.loc[df['Position']=='DST', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
+	df = df[df['ID']!=11192832]
+elif f[0] == 'f':
+	df = df.drop(df.loc[(df['Nickname'] == 'Michael Thomas') & (df.Team == 'LAR')].index)
+	df = df.drop(df.loc[(df['Nickname'] == 'Ryan Griffin') & (df.Team == 'TB')].index)
+	df = df.drop(df.loc[(df['Nickname'] == 'Chris Thompson') & (df.Team == 'HOU')].index)
+	df = df.set_index('Nickname')
+	df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
+	df = df.reset_index()
+	df.set_index('Last Name', inplace=True)
+	df.loc[df['Position']=='D', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
+	df = df.reset_index().set_index('Nickname')
+	df = df[df['Injury Indicator'].isnull()]
 
-plyr_dict['Todd Gurley II'] = plyr_dict.pop('Todd Gurley')
-
-df = pd.read_csv('fanduel.csv').set_index('Nickname')
-df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
-df = df[df['Injury Indicator'].isnull()]
-df[df['Projection'].isnull()]
 df = df[df['Projection'] > 1]
+
+defense = {'d': 'DST', 'f': 'D'}
+
 min_salary = df.groupby(['Position'])['Salary'].agg([np.min])['amin'].to_dict()
 min_rb_projection = df[df['Salary'] == min_salary['RB']][df['Position'] == 'RB']['Projection'].max()
 min_wr_projection = df[df['Salary'] == min_salary['WR']][df['Position'] == 'WR']['Projection'].max()
-min_dict = {'QB': 1, 'RB': min_rb_projection, 'WR': min_wr_projection}
+min_te_projection = df[df['Salary'] == min_salary['TE']][df['Position'] == 'TE']['Projection'].max()
+min_d_projection = df[df['Salary'] == min_salary[defense[f[0]]]][df['Position'] == defense[f[0]]]['Projection'].max()
+min_qb_projection = df[df['Salary'] == min_salary['QB']][df['Position'] == 'QB']['Projection'].max()
+min_dict = {'QB': min_qb_projection, 'RB': min_rb_projection, 'WR': min_wr_projection,\
+         'TE': min_te_projection, defense[f[0]]: min_d_projection}
 
 grouped = df.groupby(['Position'])
-position_dict = {}
+position_dict = defaultdict()
 for pos, frame in grouped:
     position_dict[pos] = frame[frame['Projection'] > min_dict[pos]].to_dict(orient='index')
 
-def total_lineup(qb, rb, wr, key):
-    return round(position_dict['QB'][qb][key] + \
-        position_dict['RB'][rb[0]][key] + \
-        position_dict['RB'][rb[1]][key] + \
-        position_dict['WR'][wr[0]][key] + \
-        position_dict['WR'][wr[1]][key], 2)
+player_dict = defaultdict()
+for item in position_dict.items():
+	for plyr_name in item[1].keys():
+		player_dict[plyr_name] = item[1][plyr_name]
 
-def run(qb):
-	i = 1
-	optimal_lineup = 0
-	lineup = []
-	for rbs in combinations(position_dict['RB'], 2):
-		for wrs in combinations(position_dict['WR'], 2):
-		    i += 1
-		    salary = total_lineup(qb, rbs, wrs, 'Salary')
-		    if 58000 < salary <= 60000:
-			if total_lineup(qb, rbs, wrs, 'Projection') >= optimal_lineup:
-			    optimal_lineup = total_lineup(qb, rbs, wrs, 'Projection')
-			    lineup = [qb, rbs, wrs]
-			    print (optimal_lineup, salary, lineup)
-	return (optimal_lineup, lineup)
+te_plyr_list = [k for k,v in player_dict.items() if v['Position'] == 'TE']
+rb_plyr_list = [k for k,v in player_dict.items() if v['Position'] == 'RB']
+wr_plyr_list = [k for k,v in player_dict.items() if v['Position'] == 'WR']
+singles_list = [[qb, d] for qb in position_dict['QB'].keys() for d in position_dict[defense[f[0]]].keys()]
 
+def return_combos(plyr_list, count):
+	return list(combinations(plyr_list, count))
 
-def get_combo_list():
-        return [(qb) for qb in position_dict['QB'].keys()]
+te = return_combos(te_plyr_list, 2)
+wr_3 = return_combos(wr_plyr_list, 3)
+wr_4 = return_combos(wr_plyr_list, 4)
+rb_2 = return_combos(rb_plyr_list, 2)
+rb_3 = return_combos(rb_plyr_list, 3)
 
+flex_combos = {
+	1: {'TE': te_plyr_list,
+		'RB': rb_3,
+		'WR': wr_3},
+	2: {'TE': te_plyr_list,
+		'RB': rb_2,
+		'WR': wr_4},
+	3: {'TE': te,
+		'RB': rb_2,
+		'WR': wr_3}
+}
+
+def lineup_list(te, wr, rb, single):
+	team = [x for x in wr] + [y for y in rb] + single
+	if type(te) == str:
+		team = team + [te]
+		return team
+	return team + [x for x in te]
+
+def eligible_lineup(qb_d):
+	lineup_dict = defaultdict(float)
+	c=0
+	for k in flex_combos.keys():
+		for te in flex_combos[k]['TE']:
+			for rb in flex_combos[k]['RB']:
+				for wr in flex_combos[k]['WR']:
+					c+=1
+					team_list = lineup_list(te, wr, rb, qb_d)
+		if sum([player_dict[j]['Salary'] for j in team_list]) <= 50000:
+			lineup_dict[tuple(team_list)] = sum([player_dict[x]['Projection'] for x in team_list])
+	return lineup_dict
 
 if __name__=="__main__":
-        start_time = datetime.datetime.now()
-        results = Parallel(n_jobs=-1)(delayed(run)(i) for i in get_combo_list())
-        max_projection = 0
-        team = []
-        for i in results:
-                if i[0] > max_projection:
-                        max_projection = i[0]
-                        team = i[1]
+	start_time = datetime.datetime.now()
+	results = Parallel(n_jobs=-1)(delayed(eligible_lineup)(qb_d) for qb_d in singles_list)
+	total_dict = defaultdict(float)
+	for d in results:
+		for k, v in d.items():
+			total_dict[k] = v
+	df = pd.DataFrame.from_dict(total_dict, orient='index').sort_values(0, ascending=False).reset_index()
+	df.columns = [['lineup', 'projection']]
+	df[['p1','p2','p3','p4','p5','p6','p7','p8','p9']] = df['lineup'].apply(pd.Series)
+	df = df[['projection','p1','p2','p3','p4','p5','p6','p7','p8','p9']]
+	df.to_csv('results/output_' + sys.argv[1])
 
-        print (datetime.datetime.now() - start_time)
-        print (max_projection, team)
+	print (datetime.datetime.now() - start_time)
+	print (df.head(5))
