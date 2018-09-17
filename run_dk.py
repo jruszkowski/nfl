@@ -8,7 +8,7 @@ from collections import defaultdict
 
 plyr_dict, d_plyr_dict = espn.projections()
 
-df = pd.read_csv('dk_2.csv').set_index('Name')
+df = pd.read_csv('draftkings.csv').set_index('Name')
 df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 df = df.reset_index()
 df['Name'] = df['Name'].apply(lambda x: x.strip())
