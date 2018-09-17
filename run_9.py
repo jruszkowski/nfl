@@ -201,4 +201,5 @@ def main():
 
 if __name__=="__main__":
 	df = main()
+	df.to_csv('output_fd.csv')
 	print (df.head(25))
