@@ -35,15 +35,31 @@ elif f[0] == 'f':
 df = df[df['Projection'] > 1]
 
 defense = {'d': 'DST', 'f': 'D'}
+plyr_names = {'d': 'Name', 'f': 'Nickname'}
 
-min_salary = df.groupby(['Position'])['Salary'].agg([np.min])['amin'].to_dict()
-min_rb_projection = df[df['Salary'] == min_salary['RB']][df['Position'] == 'RB']['Projection'].max()
-min_wr_projection = df[df['Salary'] == min_salary['WR']][df['Position'] == 'WR']['Projection'].max()
-min_te_projection = df[df['Salary'] == min_salary['TE']][df['Position'] == 'TE']['Projection'].max()
-min_d_projection = df[df['Salary'] == min_salary[defense[f[0]]]][df['Position'] == defense[f[0]]]['Projection'].max()
-min_qb_projection = df[df['Salary'] == min_salary['QB']][df['Position'] == 'QB']['Projection'].max()
-min_dict = {'QB': min_qb_projection, 'RB': min_rb_projection, 'WR': min_wr_projection,\
-         'TE': min_te_projection, defense[f[0]]: min_d_projection}
+df = df.reset_index()
+df_pos_salary = df.groupby(['Position', 'Salary'])['Projection'].agg([np.max])['amax']
+df_pos_salary = df_pos_salary.reset_index()
+df = df.merge(df_pos_salary, on=['Position', 'Salary'])
+df = df[df['Projection'] >= df['amax']]
+del df['amax']
+df.set_index(plyr_names[f[0]], inplace=True)
+
+# df_pos = df.groupby(['Position'])['Projection'].agg([np.min])['amin'].reset_index()
+# df = df.merge(df_pos_salary, on=['Position', 'Salary'])
+# df = df[df['Projection'] >= df['amax']]
+
+min_salary = df.groupby(['Position'])['Salary'].agg([np.min]).to_dict()
+min_rb_projection = df[df['Salary'] == min_salary['amin']['RB']][df['Position'] == 'RB']['Projection'].max()
+min_wr_projection = df[df['Salary'] == min_salary['amin']['WR']][df['Position'] == 'WR']['Projection'].max()
+min_te_projection = df[df['Salary'] == min_salary['amin']['TE']][df['Position'] == 'TE']['Projection'].max()
+min_d_projection = df[df['Salary'] == min_salary['amin'][defense[f[0]]]][df['Position'] == defense[f[0]]]['Projection'].max()
+min_qb_projection = df[df['Salary'] == min_salary['amin']['QB']][df['Position'] == 'QB']['Projection'].max()
+min_dict = {'QB': min_qb_projection,
+			'RB': min_rb_projection,
+			'WR': min_wr_projection,
+			'TE': min_te_projection,
+			defense[f[0]]: min_d_projection}
 
 grouped = df.groupby(['Position'])
 position_dict = defaultdict()
@@ -90,15 +106,15 @@ def lineup_list(te, wr, rb, single):
 
 def eligible_lineup(qb_d):
 	lineup_dict = defaultdict(float)
-	c=0
 	for k in flex_combos.keys():
-		for te in flex_combos[k]['TE']:
-			for rb in flex_combos[k]['RB']:
-				for wr in flex_combos[k]['WR']:
-					c+=1
-					team_list = lineup_list(te, wr, rb, qb_d)
-		if sum([player_dict[j]['Salary'] for j in team_list]) <= 50000:
-			lineup_dict[tuple(team_list)] = sum([player_dict[x]['Projection'] for x in team_list])
+		team_list = [lineup_list(te, wr, rb, qb_d) \
+				for te in flex_combos[k]['TE'] \
+						for rb in flex_combos[k]['RB'] \
+								for wr in flex_combos[k]['WR']]
+		print(qb_d, k, len(team_list))
+		for lineup in team_list:
+			if sum([player_dict[j]['Salary'] for j in lineup]) <= 50000:
+				lineup_dict[tuple(lineup)] = sum([player_dict[x]['Projection'] for x in lineup])
 	return lineup_dict
 
 if __name__=="__main__":
