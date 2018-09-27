@@ -1,578 +1,1250 @@
 
-sition","First Name","Nickname","Last Name","FPPG","Played","Salary","Game","Team","Opponent","Injury Indicator","Injury Details","",""
-"21940-28181","RB","Le'Veon","Le'Veon Bell","Bell","17.455556233723957","9","9500","TEN@PIT","PIT","TEN","","","",""
-"21940-52922","RB","Leonard","Leonard Fournette","Fournette","18.32857186453683","7","9300","JAC@CLE","JAC","CLE","Q","Ankle","",""
-"21940-11612","WR","Antonio","Antonio Brown","Brown","15.133332994249132","9","9000","TEN@PIT","PIT","TEN","","","",""
-"21940-70324","QB","Carson","Carson Wentz","Wentz","22.064444647894966","9","8700","PHI@DAL","PHI","DAL","","","",""
-"21940-30447","RB","Todd","Todd Gurley II","Gurley II","21.055555555555557","9","8700","LAR@MIN","LAR","MIN","","","",""
-"21940-45229","RB","Kareem","Kareem Hunt","Hunt","18.122222900390625","9","8600","KC@NYG","KC","NYG","","","",""
-"21940-6498","QB","Tom","Tom Brady","Brady","20.786666870117188","9","8600","NE@OAK","NE","OAK","","","",""
-"21940-38791","RB","Ezekiel","Ezekiel Elliott","Elliott","20.100000381469727","8","8600","PHI@DAL","DAL","PHI","O","Suspension","",""
-"21940-28573","WR","Michael","Michael Thomas","Thomas","11.966666327582466","9","8600","WAS@NO","NO","WAS","","","",""
-"21940-31716","QB","Dak","Dak Prescott","Prescott","21.051111857096355","9","8500","PHI@DAL","DAL","PHI","","","",""
-"21940-22015","QB","Russell","Russell Wilson","Wilson","22.968889024522568","9","8400","ATL@SEA","SEA","ATL","","","",""
-"21940-11460","TE","Rob","Rob Gronkowski","Gronkowski","13.412500381469727","8","8200","NE@OAK","NE","OAK","","","",""
-"21940-22038","QB","Kirk","Kirk Cousins","Cousins","19.21777852376302","9","8200","WAS@NO","WAS","NO","","","",""
-"21940-14211","RB","Mark","Mark Ingram","Ingram","15.32222154405382","9","8200","WAS@NO","NO","WAS","","","",""
-"21940-14626","WR","Doug","Doug Baldwin","Baldwin","12.222222222222221","9","8100","ATL@SEA","SEA","ATL","Q","Groin","",""
-"21940-6504","QB","Drew","Drew Brees","Brees","17.42444525824653","9","8100","WAS@NO","NO","WAS","","","",""
-"21940-29780","TE","Zach","Zach Ertz","Ertz","13.537500381469727","8","8000","PHI@DAL","PHI","DAL","","","",""
-"21940-6654","QB","Matthew","Matthew Stafford","Stafford","18.215555826822918","9","8000","DET@CHI","DET","CHI","","","",""
-"21940-6779","RB","LeSean","LeSean McCoy","McCoy","13.477778116861979","9","8000","BUF@LAC","BUF","LAC","","","",""
-"21940-45859","QB","Derek","Derek Carr","Carr","15.632499694824219","8","8000","NE@OAK","OAK","NE","","","",""
-"21940-38435","QB","Jared","Jared Goff","Goff","18.244444105360245","9","7900","LAR@MIN","LAR","MIN","","","",""
-"21940-8005","QB","Alex","Alex Smith","Smith","21.117777506510418","9","7900","KC@NYG","KC","NYG","","","",""
-"21940-28900","RB","Melvin","Melvin Gordon","Gordon","16.200000339084202","9","7800","BUF@LAC","LAC","BUF","","","",""
-"21940-32384","WR","Mike","Mike Evans","Evans","12.149999618530273","8","7800","TB@MIA","TB","MIA","","","",""
-"21940-14187","WR","A.J.","A.J. Green","Green","13.255555894639757","9","7800","CIN@DEN","CIN","DEN","","","",""
-"21940-16606","WR","DeAndre","DeAndre Hopkins","Hopkins","17.47777811686198","9","7700","ARI@HOU","HOU","ARI","","","",""
-"21940-6589","QB","Ben","Ben Roethlisberger","Roethlisberger","14.368889702690971","9","7700","TEN@PIT","PIT","TEN","","","",""
-"21940-29358","QB","Marcus","Marcus Mariota","Mariota","16.177499771118164","8","7700","TEN@PIT","TEN","PIT","","","",""
-"21940-39716","WR","Adam","Adam Thielen","Thielen","12.933333502875435","9","7700","LAR@MIN","MIN","LAR","","","",""
-"21940-29501","WR","Brandin","Brandin Cooks","Cooks","11.577777438693577","9","7700","NE@OAK","NE","OAK","","","",""
-"21940-14190","WR","Julio","Julio Jones","Jones","11.333333333333334","9","7700","ATL@SEA","ATL","SEA","Q","Ankle","",""
-"21940-14377","QB","Tyrod","Tyrod Taylor","Taylor","15.33999972873264","9","7600","BUF@LAC","BUF","LAC","","","",""
-"21940-11485","WR","Golden","Golden Tate","Tate","12.311111450195312","9","7600","DET@CHI","DET","CHI","","","",""
-"21940-53681","WR","Tyreek","Tyreek Hill","Hill","12.644444783528646","9","7600","KC@NYG","KC","NYG","","","",""
-"21940-42104","RB","Alvin","Alvin Kamara","Kamara","14.88888888888889","9","7500","WAS@NO","NO","WAS","","","",""
-"21940-9392","WR","Michael","Michael Crabtree","Crabtree","12.387499809265137","8","7500","NE@OAK","OAK","NE","","","",""
-"21940-24849","QB","Jameis","Jameis Winston","Winston","13.987500190734863","8","7500","TB@MIA","TB","MIA","O","Shoulder - ac joint","",""
-"21940-33076","TE","Travis","Travis Kelce","Kelce","13.233333163791233","9","7500","KC@NYG","KC","NYG","","","",""
-"21940-25079","WR","Stefon","Stefon Diggs","Diggs","13.599999564034599","7","7500","LAR@MIN","MIN","LAR","","","",""
-"21940-34308","QB","Blake","Blake Bortles","Bortles","14.588889227973091","9","7500","JAC@CLE","JAC","CLE","","","",""
-"21940-42142","RB","Jordan","Jordan Howard","Howard","12.044444613986546","9","7400","DET@CHI","CHI","DET","","","",""
-"21940-11435","WR","Dez","Dez Bryant","Bryant","10.311111450195312","9","7400","PHI@DAL","DAL","PHI","Q","Knee","",""
-"21940-6616","QB","Matt","Matt Ryan","Ryan","15.642222086588541","9","7400","ATL@SEA","ATL","SEA","","","",""
-"21940-7968","QB","Philip","Philip Rivers","Rivers","15.724444919162327","9","7400","BUF@LAC","LAC","BUF","Q","Concussion","",""
-"21940-41872","TE","Evan","Evan Engram","Engram","10.477778116861979","9","7400","KC@NYG","NYG","KC","","","",""
-"21940-31001","WR","Amari","Amari Cooper","Cooper","9.288888719346788","9","7300","NE@OAK","OAK","NE","","","",""
-"21940-22994","QB","Case","Case Keenum","Keenum","15.232500076293945","8","7300","LAR@MIN","MIN","LAR","","","",""
-"21940-29253","WR","Keenan","Keenan Allen","Allen","9.799999660915798","9","7100","BUF@LAC","LAC","BUF","","","",""
-"21940-14704","WR","Chris","Chris Hogan","Hogan","11.5","8","7000","NE@OAK","NE","OAK","D","Shoulder","",""
-"21940-21980","WR","Alshon","Alshon Jeffery","Jeffery","11.222222222222221","9","7000","PHI@DAL","PHI","DAL","","","",""
-"21940-6748","QB","Carson","Carson Palmer","Palmer","15.617142813546318","7","7000","ARI@HOU","ARI","HOU","IR","Arm","",""
-"21940-11512","TE","Jimmy","Jimmy Graham","Graham","10.11111111111111","9","6900","ATL@SEA","SEA","ATL","","","",""
-"21940-6883","WR","Larry","Larry Fitzgerald","Fitzgerald","12.633332994249132","9","6900","ARI@HOU","ARI","HOU","","","",""
-"21940-46882","RB","Jay","Jay Ajayi","Ajayi","8.987500190734863","8","6900","PHI@DAL","PHI","DAL","","","",""
-"21940-29685","WR","Robert","Robert Woods","Woods","11.655555725097656","9","6900","LAR@MIN","LAR","MIN","","","",""
-"21940-24891","RB","Chris","Chris Thompson","Thompson","13.566666497124565","9","6800","WAS@NO","WAS","NO","","","",""
-"21940-31394","WR","Jarvis","Jarvis Landry","Landry","11.88888888888889","9","6800","TB@MIA","MIA","TB","Q","Chest","",""
-"21940-14225","QB","Andy","Andy Dalton","Dalton","13.495555453830296","9","6800","CIN@DEN","CIN","DEN","","","",""
-"21940-11432","WR","Demaryius","Demaryius Thomas","Thomas","10.100000169542101","9","6700","CIN@DEN","DEN","CIN","Q","Knee","",""
-"21940-22103","WR","Marvin","Marvin Jones Jr.","Jones Jr.","11.188888549804688","9","6700","DET@CHI","DET","CHI","","","",""
-"21940-55987","WR","JuJu","JuJu Smith-Schuster","Smith-Schuster","10.733333163791233","9","6700","TEN@PIT","PIT","TEN","","","",""
-"21940-45889","WR","Davante","Davante Adams","Adams","11.822222391764322","9","6700","BAL@GB","GB","BAL","","","",""
-"21940-34331","RB","Latavius","Latavius Murray","Murray","5.611111111111111","9","6600","LAR@MIN","MIN","LAR","","","",""
-"21940-6703","RB","Adrian","Adrian Peterson","Peterson","7.137499809265137","8","6600","ARI@HOU","ARI","HOU","","","",""
-"21940-6714","QB","Joe","Joe Flacco","Flacco","9.704444037543404","9","6600","BAL@GB","BAL","GB","","","",""
-"21940-6898","QB","Jay","Jay Cutler","Cutler","13.082500457763672","8","6600","TB@MIA","MIA","TB","","","",""
-"21940-33259","QB","Teddy","Teddy Bridgewater","Bridgewater","0","0","6500","LAR@MIN","MIN","LAR","","","",""
-"21940-22037","RB","Lamar","Lamar Miller","Miller","12.61111111111111","9","6500","ARI@HOU","HOU","ARI","","","",""
-"21940-6826","QB","Eli","Eli Manning","Manning","14.868889702690971","9","6500","KC@NYG","NYG","KC","","","",""
-"21940-27477","WR","Sterling","Sterling Shepard","Shepard","10.542857578822545","7","6500","KC@NYG","NYG","KC","","","",""
-"21940-29593","WR","Marqise","Marqise Lee","Lee","9.333333333333334","9","6500","JAC@CLE","JAC","CLE","Q","Knee","",""
-"21940-54608","RB","Jerick","Jerick McKinnon","McKinnon","10.077777438693577","9","6400","LAR@MIN","MIN","LAR","","","",""
-"21940-7659","QB","Ryan","Ryan Fitzpatrick","Fitzpatrick","10.925000190734863","4","6400","TB@MIA","TB","MIA","","","",""
-"21940-40442","RB","Aaron","Aaron Jones","Jones","10.09999974568685","6","6400","BAL@GB","GB","BAL","O","Knee - mcl","",""
-"21940-6739","WR","DeSean","DeSean Jackson","Jackson","8.855555216471354","9","6400","TB@MIA","TB","MIA","","","",""
-"21940-38628","QB","Mitchell","Mitchell Trubisky","Trubisky","10.272000122070313","5","6400","DET@CHI","CHI","DET","","","",""
-"21940-6893","WR","Jordy","Jordy Nelson","Nelson","11.037500381469727","8","6400","BAL@GB","GB","BAL","","","",""
-"21940-29915","QB","Brett","Brett Hundley","Hundley","10.50800018310547","5","6300","BAL@GB","GB","BAL","","","",""
-"21940-11505","WR","Emmanuel","Emmanuel Sanders","Sanders","10.185714721679688","7","6300","CIN@DEN","DEN","CIN","","","",""
-"21940-7744","QB","Drew","Drew Stanton","Stanton","10.766666412353516","3","6300","ARI@HOU","ARI","HOU","D","Knee","",""
-"21940-14254","RB","DeMarco","DeMarco Murray","Murray","10.922222561306423","9","6300","TEN@PIT","TEN","PIT","","","",""
-"21940-57537","QB","DeShone","DeShone Kizer","Kizer","12.392499923706055","8","6200","JAC@CLE","CLE","JAC","Q","Ribs","",""
-"21940-21994","QB","Brock","Brock Osweiler","Osweiler","7.560000101725261","3","6200","CIN@DEN","DEN","CIN","Q","Shoulder","",""
-"21940-33260","WR","DeVante","DeVante Parker","Parker","9.799999872843424","6","6200","TB@MIA","MIA","TB","","","",""
-"21940-27229","RB","Ameer","Ameer Abdullah","Abdullah","8.833333333333334","9","6200","DET@CHI","DET","CHI","","","",""
-"21940-24920","RB","Devonta","Devonta Freeman","Freeman","11.633332994249132","9","6100","ATL@SEA","ATL","SEA","D","Concussion","",""
-"21940-24929","WR","Kelvin","Kelvin Benjamin","Benjamin","9.022221883138021","9","6100","BUF@LAC","BUF","LAC","","","",""
-"21940-21970","RB","Doug","Doug Martin","Martin","8.733333587646484","6","6100","TB@MIA","TB","MIA","","","",""
-"21940-33463","QB","Paxton","Paxton Lynch","Lynch","9.793333053588867","3","6100","CIN@DEN","DEN","CIN","","","",""
-"21940-14344","QB","T.J.","T.J. Yates","Yates","0","0","6000","ARI@HOU","HOU","ARI","","","",""
-"21940-29715","QB","Kevin","Kevin Hogan","Hogan","9.694999694824219","4","6000","JAC@CLE","CLE","JAC","","","",""
-"21940-24607","QB","Chad","Chad Kelly","Kelly","0","0","6000","CIN@DEN","DEN","CIN","IR","Wrist","",""
-"21940-62497","RB","David","David Johnson","Johnson","10","1","6000","ARI@HOU","ARI","HOU","IR","Wrist","",""
-"21940-30761","QB","Nathan","Nathan Peterman","Peterman","7.159999847412109","1","6000","BUF@LAC","BUF","LAC","","","",""
-"21940-42028","WR","Will","Will Fuller V","Fuller V","14","6","6000","ARI@HOU","HOU","ARI","D","Ribs","",""
-"21940-24641","WR","Sammy","Sammy Watkins","Watkins","7.966666327582465","9","6000","LAR@MIN","LAR","MIN","","","",""
-"21940-30788","QB","Tyler","Tyler Bray","Bray","0","0","6000","KC@NYG","KC","NYG","","","",""
-"21940-53331","QB","Taylor","Taylor Heinicke","Heinicke","0","0","6000","NE@OAK","NE","OAK","","","",""
-"21940-57439","QB","Patrick","Patrick Mahomes II","Mahomes II","0","0","6000","KC@NYG","KC","NYG","","","",""
-"21940-7283","WR","Jeremy","Jeremy Maclin","Maclin","8.928571428571429","7","6000","BAL@GB","BAL","GB","","","",""
-"21940-27801","QB","Nate","Nate Sudfeld","Sudfeld","0","0","6000","PHI@DAL","PHI","DAL","","","",""
-"21940-11500","QB","Colt","Colt McCoy","McCoy","0","0","6000","WAS@NO","WAS","NO","","","",""
-"21940-22848","QB","Austin","Austin Davis","Davis","-0.10000000149011612","1","6000","ATL@SEA","SEA","ATL","","","",""
-"21940-31047","QB","AJ","AJ McCarron","McCarron","0","0","6000","CIN@DEN","CIN","DEN","","","",""
-"21940-27982","QB","Jake","Jake Rudock","Rudock","0","0","6000","DET@CHI","DET","CHI","","","",""
-"21940-11615","QB","Joe","Joe Webb","Webb","0.11428571598870414","7","6000","BUF@LAC","BUF","LAC","","","",""
-"21940-22894","QB","Kellen","Kellen Moore","Moore","0","0","6000","PHI@DAL","DAL","PHI","","","",""
-"21940-25969","QB","Tom","Tom Savage","Savage","4.019999980926514","4","6000","ARI@HOU","HOU","ARI","","","",""
-"21940-24949","QB","EJ","EJ Manuel","Manuel","7.550000190734863","2","6000","NE@OAK","OAK","NE","","","",""
-"21940-31170","QB","Brandon","Brandon Allen","Allen","0","0","6000","LAR@MIN","LAR","MIN","","","",""
-"21940-21959","QB","Brandon","Brandon Weeden","Weeden","0","0","6000","TEN@PIT","TEN","PIT","","","",""
-"21940-40407","QB","Joshua","Joshua Dobbs","Dobbs","0","0","6000","TEN@PIT","PIT","TEN","","","",""
-"21940-45565","QB","Taysom","Taysom Hill","Hill","0","0","6000","WAS@NO","NO","WAS","","","",""
-"21940-28163","QB","Connor","Connor Cook","Cook","7","1","6000","NE@OAK","OAK","NE","","","",""
-"21940-22027","QB","Nick","Nick Foles","Foles","-0.44999998807907104","2","6000","PHI@DAL","PHI","DAL","","","",""
-"21940-6679","QB","Matt","Matt Schaub","Schaub","0.14666666587193808","3","6000","ATL@SEA","ATL","SEA","","","",""
-"21940-39454","QB","Zac","Zac Dysert","Dysert","0","0","6000","PHI@DAL","DAL","PHI","IR","Back","",""
-"21940-6687","QB","Mark","Mark Sanchez","Sanchez","0.7599999904632568","2","6000","DET@CHI","CHI","DET","","","",""
-"21940-23075","QB","Alex","Alex Tanney","Tanney","0","0","6000","TEN@PIT","TEN","PIT","IR","Foot","",""
-"21940-30253","QB","Jeff","Jeff Driskel","Driskel","0","0","6000","CIN@DEN","CIN","DEN","IR","Thumb","",""
-"21940-29249","RB","C.J.","C.J. Anderson","Anderson","9.033333672417534","9","6000","CIN@DEN","DEN","CIN","","","",""
-"21940-22113","RB","Alfred","Alfred Morris","Morris","2.6142856052943637","7","6000","PHI@DAL","DAL","PHI","","","",""
-"21940-7778","QB","Matt","Matt Cassel","Cassel","2.240000009536743","2","6000","TEN@PIT","TEN","PIT","","","",""
-"21940-8803","QB","Chase","Chase Daniel","Daniel","-0.20000000298023224","1","6000","WAS@NO","NO","WAS","","","",""
-"21940-22163","WR","Rishard","Rishard Matthews","Matthews","9","9","6000","TEN@PIT","TEN","PIT","","","",""
-"21940-6808","QB","Matt","Matt Moore","Moore","9.779999732971191","2","6000","TB@MIA","MIA","TB","","","",""
-"21940-7844","QB","Chad","Chad Henne","Henne","-0.30000001192092896","1","6000","JAC@CLE","JAC","CLE","","","",""
-"21940-44715","QB","Cooper","Cooper Rush","Rush","1.3799999952316284","1","6000","PHI@DAL","DAL","PHI","","","",""
-"21940-7872","QB","Brian","Brian Hoyer","Hoyer","9.711429050990514","7","6000","NE@OAK","NE","OAK","","","",""
-"21940-7919","QB","Kellen","Kellen Clemens","Clemens","-0.10000000149011612","1","6000","BUF@LAC","LAC","BUF","","","",""
-"21940-29445","QB","Sean","Sean Mannion","Mannion","-0.1399999956289927","3","6000","LAR@MIN","LAR","MIN","","","",""
-"21940-27405","QB","Landry","Landry Jones","Jones","5.131428309849331","7","6000","TEN@PIT","PIT","TEN","","","",""
-"21940-28434","QB","Trevor","Trevor Siemian","Siemian","14.808571951729911","7","6000","CIN@DEN","DEN","CIN","","","",""
-"21940-70446","QB","Joe","Joe Callahan","Callahan","0","0","6000","BAL@GB","GB","BAL","","","",""
-"21940-25410","QB","Mike","Mike Glennon","Glennon","9.680000305175781","4","6000","DET@CHI","CHI","DET","","","",""
-"21940-28515","QB","Cardale","Cardale Jones","Jones","2.740000009536743","1","6000","BUF@LAC","LAC","BUF","","","",""
-"21940-55140","QB","Brad","Brad Kaaya","Kaaya","0","0","6000","DET@CHI","DET","CHI","","","",""
-"21940-33647","QB","Kyle","Kyle Sloter","Sloter","0","0","6000","LAR@MIN","MIN","LAR","","","",""
-"21940-14194","QB","Blaine","Blaine Gabbert","Gabbert","13.199999491373697","6","6000","ARI@HOU","ARI","HOU","","","",""
-"21940-26483","QB","Geno","Geno Smith","Smith","-0.10000000149011612","1","6000","KC@NYG","NYG","KC","","","",""
-"21940-39795","QB","Davis","Davis Webb","Webb","0","0","6000","KC@NYG","NYG","KC","","","",""
-"21940-29587","QB","Cody","Cody Kessler","Kessler","1.9700000286102295","2","6000","JAC@CLE","CLE","JAC","","","",""
-"21940-33702","QB","Ryan","Ryan Griffin","Griffin","0","0","6000","TB@MIA","TB","MIA","","","",""
-"21940-30640","QB","Connor","Connor Shaw","Shaw","0","0","6000","DET@CHI","CHI","DET","","","",""
-"21940-14267","QB","Ryan","Ryan Mallett","Mallett","4.96999979019165","2","6000","BAL@GB","BAL","GB","","","",""
-"21940-29683","WR","Nelson","Nelson Agholor","Agholor","9.700000339084202","9","6000","PHI@DAL","PHI","DAL","","","",""
-"21940-27776","RB","Tevin","Tevin Coleman","Coleman","10.299999660915798","9","5900","ATL@SEA","ATL","SEA","","","",""
-"21940-9371","RB","Marshawn","Marshawn Lynch","Lynch","7.962500095367432","8","5900","NE@OAK","OAK","NE","","","",""
-"21940-52442","RB","Joe","Joe Mixon","Mixon","8.811111450195312","9","5900","CIN@DEN","CIN","DEN","","","",""
-"21940-33691","RB","Orleans","Orleans Darkwa","Darkwa","7.787499904632568","8","5900","KC@NYG","NYG","KC","","","",""
-"21940-26610","WR","Paul","Paul Richardson","Richardson","9.866667005750868","9","5900","ATL@SEA","SEA","ATL","","","",""
-"21940-29734","RB","Ty","Ty Montgomery","Montgomery","10.012499809265137","8","5800","BAL@GB","GB","BAL","Q","Ribs","",""
-"21940-29645","RB","Javorius","Javorius Allen","Allen","10.455555386013454","9","5800","BAL@GB","BAL","GB","","","",""
-"21940-14339","RB","Dion","Dion Lewis","Lewis","7.488889058430989","9","5700","NE@OAK","NE","OAK","","","",""
-"21940-54606","WR","John","John Brown","Brown","6.614285605294364","7","5700","ARI@HOU","ARI","HOU","Q","Back","",""
-"21940-6607","WR","Mike","Mike Wallace","Wallace","6.137499809265137","8","5700","BAL@GB","BAL","GB","","","",""
-"21940-22018","WR","Mohamed","Mohamed Sanu","Sanu","8.850000381469727","8","5700","ATL@SEA","ATL","SEA","","","",""
-"21940-27338","RB","Rex","Rex Burkhead","Burkhead","9","5","5700","NE@OAK","NE","OAK","","","",""
-"21940-79970","WR","Cooper","Cooper Kupp","Kupp","8.411110772026909","9","5600","LAR@MIN","LAR","MIN","","","",""
-"21940-25760","WR","Allen","Allen Hurns","Hurns","8.288888719346788","9","5600","JAC@CLE","JAC","CLE","D","Ankle","",""
-"21940-25837","RB","Duke","Duke Johnson Jr.","Johnson Jr.","10.866667005750868","9","5600","JAC@CLE","CLE","JAC","","","",""
-"21940-12554","D","Jacksonville","Jacksonville Jaguars","Jaguars","13.88888888888889","9","5600","JAC@CLE","JAC","CLE","","","",""
-"21940-30989","RB","Kenyan","Kenyan Drake","Drake","3.8111110263400607","9","5600","TB@MIA","MIA","TB","","","",""
-"21940-45439","WR","Corey","Corey Davis","Davis","4.849999904632568","4","5600","TEN@PIT","TEN","PIT","","","",""
-"21940-6627","WR","Ted","Ted Ginn Jr.","Ginn Jr.","9.333333333333334","9","5600","WAS@NO","NO","WAS","","","",""
-"21940-45631","RB","Jamaal","Jamaal Williams","Williams","3.3000000544956754","7","5600","BAL@GB","GB","BAL","","","",""
-"21940-7761","TE","Jared","Jared Cook","Cook","8.155555725097656","9","5600","NE@OAK","OAK","NE","","","",""
-"21940-30298","TE","Jordan","Jordan Reed","Reed","7.766666412353516","6","5600","WAS@NO","WAS","NO","Q","Hamstring","",""
-"21940-54684","RB","Isaiah","Isaiah Crowell","Crowell","9.088889227973091","9","5500","JAC@CLE","CLE","JAC","Q","Shoulder","",""
-"21940-27050","WR","Tyler","Tyler Lockett","Lockett","6.222222222222222","9","5500","ATL@SEA","SEA","ATL","","","",""
-"21940-54782","TE","Cameron","Cameron Brate","Brate","9.211111280653212","9","5500","TB@MIA","TB","MIA","","","",""
-"21940-40843","RB","Alex","Alex Collins","Collins","6.612500190734863","8","5500","BAL@GB","BAL","GB","","","",""
-"21940-30837","WR","Jordan","Jordan Matthews","Matthews","5.037499904632568","8","5400","BUF@LAC","BUF","LAC","Q","Knee","",""
-"21940-24755","WR","Jamison","Jamison Crowder","Crowder","6.237500190734863","8","5400","WAS@NO","WAS","NO","","","",""
-"21940-48344","WR","Albert","Albert Wilson","Wilson","6.171428680419922","7","5400","KC@NYG","KC","NYG","Q","Hamstring","",""
-"21940-52451","RB","Samaje","Samaje Perine","Perine","5.583333333333333","6","5400","WAS@NO","WAS","NO","","","",""
-"21940-28095","RB","Thomas","Thomas Rawls","Rawls","3.566666603088379","6","5400","ATL@SEA","SEA","ATL","","","",""
-"21940-6641","TE","Jason","Jason Witten","Witten","8.311111450195312","9","5400","PHI@DAL","DAL","PHI","","","",""
-"21940-39580","RB","Devontae","Devontae Booker","Booker","6","6","5400","CIN@DEN","DEN","CIN","","","",""
-"21940-25272","TE","Eric","Eric Ebron","Ebron","5.0444446139865455","9","5400","DET@CHI","DET","CHI","","","",""
-"21940-33465","RB","Theo","Theo Riddick","Riddick","7.377777947319879","9","5400","DET@CHI","DET","CHI","","","",""
-"21940-6863","TE","Delanie","Delanie Walker","Walker","7.899999830457899","9","5400","TEN@PIT","TEN","PIT","","","",""
-"21940-40758","RB","Corey","Corey Clement","Clement","7.757142748151507","7","5400","PHI@DAL","PHI","DAL","","","",""
-"21940-14237","TE","Kyle","Kyle Rudolph","Rudolph","7.4777781168619795","9","5400","LAR@MIN","MIN","LAR","","","",""
-"21940-14257","WR","Randall","Randall Cobb","Cobb","7.875","8","5400","BAL@GB","GB","BAL","","","",""
-"21940-8117","WR","Danny","Danny Amendola","Amendola","7.612500190734863","8","5400","NE@OAK","NE","OAK","Q","Knee","",""
-"21940-33766","RB","Rob","Rob Kelley","Kelley","5.885714394705636","7","5400","WAS@NO","WAS","NO","IR","Ankle","",""
-"21940-31732","WR","Corey","Corey Coleman","Coleman","7.599999904632568","2","5400","JAC@CLE","CLE","JAC","IR","Hand","",""
-"21940-14362","TE","Charles","Charles Clay","Clay","8.34999974568685","6","5300","BUF@LAC","BUF","LAC","Q","Knee","",""
-"21940-24675","WR","Martavis","Martavis Bryant","Bryant","5.925000190734863","8","5300","TEN@PIT","PIT","TEN","","","",""
-"21940-40126","TE","Austin","Austin Hooper","Hooper","7.944444444444445","9","5300","ATL@SEA","ATL","SEA","","","",""
-"21940-9421","RB","Danny","Danny Woodhead","Woodhead","5.199999809265137","1","5300","BAL@GB","BAL","GB","IR","Hamstring","",""
-"21940-11495","WR","Brandon","Brandon LaFell","LaFell","6.422222137451172","9","5300","CIN@DEN","CIN","DEN","Q","Knee","",""
-"21940-30968","RB","Eddie","Eddie Lacy","Lacy","2.9166666666666665","6","5300","ATL@SEA","SEA","ATL","Q","Groin","",""
-"21940-26038","TE","Tyler","Tyler Kroft","Kroft","7.512499809265137","8","5300","CIN@DEN","CIN","DEN","","","",""
-"21940-54753","WR","Taylor","Taylor Gabriel","Gabriel","5.533333248562283","9","5300","ATL@SEA","ATL","SEA","","","",""
-"21940-22035","WR","Travis","Travis Benjamin","Benjamin","7.700000339084202","9","5300","BUF@LAC","LAC","BUF","","","",""
-"21940-22109","K","Greg","Greg Zuerlein","Zuerlein","14.555555555555555","9","5300","LAR@MIN","LAR","MIN","","","",""
-"21940-22288","WR","Cole","Cole Beasley","Beasley","6.088888804117839","9","5300","PHI@DAL","DAL","PHI","","","",""
-"21940-54244","WR","Kenny","Kenny Golladay","Golladay","8.274999618530273","4","5300","DET@CHI","DET","CHI","","","",""
-"21940-24589","WR","Jaron","Jaron Brown","Brown","6.244444529215495","9","5200","ARI@HOU","ARI","HOU","","","",""
-"21940-79974","RB","Tarik","Tarik Cohen","Cohen","8.293333265516493","9","5200","DET@CHI","CHI","DET","","","",""
-"21940-24682","RB","Andre","Andre Ellington","Ellington","7.1875","8","5200","ARI@HOU","ARI","HOU","","","",""
-"21940-80001","RB","Austin","Austin Ekeler","Ekeler","6.8666665818956165","9","5200","BUF@LAC","LAC","BUF","","","",""
-"21940-39280","RB","Derrick","Derrick Henry","Henry","7.377777947319879","9","5200","TEN@PIT","TEN","PIT","","","",""
-"21940-26094","WR","Brandon","Brandon Coleman","Coleman","5.966666751437717","9","5200","WAS@NO","NO","WAS","","","",""
-"21940-11779","RB","LeGarrette","LeGarrette Blount","Blount","8.322222391764322","9","5200","PHI@DAL","PHI","DAL","","","",""
-"21940-55830","RB","D'Onta","D'Onta Foreman","Foreman","4.0625","8","5200","ARI@HOU","HOU","ARI","","","",""
-"21940-6870","TE","Vernon","Vernon Davis","Davis","7.222222222222222","9","5200","WAS@NO","WAS","NO","","","",""
-"21940-27441","RB","Damien","Damien Williams","Williams","4.025000095367432","8","5200","TB@MIA","MIA","TB","","","",""
-"21940-32564","WR","Josh","Josh Doctson","Doctson","5.925000190734863","8","5200","WAS@NO","WAS","NO","","","",""
-"21940-28545","RB","Rod","Rod Smith","Smith","3.7750000953674316","4","5200","PHI@DAL","DAL","PHI","","","",""
-"21940-40845","TE","Hunter","Hunter Henry","Henry","7.985714503696987","7","5200","BUF@LAC","LAC","BUF","","","",""
-"21940-12536","D","Kansas City","Kansas City Chiefs","Chiefs","7.777777777777778","9","5100","KC@NYG","KC","NYG","","","",""
-"21940-28930","RB","James","James White","White","9.477778116861979","9","5100","NE@OAK","NE","OAK","","","",""
-"21940-41235","K","Jake","Jake Elliott","Elliott","11.75","8","5100","PHI@DAL","PHI","DAL","","","",""
-"21940-6728","RB","Jamaal","Jamaal Charles","Charles","4.777777777777778","9","5100","CIN@DEN","DEN","CIN","","","",""
-"21940-11864","RB","Chris","Chris Ivory","Ivory","7.244444105360243","9","5100","JAC@CLE","JAC","CLE","","","",""
-"21940-41642","K","Harrison","Harrison Butker","Butker","13.5","6","5100","KC@NYG","KC","NYG","","","",""
-"21940-7900","K","Stephen","Stephen Gostkowski","Gostkowski","10.777777777777779","9","5100","NE@OAK","NE","OAK","","","",""
-"21940-27457","WR","Kenny","Kenny Stills","Stills","9.033333672417534","9","5100","TB@MIA","MIA","TB","","","",""
-"21940-33703","WR","Ryan","Ryan Grant","Grant","5.933333502875434","9","5100","WAS@NO","WAS","NO","Q","Concussion","",""
-"21940-62535","WR","Tyrell","Tyrell Williams","Williams","5.899999830457899","9","5000","BUF@LAC","LAC","BUF","","","",""
-"21940-48380","K","Wil","Wil Lutz","Lutz","10.555555555555555","9","5000","WAS@NO","NO","WAS","","","",""
-"21940-12550","D","Seattle","Seattle Seahawks","Seahawks","10","9","5000","ATL@SEA","SEA","ATL","","","",""
-"21940-53532","WR","Roger","Roger Lewis","Lewis","4.449999809265137","8","5000","KC@NYG","NYG","KC","","","",""
-"21940-44449","WR","Willie","Willie Snead","Snead","-0.20000000298023224","2","5000","WAS@NO","NO","WAS","","","",""
-"21940-30237","RB","Mike","Mike Gillislee","Gillislee","7.1875","8","5000","NE@OAK","NE","OAK","","","",""
-"21940-6782","K","Matt","Matt Prater","Prater","10.555555555555555","9","5000","DET@CHI","DET","CHI","","","",""
-"21940-32613","RB","DeAndre","DeAndre Washington","Washington","5.550000190734863","8","5000","NE@OAK","OAK","NE","","","",""
-"21940-39818","RB","Wayne","Wayne Gallman","Gallman","5.849999745686849","6","5000","KC@NYG","NYG","KC","","","",""
-"21940-14317","TE","Julius","Julius Thomas","Thomas","5.611111111111111","9","5000","TB@MIA","MIA","TB","","","",""
-"21940-31836","WR","Terrance","Terrance Williams","Williams","5.788888719346788","9","4900","PHI@DAL","DAL","PHI","","","",""
-"21940-79967","TE","Adam","Adam Shaheen","Shaheen","3.866666793823242","3","4900","DET@CHI","CHI","DET","","","",""
-"21940-25813","WR","Phillip","Phillip Dorsett","Dorsett","2.7600000381469725","5","4900","NE@OAK","NE","OAK","","","",""
-"21940-24817","TE","Nick","Nick O'Leary","O'Leary","4.899999891008649","7","4900","BUF@LAC","BUF","LAC","","","",""
-"21940-34073","TE","Ryan","Ryan Griffin","Griffin","5.049999872843425","6","4900","ARI@HOU","HOU","ARI","IR","Concussion","",""
-"21940-14645","WR","Dontrelle","Dontrelle Inman","Inman","3.424999952316284","4","4900","DET@CHI","CHI","DET","","","",""
-"21940-43334","RB","J.D.","J.D. McKissic","McKissic","6.716666539510091","6","4900","ATL@SEA","SEA","ATL","","","",""
-"21940-31061","RB","T.J.","T.J. Yeldon","Yeldon","10.966667175292969","3","4900","JAC@CLE","JAC","CLE","","","",""
-"21940-38264","WR","Demarcus","Demarcus Robinson","Robinson","3.2166665395100913","6","4900","KC@NYG","KC","NYG","","","",""
-"21940-54687","RB","Charcandrick","Charcandrick West","West","5.671428680419922","7","4900","KC@NYG","KC","NYG","","","",""
-"21940-23045","K","Justin","Justin Tucker","Tucker","8.88888888888889","9","4900","BAL@GB","BAL","GB","","","",""
-"21940-6672","TE","Marcedes","Marcedes Lewis","Lewis","5.3666665818956165","9","4900","JAC@CLE","JAC","CLE","Q","Knee","",""
-"21940-29314","TE","Richard","Richard Rodgers","Rodgers","1.899999976158142","4","4900","BAL@GB","GB","BAL","","","",""
-"21940-7870","TE","Benjamin","Benjamin Watson","Watson","6.344444274902344","9","4900","BAL@GB","BAL","GB","","","",""
-"21940-25290","RB","Giovani","Giovani Bernard","Bernard","5.711111280653212","9","4900","CIN@DEN","CIN","DEN","","","",""
-"21940-41806","WR","Laquon","Laquon Treadwell","Treadwell","2.5250000953674316","8","4900","LAR@MIN","MIN","LAR","","","",""
-"21940-31871","RB","Charles","Charles Sims","Sims","3.9749999046325684","8","4800","TB@MIA","TB","MIA","","","",""
-"21940-62616","RB","Zach","Zach Zenner","Zenner","1.899999976158142","4","4800","DET@CHI","DET","CHI","","","",""
-"21940-12531","D","Denver","Denver Broncos","Broncos","5.444444444444445","9","4800","CIN@DEN","DEN","CIN","","","",""
-"21940-12532","D","Detroit","Detroit Lions","Lions","11.444444444444445","9","4800","DET@CHI","DET","CHI","","","",""
-"21940-12538","D","Los Angeles","Los Angeles Rams","Rams","12.444444444444445","9","4800","LAR@MIN","LAR","MIN","","","",""
-"21940-6448","TE","Martellus","Martellus Bennett","Bennett","5.074999809265137","8","4800","NE@OAK","NE","OAK","Q","Shoulder","",""
-"21940-54607","RB","Terrance","Terrance West","West","5.420000076293945","5","4800","BAL@GB","BAL","GB","","","",""
-"21940-34154","WR","J.J.","J.J. Nelson","Nelson","6.477777693006727","9","4800","ARI@HOU","ARI","HOU","","","",""
-"21940-6535","WR","Kenny","Kenny Britt","Britt","5.766666412353516","6","4800","JAC@CLE","CLE","JAC","Q","Knee","",""
-"21940-10647","K","Matt","Matt Bryant","Bryant","9.444444444444445","9","4800","ATL@SEA","ATL","SEA","","","",""
-"21940-21957","WR","Kendall","Kendall Wright","Wright","7.142857142857143","7","4800","DET@CHI","CHI","DET","","","",""
-"21940-6636","K","Mike","Mike Nugent","Nugent","7","3","4800","PHI@DAL","DAL","PHI","","","",""
-"21940-22054","WR","Jarius","Jarius Wright","Wright","4.333333333333333","6","4800","LAR@MIN","MIN","LAR","","","",""
-"21940-14952","K","Dan","Dan Bailey","Bailey","7","6","4800","PHI@DAL","DAL","PHI","D","Groin","",""
-"21940-38509","RB","Wendell","Wendell Smallwood","Smallwood","5.100000108991351","7","4800","PHI@DAL","PHI","DAL","","","",""
-"21940-26247","K","Brandon","Brandon McManus","McManus","8.625","8","4800","CIN@DEN","DEN","CIN","","","",""
-"21940-15176","K","Kai","Kai Forbath","Forbath","10.88888888888889","9","4800","LAR@MIN","MIN","LAR","","","",""
-"21940-14288","WR","Torrey","Torrey Smith","Smith","3.922222137451172","9","4800","PHI@DAL","PHI","DAL","","","",""
-"21940-24671","WR","Adam","Adam Humphries","Humphries","5.255555470784505","9","4700","TB@MIA","TB","MIA","","","",""
-"21940-11501","WR","Eric","Eric Decker","Decker","5.177777608235677","9","4700","TEN@PIT","TEN","PIT","","","",""
-"21940-22765","K","Giorgio","Giorgio Tavecchio","Tavecchio","7.333333333333333","9","4700","NE@OAK","OAK","NE","","","",""
-"21940-12545","D","Philadelphia","Philadelphia Eagles","Eagles","9.555555555555555","9","4700","PHI@DAL","PHI","DAL","","","",""
-"21940-12547","D","Pittsburgh","Pittsburgh Steelers","Steelers","8.88888888888889","9","4700","TEN@PIT","PIT","TEN","","","",""
-"21940-12555","D","Baltimore","Baltimore Ravens","Ravens","12.11111111111111","9","4700","BAL@GB","BAL","GB","","","",""
-"21940-32045","TE","Vance","Vance McDonald","McDonald","2.7333332697550454","6","4700","TEN@PIT","PIT","TEN","Q","Ankle","",""
-"21940-32058","K","Chris","Chris Boswell","Boswell","9","9","4700","TEN@PIT","PIT","TEN","","","",""
-"21940-39286","TE","O.J.","O.J. Howard","Howard","5.712500095367432","8","4700","TB@MIA","TB","MIA","","","",""
-"21940-22959","WR","Deonte","Deonte Thompson","Thompson","6.255555470784505","9","4700","BUF@LAC","BUF","LAC","","","",""
-"21940-21971","TE","Coby","Coby Fleener","Fleener","4.399999830457899","9","4700","WAS@NO","NO","WAS","","","",""
-"21940-32257","K","Nick","Nick Rose","Rose","8.25","4","4700","WAS@NO","WAS","NO","","","",""
-"21940-29201","WR","Maurice","Maurice Harris","Harris","12","1","4700","WAS@NO","WAS","NO","","","",""
-"21940-39455","RB","Kerwynn","Kerwynn Williams","Williams","1.9000000423855252","9","4700","ARI@HOU","ARI","HOU","","","",""
-"21940-6724","K","Stephen","Stephen Hauschka","Hauschka","9.222222222222221","9","4700","BUF@LAC","BUF","LAC","","","",""
-"21940-22110","K","Blair","Blair Walsh","Walsh","7.333333333333333","9","4700","ATL@SEA","SEA","ATL","","","",""
-"21940-6767","K","Ryan","Ryan Succop","Succop","11","9","4700","TEN@PIT","TEN","PIT","","","",""
-"21940-29351","WR","De'Anthony","De'Anthony Thomas","Thomas","3.75","8","4700","KC@NYG","KC","NYG","","","",""
-"21940-33472","RB","C.J.","C.J. Prosise","Prosise","3.5","4","4700","ATL@SEA","SEA","ATL","IR","Ankle","",""
-"21940-39649","RB","Benny","Benny Cunningham","Cunningham","3.0428570338657925","7","4700","DET@CHI","CHI","DET","","","",""
-"21940-33552","WR","TJ","TJ Jones","Jones","5.150000095367432","8","4700","DET@CHI","DET","CHI","","","",""
-"21940-33578","RB","Jalen","Jalen Richard","Richard","5.622222052680121","9","4700","NE@OAK","OAK","NE","","","",""
-"21940-26458","WR","Tavon","Tavon Austin","Austin","2.7666666242811413","9","4700","LAR@MIN","LAR","MIN","","","",""
-"21940-15212","WR","Terrelle","Terrelle Pryor Sr.","Pryor Sr.","5","8","4700","WAS@NO","WAS","NO","","","",""
-"21940-39829","WR","Mike","Mike Williams","Williams","1.649999976158142","4","4700","BUF@LAC","LAC","BUF","","","",""
-"21940-14245","RB","Shane","Shane Vereen","Vereen","4.511110941569011","9","4700","KC@NYG","NYG","KC","","","",""
-"21940-28694","TE","Jesse","Jesse James","James","5.899999891008649","7","4600","TEN@PIT","PIT","TEN","","","",""
-"21940-31874","RB","Kenneth","Kenneth Farrow","Farrow","3.0700000762939452","10","4600","BUF@LAC","LAC","BUF","IR","Ankle","",""
-"21940-9442","WR","Brandon","Brandon Tate","Tate","2.066666603088379","6","4600","BUF@LAC","BUF","LAC","","","",""
-"21940-12540","D","Minnesota","Minnesota Vikings","Vikings","6.222222222222222","9","4600","LAR@MIN","MIN","LAR","","","",""
-"21940-12546","D","Arizona","Arizona Cardinals","Cardinals","5.888888888888889","9","4600","ARI@HOU","ARI","HOU","","","",""
-"21940-27908","TE","C.J.","C.J. Fiedorowicz","Fiedorowicz","4.300000190734863","2","4600","ARI@HOU","HOU","ARI","","","",""
-"21940-12551","D","Tampa Bay","Tampa Bay Buccaneers","Buccaneers","6.666666666666667","9","4600","TB@MIA","TB","MIA","","","",""
-"21940-12556","D","Houston","Houston Texans","Texans","7.777777777777778","9","4600","ARI@HOU","HOU","ARI","","","",""
-"21940-55633","WR","Travis","Travis Rudolph","Rudolph","2.3499999046325684","2","4600","KC@NYG","NYG","KC","","","",""
-"21940-38301","TE","Darren","Darren Fells","Fells","4.537499904632568","8","4600","DET@CHI","DET","CHI","","","",""
-"21940-34295","WR","Breshad","Breshad Perriman","Perriman","1.1124999523162842","8","4600","BAL@GB","BAL","GB","","","",""
-"21940-39445","WR","Brice","Brice Butler","Butler","5.162499904632568","8","4600","PHI@DAL","DAL","PHI","","","",""
-"21940-47640","RB","Branden","Branden Oliver","Oliver","2.1200000762939455","5","4600","BUF@LAC","LAC","BUF","","","",""
-"21940-31263","WR","Ricardo","Ricardo Louis","Louis","4.8000000847710504","9","4600","JAC@CLE","CLE","JAC","","","",""
-"21940-6702","K","Phil","Phil Dawson","Dawson","6.444444444444445","9","4600","ARI@HOU","ARI","HOU","","","",""
-"21940-7806","RB","Darren","Darren McFadden","McFadden","-0.20000000298023224","1","4600","PHI@DAL","DAL","PHI","","","",""
-"21940-7831","K","Sebastian","Sebastian Janikowski","Janikowski","9.333333333333334","15","4600","NE@OAK","OAK","NE","IR","Back","",""
-"21940-23194","WR","Josh","Josh Gordon","Gordon","0","0","4600","JAC@CLE","CLE","JAC","O","Suspension","",""
-"21940-47780","WR","Taywan","Taywan Taylor","Taylor","4.033333248562283","9","4600","TEN@PIT","TEN","PIT","","","",""
-"21940-32429","K","Josh","Josh Lambo","Lambo","9.666666666666666","3","4600","JAC@CLE","JAC","CLE","","","",""
-"21940-30403","WR","Chris","Chris Conley","Conley","4.6","5","4600","KC@NYG","KC","NYG","IR","Achilles","",""
-"21940-45791","WR","Rashard","Rashard Higgins","Higgins","3.4749999046325684","8","4600","JAC@CLE","CLE","JAC","","","",""
-"21940-40687","RB","James","James Conner","Conner","1.2625000476837158","8","4600","TEN@PIT","PIT","TEN","","","",""
-"21940-7965","TE","Antonio","Antonio Gates","Gates","3.1888889736599393","9","4600","BUF@LAC","LAC","BUF","","","",""
-"21940-7975","RB","Mike","Mike Tolbert","Tolbert","4","9","4600","BUF@LAC","BUF","LAC","Q","Hamstring","",""
-"21940-30709","WR","Bruce","Bruce Ellington","Ellington","5.724999904632568","8","4600","ARI@HOU","HOU","ARI","","","",""
-"21940-14336","RB","Jacquizz","Jacquizz Rodgers","Rodgers","4.012499809265137","8","4500","TB@MIA","TB","MIA","","","",""
-"21940-14348","TE","Lee","Lee Smith","Smith","2.1666666666666665","3","4500","NE@OAK","OAK","NE","","","",""
-"21940-30733","WR","Cordarrelle","Cordarrelle Patterson","Patterson","4.255555470784505","9","4500","NE@OAK","OAK","NE","","","",""
-"21940-23569","TE","Rico","Rico Gathers","Gathers","0","0","4500","PHI@DAL","DAL","PHI","IR","Concussion","",""
-"21940-40977","TE","Ricky","Ricky Seals-Jones","Seals-Jones","0","1","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-14355","TE","Niles","Niles Paul","Paul","0.949999988079071","4","4500","WAS@NO","WAS","NO","Q","Concussion","",""
-"21940-14358","WR","Dwayne","Dwayne Harris","Harris","0","4","4500","KC@NYG","NYG","KC","IR","Foot","",""
-"21940-29725","TE","Levine","Levine Toilolo","Toilolo","1.8799999237060547","5","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-14369","RB","Jordan","Jordan Todman","Todman","0","1","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-56356","WR","Isaiah","Isaiah Ford","Ford","0","0","4500","TB@MIA","MIA","TB","IR","Knee - meniscus","",""
-"21940-55335","TE","David","David Njoku","Njoku","5.266666836208767","9","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-62508","TE","James","James O'Shaughnessy","O'Shaughnessy","1.028571401323591","7","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-62510","TE","Nick","Nick Boyle","Boyle","3.0999999046325684","8","4500","BAL@GB","BAL","GB","","","",""
-"21940-25654","RB","Tommy","Tommy Bohanon","Bohanon","1.662500023841858","8","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-30775","WR","Justin","Justin Hunter","Hunter","1.099999984105428","3","4500","TEN@PIT","PIT","TEN","","","",""
-"21940-62519","WR","Tre","Tre McBride","McBride","4.333333333333333","3","4500","DET@CHI","CHI","DET","","","",""
-"21940-14394","TE","Virgil","Virgil Green","Green","3.75","6","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-7244","RB","John","John Kuhn","Kuhn","0.20000000298023224","1","4500","WAS@NO","NO","WAS","IR","Biceps","",""
-"21940-30807","TE","Mychal","Mychal Rivera","Rivera","3.4200000762939453","10","4500","JAC@CLE","JAC","CLE","IR","Wrist","",""
-"21940-25694","RB","Andre","Andre Williams","Williams","8.699999809265137","1","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-79972","WR","Chad","Chad Williams","Williams","1.649999976158142","2","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-29805","TE","Ryan","Ryan Hewitt","Hewitt","2.0999999046325684","1","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-79980","TE","Eric","Eric Saubert","Saubert","0","0","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-79983","RB","De'Angelo","De'Angelo Henderson","Henderson","0.10000000149011612","1","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-27771","WR","Cody","Cody Latimer","Latimer","2.683333396911621","6","4500","CIN@DEN","DEN","CIN","Q","Knee","",""
-"21940-79998","WR","Keelan","Keelan Cole","Cole","3.211111068725586","9","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-80011","TE","Antony","Antony Auclair","Auclair","0","0","4500","TB@MIA","TB","MIA","","","",""
-"21940-24718","WR","Max","Max McCaffrey","McCaffrey","0.44999998807907104","2","4500","BAL@GB","GB","BAL","","","",""
-"21940-28815","RB","Akeem","Akeem Hunt","Hunt","0.11249999701976776","8","4500","KC@NYG","KC","NYG","","","",""
-"21940-62617","TE","Khari","Khari Lee","Lee","0","1","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-11419","RB","C.J.","C.J. Spiller","Spiller","0","1","4500","KC@NYG","KC","NYG","","","",""
-"21940-46244","RB","Donnel","Donnel Pumphrey","Pumphrey","0","0","4500","PHI@DAL","PHI","DAL","IR","Hamstring","",""
-"21940-11431","TE","Jermaine","Jermaine Gresham","Gresham","5.712500095367432","8","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-62633","TE","Matt","Matt Lengel","Lengel","4.599999904632568","2","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-29866","RB","Paul","Paul Perkins","Perkins","3.2750000953674316","4","4500","KC@NYG","NYG","KC","","","",""
-"21940-25775","TE","Clive","Clive Walford","Walford","0.5333333412806193","3","4500","NE@OAK","OAK","NE","","","",""
-"21940-25783","RB","Mike","Mike James","James","2.0333333015441895","3","4500","DET@CHI","DET","CHI","IR","Concussion","",""
-"21940-52410","WR","Josh","Josh Malone","Malone","3.3499999046325684","4","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-25789","WR","Rashawn","Rashawn Scott","Scott","0","0","4500","TB@MIA","MIA","TB","","","",""
-"21940-9409","TE","Clark","Clark Harris","Harris","0","0","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-11457","WR","Arrelious","Arrelious Benn","Benn","0.8500000238418579","2","4500","JAC@CLE","JAC","CLE","Q","Knee","",""
-"21940-41155","RB","Taquan","Taquan Mizzell","Mizzell","0","0","4500","DET@CHI","CHI","DET","","","",""
-"21940-41163","WR","Keeon","Keeon Johnson","Johnson","0","0","4500","KC@NYG","NYG","KC","IR","Foot","",""
-"21940-28890","RB","Derek","Derek Watt","Watt","0.8500000238418579","2","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-45278","WR","Bernard","Bernard Reedy","Reedy","0.5333333545260959","9","4500","TB@MIA","TB","MIA","","","",""
-"21940-25827","TE","Asante","Asante Cleveland","Cleveland","0","0","4500","BUF@LAC","LAC","BUF","IR","Undisclosed","",""
-"21940-40170","WR","Stacy","Stacy Coley","Coley","0","1","4500","LAR@MIN","MIN","LAR","","","",""
-"21940-28907","WR","Alex","Alex Erickson","Erickson","1.4555555979410808","9","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-29932","K","Ka'imi","Ka'imi Fairbairn","Fairbairn","6.888888888888889","9","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-12526","D","Buffalo","Buffalo Bills","Bills","7.666666666666667","9","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-11504","WR","Andre","Andre Roberts","Roberts","0.18888889418707955","9","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-12528","D","Cincinnati","Cincinnati Bengals","Bengals","7.333333333333333","9","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-39153","TE","Ifeanyi","Ifeanyi Momah","Momah","5.099999904632568","1","4500","ARI@HOU","ARI","HOU","IR","Leg","",""
-"21940-45299","RB","David","David Fluellen","Fluellen","1.0499999523162842","2","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-12533","D","Green Bay","Green Bay Packers","Packers","6.666666666666667","9","4500","BAL@GB","GB","BAL","","","",""
-"21940-33013","RB","Tion","Tion Green","Green","0","0","4500","DET@CHI","DET","CHI","","","",""
-"21940-45307","WR","Rodney","Rodney Adams","Adams","0","0","4500","LAR@MIN","MIN","LAR","","","",""
-"21940-12541","D","New England","New England Patriots","Patriots","6.555555555555555","9","4500","NE@OAK","NE","OAK","","","",""
-"21940-29949","WR","Marvin","Marvin Hall","Hall","5.25","2","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-12542","D","New Orleans","New Orleans Saints","Saints","11","9","4500","WAS@NO","NO","WAS","","","",""
-"21940-62718","TE","Daniel","Daniel Brown","Brown","2.3499999046325684","2","4500","DET@CHI","CHI","DET","","","",""
-"21940-32000","TE","Luke","Luke Willson","Willson","4.150000095367432","8","4500","ATL@SEA","SEA","ATL","","","",""
-"21940-28933","WR","Jared","Jared Abbrederis","Abbrederis","2.950000047683716","2","4500","DET@CHI","DET","CHI","","","",""
-"21940-30990","RB","Jalston","Jalston Fowler","Fowler","2.133333365122477","3","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-24847","TE","Will","Will Tye","Tye","2.9000000953674316","2","4500","NE@OAK","NE","OAK","","","",""
-"21940-22800","RB","Derrick","Derrick Coleman","Coleman","0.949999988079071","4","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-11543","TE","Clay","Clay Harbor","Harbor","1.7000000476837158","2","4500","WAS@NO","NO","WAS","IR","Undisclosed","",""
-"21940-33047","WR","Chris","Chris Moore","Moore","4.820000076293946","5","4500","BAL@GB","BAL","GB","","","",""
-"21940-34071","WR","Nick","Nick Williams","Williams","4.5","1","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-45335","TE","Michael","Michael Roberts","Roberts","1","2","4500","DET@CHI","DET","CHI","","","",""
-"21940-55577","WR","Hunter","Hunter Sharp","Sharp","0","1","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-6427","K","Connor","Connor Barth","Barth","5.666666666666667","9","4500","DET@CHI","CHI","DET","","","",""
-"21940-24862","WR","Rashad","Rashad Greene Sr.","Greene Sr.","0.4625000059604645","8","4500","JAC@CLE","JAC","CLE","IR","Undisclosed","",""
-"21940-29985","WR","Jaydon","Jaydon Mickens","Mickens","3.799999952316284","2","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-11556","TE","Michael","Michael Hoomanawanui","Hoomanawanui","2.7399999618530275","5","4500","WAS@NO","NO","WAS","","","",""
-"21940-46374","WR","Tanner","Tanner Gentry","Gentry","1.25","4","4500","DET@CHI","CHI","DET","","","",""
-"21940-29991","RB","Bishop","Bishop Sankey","Sankey","0","0","4500","LAR@MIN","MIN","LAR","IR","Knee - acl","",""
-"21940-30004","WR","Kasen","Kasen Williams","Williams","2.1499999364217124","6","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-31036","WR","Kevin","Kevin Norwood","Norwood","0","0","4500","KC@NYG","NYG","KC","IR","Hip","",""
-"21940-29003","RB","Ka'Deem","Ka'Deem Carey","Carey","1.8727273074063389","11","4500","DET@CHI","CHI","DET","","","",""
-"21940-34125","WR","Geremy","Geremy Davis","Davis","0","3","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-52560","WR","Geronimo","Geronimo Allison","Allison","3.7000001271565757","6","4500","BAL@GB","GB","BAL","","","",""
-"21940-32082","WR","Jordan","Jordan Taylor","Taylor","2.199999968210856","3","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-55635","WR","Chris","Chris Godwin","Godwin","2.700000047683716","8","4500","TB@MIA","TB","MIA","","","",""
-"21940-41305","WR","Zay","Zay Jones","Jones","3.8499999046325684","8","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-14683","RB","Patrick","Patrick DiMarco","DiMarco","0.8800000190734864","5","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-54621","WR","Walter","Walter Powell","Powell","3.028571537562779","7","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-54623","WR","Jeff","Jeff Janis","Janis","0","2","4500","BAL@GB","GB","BAL","","","",""
-"21940-33137","WR","Justin","Justin Hardy","Hardy","4.983333269755046","6","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-22898","RB","Brandon","Brandon Bolden","Bolden","0.10000000149011612","1","4500","NE@OAK","NE","OAK","","","",""
-"21940-43397","WR","Carlos","Carlos Henderson","Henderson","0","0","4500","CIN@DEN","DEN","CIN","IR","Thumb","",""
-"21940-53639","WR","Isaiah","Isaiah McKenzie","McKenzie","-0.15000000596046448","8","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-22920","TE","Derek","Derek Carrier","Carrier","1.2600000381469727","5","4500","LAR@MIN","LAR","MIN","Q","Hamstring","",""
-"21940-39305","TE","A.J.","A.J. Derby","Derby","4.655555725097656","9","4500","CIN@DEN","DEN","CIN","Q","Shoulder","",""
-"21940-53645","RB","Elijah","Elijah Hood","Hood","0","0","4500","NE@OAK","OAK","NE","","","",""
-"21940-55694","WR","Michael","Michael Thomas","Thomas","0.45714286395481657","7","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-54674","WR","Jeremy","Jeremy Butler","Butler","1.0499999523162842","2","4500","BUF@LAC","BUF","LAC","IR","Concussion","",""
-"21940-28055","WR","Amara","Amara Darboh","Darboh","1.4666666984558105","6","4500","ATL@SEA","SEA","ATL","","","",""
-"21940-41370","WR","Trevor","Trevor Davis","Davis","0.4124999940395355","8","4500","BAL@GB","GB","BAL","","","",""
-"21940-28065","WR","Jehu","Jehu Chesson","Chesson","0.5","3","4500","KC@NYG","KC","NYG","","","",""
-"21940-54690","WR","Freddie","Freddie Martino","Martino","0","1","4500","TB@MIA","TB","MIA","","","",""
-"21940-47523","WR","Tajae","Tajae Sharpe","Sharpe","5.300000190734863","16","4500","TEN@PIT","TEN","PIT","IR","Foot","",""
-"21940-14761","WR","Andre","Andre Holmes","Holmes","4.412499904632568","8","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-22958","RB","Bobby","Bobby Rainey","Rainey","2.625","4","4500","BAL@GB","BAL","GB","","","",""
-"21940-40371","TE","Johnny","Johnny Mundt","Mundt","0","0","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-32185","RB","Zach","Zach Line","Line","0.32499998807907104","4","4500","WAS@NO","NO","WAS","","","",""
-"21940-26045","WR","Leonte","Leonte Carroo","Carroo","2.5999999046325684","4","4500","TB@MIA","MIA","TB","","","",""
-"21940-21952","WR","Michael","Michael Floyd","Floyd","1.5333333015441895","3","4500","LAR@MIN","MIN","LAR","","","",""
-"21940-31169","TE","Jeremy","Jeremy Sprinkle","Sprinkle","0","1","4500","WAS@NO","WAS","NO","","","",""
-"21940-26057","RB","Michael","Michael Burton","Burton","0.6666666666666666","3","4500","DET@CHI","CHI","DET","","","",""
-"21940-39369","K","Zane","Zane Gonzalez","Gonzalez","4.777777777777778","9","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-28106","RB","Joe","Joe Kerridge","Kerridge","0","1","4500","BAL@GB","GB","BAL","","","",""
-"21940-39373","WR","Jaelen","Jaelen Strong","Strong","3.3500000635782876","6","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-21972","WR","Brian","Brian Quick","Quick","4","2","4500","WAS@NO","WAS","NO","Q","Concussion","",""
-"21940-54741","WR","Seth","Seth Roberts","Roberts","4.0625","8","4500","NE@OAK","OAK","NE","","","",""
-"21940-23003","TE","Phillip","Phillip Supernaw","Supernaw","3.133333206176758","3","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-33244","WR","Eli","Eli Rogers","Rogers","1.433333396911621","6","4500","TEN@PIT","PIT","TEN","","","",""
-"21940-6622","WR","Eric","Eric Weems","Weems","0.2","5","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-31207","TE","C.J.","C.J. Uzomah","Uzomah","1.350000023841858","4","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-32234","RB","Malcolm","Malcolm Brown","Brown","3.8428570883614674","7","4500","LAR@MIN","LAR","MIN","O","Knee - mcl","",""
-"21940-32235","WR","Marcus","Marcus Johnson","Johnson","0.6400000095367432","5","4500","PHI@DAL","PHI","DAL","","","",""
-"21940-27117","TE","Sean","Sean Culkin","Culkin","0","0","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-60910","WR","Dede","Dede Westbrook","Westbrook","0","0","4500","JAC@CLE","JAC","CLE","IR","Abdomen","",""
-"21940-21999","WR","Rueben","Rueben Randle","Randle","0","0","4500","DET@CHI","CHI","DET","","","",""
-"21940-28144","TE","Dion","Dion Sims","Sims","3.633333206176758","6","4500","DET@CHI","CHI","DET","Q","Illness","",""
-"21940-22004","TE","Dwayne","Dwayne Allen","Allen","1.5199999809265137","5","4500","NE@OAK","NE","OAK","","","",""
-"21940-11766","TE","Jeff","Jeff Cumberland","Cumberland","0","0","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-28157","WR","Bennie","Bennie Fowler","Fowler","4.888888888888889","9","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-29183","RB","D.J.","D.J. Foster","Foster","1.0333333015441895","3","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-41475","WR","John","John Ross","Ross","-0.26666667064030963","3","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-23046","RB","Jamize","Jamize Olawale","Olawale","2.5250000953674316","4","4500","NE@OAK","OAK","NE","Q","Hamstring","",""
-"21940-31241","WR","Sammie","Sammie Coates","Coates","2.174999952316284","4","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-80400","RB","Lenard","Lenard Tillery","Tillery","0","0","4500","LAR@MIN","LAR","MIN","IR","Undisclosed","",""
-"21940-40477","TE","Keith","Keith Towbridge","Towbridge","0","0","4500","BUF@LAC","BUF","LAC","IR","Undisclosed","",""
-"21940-31269","RB","Corey","Corey Grant","Grant","4.214285714285714","7","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-7718","RB","Cedric","Cedric Peerman","Peerman","1.5","1","4500","CIN@DEN","CIN","DEN","IR","Shoulder","",""
-"21940-33320","RB","Senorise","Senorise Perry","Perry","0","1","4500","TB@MIA","MIA","TB","Q","Knee","",""
-"21940-38441","RB","Justin","Justin Davis","Davis","0.10000000149011612","1","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-31280","K","Cody","Cody Parkey","Parkey","5.5","8","4500","TB@MIA","MIA","TB","","","",""
-"21940-22065","TE","Rhett","Rhett Ellison","Ellison","2.8500000635782876","6","4500","KC@NYG","NYG","KC","","","",""
-"21940-62002","RB","Devante","Devante Mays","Mays","0","0","4500","BAL@GB","GB","BAL","","","",""
-"21940-39492","TE","Josh","Josh Hill","Hill","1.975000023841858","4","4500","WAS@NO","NO","WAS","","","",""
-"21940-12872","RB","James","James Develin","Develin","1.2199999809265136","5","4500","NE@OAK","NE","OAK","","","",""
-"21940-32331","RB","Tra","Tra Carson","Carson","0","0","4500","CIN@DEN","CIN","DEN","IR","Undisclosed","",""
-"21940-43599","TE","Andrew","Andrew Price","Price","0","0","4500","DET@CHI","DET","CHI","","","",""
-"21940-22100","K","Randy","Randy Bullock","Bullock","6","7","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-6742","TE","Brent","Brent Celek","Celek","1.7833333015441895","6","4500","PHI@DAL","PHI","DAL","","","",""
-"21940-30297","TE","Trey","Trey Burton","Burton","4.085714340209961","7","4500","PHI@DAL","PHI","DAL","","","",""
-"21940-31321","RB","Jay","Jay Prosch","Prosch","1.4500000476837158","2","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-29277","TE","Stephen","Stephen Anderson","Anderson","3.762500047683716","8","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-7784","WR","Darrius","Darrius Heyward-Bey","Heyward-Bey","1.7333332697550456","3","4500","TEN@PIT","PIT","TEN","","","",""
-"21940-64104","RB","Terrell","Terrell Watson","Watson","0.13333333532015482","6","4500","TEN@PIT","PIT","TEN","","","",""
-"21940-29290","WR","Bryce","Bryce Treggs","Treggs","1.8","5","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-22123","TE","James","James Hanna","Hanna","3.1000000635782876","3","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-30326","RB","Keith","Keith Marshall","Marshall","0","0","4500","WAS@NO","WAS","NO","IR","Knee","",""
-"21940-29304","RB","Daniel","Daniel Lasco II","Lasco II","1.7666667302449544","3","4500","WAS@NO","NO","WAS","IR","Neck","",""
-"21940-6778","TE","Anthony","Anthony Fasano","Fasano","3.5","4","4500","TB@MIA","MIA","TB","","","",""
-"21940-38523","TE","Geoff","Geoff Swaim","Swaim","1.75","2","4500","PHI@DAL","DAL","PHI","Q","Knee","",""
-"21940-27273","RB","Andy","Andy Janovich","Janovich","0.6400000095367432","5","4500","CIN@DEN","DEN","CIN","","","",""
-"21940-33418","TE","Alan","Alan Cross","Cross","1.0499999523162842","2","4500","TB@MIA","TB","MIA","","","",""
-"21940-28311","TE","MarQueis","MarQueis Gray","Gray","0.15000000596046448","2","4500","TB@MIA","MIA","TB","","","",""
-"21940-45723","TE","Crockett","Crockett Gillmore","Gillmore","3.4200000762939453","5","4500","BAL@GB","BAL","GB","IR","Knee","",""
-"21940-80546","WR","Dan","Dan Arnold","Arnold","0","0","4500","WAS@NO","NO","WAS","IR","Undisclosed","",""
-"21940-29357","RB","Kenjon","Kenjon Barner","Barner","1.150000015894572","6","4500","PHI@DAL","PHI","DAL","","","",""
-"21940-31406","RB","Alfred","Alfred Blue","Blue","1.433333396911621","3","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-7856","WR","Matthew","Matthew Slater","Slater","-0.375","4","4500","NE@OAK","NE","OAK","D","Hamstring","",""
-"21940-25267","WR","Mack","Mack Hollins","Hollins","5.540000152587891","5","4500","PHI@DAL","PHI","DAL","","","",""
-"21940-22198","WR","Brittan","Brittan Golden","Golden","3.1666666666666665","3","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-28346","TE","Maxx","Maxx Williams","Williams","2.200000047683716","4","4500","BAL@GB","BAL","GB","","","",""
-"21940-70335","TE","Seth","Seth DeValve","DeValve","4.5444446139865455","9","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-52931","RB","Elijhaa","Elijhaa Penny","Penny","0.6000000238418579","2","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-70342","TE","Temarrick","Temarrick Hemingway","Hemingway","0","0","4500","LAR@MIN","LAR","MIN","IR","Lower leg","",""
-"21940-22220","TE","Sean","Sean McGrath","McGrath","1.5","1","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-30412","WR","Tavarres","Tavarres King","King","4.025000095367432","4","4500","KC@NYG","NYG","KC","","","",""
-"21940-16078","TE","Ross","Ross Travis","Travis","0.8666666348775228","6","4500","KC@NYG","KC","NYG","","","",""
-"21940-33488","TE","Troy","Troy Niklas","Niklas","2.0999999727521623","7","4500","ARI@HOU","ARI","HOU","","","",""
-"21940-40665","RB","Matthew","Matthew Dayes","Dayes","0.9600000381469727","5","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-30428","WR","Malcolm","Malcolm Mitchell","Mitchell","6.674999872843425","12","4500","NE@OAK","NE","OAK","IR","Knee","",""
-"21940-40669","WR","Tyler","Tyler Boyd","Boyd","1.8250000476837158","4","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-38624","RB","T.J.","T.J. Logan","Logan","0","0","4500","ARI@HOU","ARI","HOU","IR","Wrist","",""
-"21940-38634","WR","Ryan","Ryan Switzer","Switzer","0.08888889021343654","9","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-44784","RB","Darius","Darius Jackson","Jackson","0","0","4500","JAC@CLE","CLE","JAC","IR","Knee","",""
-"21940-6897","K","Mason","Mason Crosby","Crosby","6.555555555555555","9","4500","BAL@GB","GB","BAL","","","",""
-"21940-22258","RB","Travaris","Travaris Cadet","Cadet","4.400000095367432","1","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-26355","TE","Logan","Logan Thomas","Thomas","3.549999952316284","4","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-54007","TE","Jacob","Jacob Hollister","Hollister","1.0399999618530273","5","4500","NE@OAK","NE","OAK","","","",""
-"21940-33531","TE","Ben","Ben Koyack","Koyack","0.949999988079071","4","4500","JAC@CLE","JAC","CLE","","","",""
-"21940-45821","WR","Isaiah","Isaiah Burse","Burse","0","8","4500","BUF@LAC","LAC","BUF","IR","Concussion","",""
-"21940-47870","TE","Tyler","Tyler Higbee","Higbee","3.933333502875434","9","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-26384","RB","Trey","Trey Edmunds","Edmunds","3.6000000635782876","3","4500","WAS@NO","NO","WAS","","","",""
-"21940-15121","WR","Chris","Chris Matthews","Matthews","1.3333333333333333","3","4500","BAL@GB","BAL","GB","","","",""
-"21940-27411","RB","Aaron","Aaron Ripkowski","Ripkowski","1.0500000317891438","6","4500","BAL@GB","GB","BAL","","","",""
-"21940-22292","RB","Lance","Lance Dunbar","Dunbar","3.0999999046325684","1","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-28437","RB","Danny","Danny Vitale","Vitale","0.9333333174387614","3","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-70422","WR","Kalif","Kalif Raymond","Raymond","-1","2","4500","KC@NYG","NYG","KC","","","",""
-"21940-22308","RB","Joe","Joe Banyard","Banyard","0.699999988079071","1","4500","BUF@LAC","BUF","LAC","","","",""
-"21940-31524","WR","Cody","Cody Core","Core","0","2","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-29477","TE","Connor","Connor Hamlett","Hamlett","8.199999809265137","1","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-32556","WR","Deante'","Deante' Gray","Gray","0","0","4500","ARI@HOU","HOU","ARI","IR","Knee - acl","",""
-"21940-10030","WR","Harry","Harry Douglas","Douglas","4.071428571428571","7","4500","TEN@PIT","TEN","PIT","IR","Knee","",""
-"21940-28463","WR","Austin","Austin Carr","Carr","0","0","4500","WAS@NO","NO","WAS","","","",""
-"21940-43826","WR","Tommylee","Tommylee Lewis","Lewis","1.8142856870378767","7","4500","WAS@NO","NO","WAS","","","",""
-"21940-41780","WR","Chris","Chris Thompson","Thompson","0.6000000238418579","4","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-70454","WR","Jace","Jace Billingsley","Billingsley","0","0","4500","DET@CHI","DET","CHI","","","",""
-"21940-12090","K","Nick","Nick Novak","Novak","5","5","4500","BUF@LAC","LAC","BUF","","","",""
-"21940-29500","WR","Markus","Markus Wheaton","Wheaton","0.4666666587193807","3","4500","DET@CHI","CHI","DET","","","",""
-"21940-22336","WR","Josh","Josh Bellamy","Bellamy","7.275000095367432","4","4500","DET@CHI","CHI","DET","","","",""
-"21940-38722","TE","Cethan","Cethan Carter","Carter","0","1","4500","CIN@DEN","CIN","DEN","","","",""
-"21940-70467","WR","Andy","Andy Jones","Jones","0","0","4500","DET@CHI","DET","CHI","","","",""
-"21940-70468","WR","Ed","Ed Eagan","Eagan","0","4","4500","KC@NYG","NYG","KC","","","",""
-"21940-28487","TE","Jeff","Jeff Heuerman","Heuerman","2.7333332697550454","6","4500","CIN@DEN","DEN","CIN","Q","Knee","",""
-"21940-70489","TE","Ben","Ben Braunecker","Braunecker","2.0333333015441895","3","4500","DET@CHI","CHI","DET","","","",""
-"21940-38753","TE","Jake","Jake Butt","Butt","0","0","4500","CIN@DEN","DEN","CIN","IR","Knee - acl","",""
-"21940-70496","K","Aldrick","Aldrick Rosas","Rosas","5.777777777777778","9","4500","KC@NYG","NYG","KC","","","",""
-"21940-29540","RB","Terron","Terron Ward","Ward","2.299999952316284","1","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-70501","RB","C.J.","C.J. Ham","Ham","2.279999923706055","5","4500","LAR@MIN","MIN","LAR","","","",""
-"21940-53097","WR","Josh","Josh Reynolds","Reynolds","1.649999976158142","2","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-28525","WR","Braxton","Braxton Miller","Miller","2.1200000762939455","5","4500","ARI@HOU","HOU","ARI","","","",""
-"21940-27527","TE","Blake","Blake Jarwin","Jarwin","0","0","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-23435","TE","Andrew","Andrew DePaola","DePaola","0","0","4500","DET@CHI","CHI","DET","","","",""
-"21940-19342","TE","Demetrius","Demetrius Harris","Harris","2.0999999727521623","7","4500","KC@NYG","KC","NYG","","","",""
-"21940-29583","TE","Randall","Randall Telfer","Telfer","1.7000000476837158","2","4500","JAC@CLE","CLE","JAC","","","",""
-"21940-29592","TE","Xavier","Xavier Grimble","Grimble","1.7000000476837158","1","4500","TEN@PIT","PIT","TEN","","","",""
-"21940-40857","RB","Peyton","Peyton Barber","Barber","2.7750000953674316","4","4500","TB@MIA","TB","MIA","","","",""
-"21940-28570","TE","Nick","Nick Vannett","Vannett","1.8","5","4500","ATL@SEA","SEA","ATL","","","",""
-"21940-14240","TE","Lance","Lance Kendricks","Kendricks","4","6","4500","BAL@GB","GB","BAL","","","",""
-"21940-52130","K","Patrick","Patrick Murray","Murray","6.4","5","4500","TB@MIA","TB","MIA","","","",""
-"21940-25513","WR","Darius","Darius Jennings","Jennings","0","0","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-34729","RB","Dwayne","Dwayne Washington","Washington","1.3600000381469726","5","4500","DET@CHI","DET","CHI","Q","Hip","",""
-"21940-22447","WR","Griff","Griff Whalen","Whalen","2.1500000953674316","2","4500","BAL@GB","BAL","GB","","","",""
-"21940-29624","RB","Tre","Tre Madden","Madden","3.75","2","4500","ATL@SEA","SEA","ATL","IR","Calf","",""
-"21940-56248","WR","Noah","Noah Brown","Brown","1.7999999523162842","1","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-43961","RB","Tyler","Tyler Ervin","Ervin","2.25","4","4500","ARI@HOU","HOU","ARI","IR","Knee","",""
-"21940-30652","WR","Tanner","Tanner McEvoy","McEvoy","1.2600000381469727","5","4500","ATL@SEA","SEA","ATL","","","",""
-"21940-30654","TE","Jerell","Jerell Adams","Adams","2.3333333333333335","3","4500","KC@NYG","NYG","KC","","","",""
-"21940-32703","WR","Jakeem","Jakeem Grant","Grant","0.375","8","4500","TB@MIA","MIA","TB","","","",""
-"21940-41922","WR","Johnny","Johnny Holton","Holton","11.899999618530273","2","4500","NE@OAK","OAK","NE","","","",""
-"21940-43970","RB","Shane","Shane Smith","Smith","0","0","4500","KC@NYG","NYG","KC","","","",""
-"21940-43973","RB","Keith","Keith Smith","Smith","1.2999999523162842","2","4500","PHI@DAL","DAL","PHI","","","",""
-"21940-57299","TE","Gerald","Gerald Everett","Everett","4.442857197352818","7","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-25561","WR","Michael","Michael Campanaro","Campanaro","3.4857142312186107","7","4500","BAL@GB","BAL","GB","","","",""
-"21940-14304","TE","Luke","Luke Stocker","Stocker","4.650000095367432","2","4500","TB@MIA","TB","MIA","","","",""
-"21940-40932","WR","Pharoh","Pharoh Cooper","Cooper","1.2999999788072374","9","4500","LAR@MIN","LAR","MIN","","","",""
-"21940-41964","TE","Vince","Vince Mayle","Mayle","2.066666603088379","3","4500","BAL@GB","BAL","GB","","","",""
-"21940-14319","RB","Taiwan","Taiwan Jones","Jones","0.800000011920929","2","4500","BUF@LAC","BUF","LAC","IR","Arm","",""
-"21940-48116","TE","Jonnu","Jonnu Smith","Smith","3.9000000953674316","8","4500","TEN@PIT","TEN","PIT","","","",""
-"21940-14327","RB","Anthony","Anthony Sherman","Sherman","0.5333333412806193","3","4500","KC@NYG","KC","NYG","","","",""
-"21940-39930","WR","Reggie","Reggie Davis","Davis","0","0","4500","ATL@SEA","ATL","SEA","","","",""
-"21940-12527","D","Chicago","Chicago Bears","Bears","8.88888888888889","9","4400","DET@CHI","CHI","DET","","","",""
-"21940-12539","D","Miami","Miami Dolphins","Dolphins","4.888888888888889","9","4400","TB@MIA","MIA","TB","","","",""
-"21940-12530","D","Dallas","Dallas Cowboys","Cowboys","7.222222222222222","9","4300","PHI@DAL","DAL","PHI","","","",""
-"21940-12534","D","Tennessee","Tennessee Titans","Titans","5.555555555555555","9","4300","TEN@PIT","TEN","PIT","","","",""
-"21940-12548","D","Los Angeles","Los Angeles Chargers","Chargers","8.222222222222221","9","4300","BUF@LAC","LAC","BUF","","","",""
-"21940-12525","D","Atlanta","Atlanta Falcons","Falcons","6.444444444444445","9","4200","ATL@SEA","ATL","SEA","","","",""
-"21940-12537","D","Oakland","Oakland Raiders","Raiders","3","9","4100","NE@OAK","OAK","NE","","","",""
-"21940-12543","D","New York","New York Giants","Giants","4.666666666666667","9","4100","KC@NYG","NYG","KC","","","",""
-"21940-12529","D","Cleveland","Cleveland Browns","Browns","5.555555555555555","9","4000","JAC@CLE","CLE","JAC","","","",""
-"21940-12552","D","Washington","Washington Redskins","Redskins","6.666666666666667","9","4000","WAS@NO","WAS","NO","","","",""
+28515-42104,RB,Alvin,Alvin Kamara,Kamara,26.66666667,3,9100,NO@NYG,NO,NYG,,
+
+28515-30447,RB,Todd,Todd Gurley II,Gurley II,25.03333282,3,9100,MIN@LAR,LAR,MIN,,
+
+28515-28573,WR,Michael,Michael Thomas,Thomas,24.26666768,3,9000,NO@NYG,NO,NYG,,
+
+28515-57439,QB,Patrick,Patrick Mahomes,Mahomes,30.81333415,3,8900,KC@DEN,KC,DEN,,
+
+28515-11612,WR,Antonio,Antonio Brown,Brown,15,3,8800,BAL@PIT,PIT,BAL,,
+
+28515-28900,RB,Melvin,Melvin Gordon III,Gordon III,22.03333282,3,8700,SF@LAC,LAC,SF,,
+
+28515-6504,QB,Drew,Drew Brees,Brees,29.90666707,3,8700,NO@NYG,NO,NYG,,
+
+28515-16606,WR,DeAndre,DeAndre Hopkins,Hopkins,14.23333359,3,8600,HOU@IND,HOU,IND,Q,Thumb
+
+28515-6498,QB,Tom,Tom Brady,Brady,15.71999995,3,8600,MIA@NE,NE,MIA,,
+
+28515-31360,WR,Odell,Odell Beckham Jr.,Beckham Jr.,13,3,8600,NO@NYG,NYG,NO,,
+
+28515-14190,WR,Julio,Julio Jones,Jones,14.66666667,3,8600,CIN@ATL,ATL,CIN,Q,Calf
+
+28515-6894,QB,Aaron,Aaron Rodgers,Rodgers,20.29333369,3,8500,BUF@GB,GB,BUF,Q,Knee - mcl
+
+28515-14187,WR,A.J.,A.J. Green,Green,17.30000051,3,8500,CIN@ATL,CIN,ATL,,
+
+28515-28181,RB,Le'Veon,Le'Veon Bell,Bell,19.94000041,15,8400,BAL@PIT,PIT,BAL,O,Contract dispute
+
+28515-39716,WR,Adam,Adam Thielen,Thielen,18.59999975,3,8300,MIN@LAR,MIN,LAR,,
+
+28515-38791,RB,Ezekiel,Ezekiel Elliott,Elliott,15.53333282,3,8200,DET@DAL,DAL,DET,,
+
+28515-11460,TE,Rob,Rob Gronkowski,Gronkowski,9.799999873,3,8100,MIA@NE,NE,MIA,Q,Ankle
+
+28515-6616,QB,Matt,Matt Ryan,Ryan,27.22666677,3,8100,CIN@ATL,ATL,CIN,,
+
+28515-29253,WR,Keenan,Keenan Allen,Allen,11.46666718,3,8100,SF@LAC,LAC,SF,Q,Knee
+
+28515-6589,QB,Ben,Ben Roethlisberger,Roethlisberger,25.33333333,3,8000,BAL@PIT,PIT,BAL,,
+
+28515-25079,WR,Stefon,Stefon Diggs,Diggs,15.90000025,3,8000,MIN@LAR,MIN,LAR,,
+
+28515-45889,WR,Davante,Davante Adams,Adams,16.13333384,3,8000,BUF@GB,GB,BUF,,
+
+28515-64401,RB,Saquon,Saquon Barkley,Barkley,19.26666641,3,8000,NO@NYG,NYG,NO,,
+
+28515-45229,RB,Kareem,Kareem Hunt,Hunt,11.93333308,3,7900,KC@DEN,KC,DEN,,
+
+28515-32384,WR,Mike,Mike Evans,Evans,21.39999898,3,7900,TB@CHI,TB,CHI,,
+
+28515-53681,WR,Tyreek,Tyreek Hill,Hill,20.96666718,3,7800,KC@DEN,KC,DEN,,
+
+28515-55987,WR,JuJu,JuJu Smith-Schuster,Smith-Schuster,18.36666616,3,7800,BAL@PIT,PIT,BAL,Q,Abdomen
+
+28515-7968,QB,Philip,Philip Rivers,Rivers,23.24666595,3,7800,SF@LAC,LAC,SF,,
+
+28515-33076,TE,Travis,Travis Kelce,Kelce,14.30000051,3,7700,KC@DEN,KC,DEN,,
+
+28515-52922,RB,Leonard,Leonard Fournette,Fournette,7,1,7700,NYJ@JAC,JAC,NYJ,Q,Hamstring
+
+28515-29501,WR,Brandin,Brandin Cooks,Cooks,14.56666692,3,7700,MIN@LAR,LAR,MIN,,
+
+28515-62497,RB,David,David Johnson,Johnson,11.63333384,3,7600,SEA@ARI,ARI,SEA,,
+
+28515-42028,WR,Will,Will Fuller V,Fuller V,19.95000076,2,7600,HOU@IND,HOU,IND,Q,Hamstring
+
+28515-38435,QB,Jared,Jared Goff,Goff,21.04666646,3,7600,MIN@LAR,LAR,MIN,,
+
+28515-54879,QB,Deshaun,Deshaun Watson,Watson,20.61333338,3,7600,HOU@IND,HOU,IND,,
+
+28515-22015,QB,Russell,Russell Wilson,Wilson,17.91333389,3,7500,SEA@ARI,SEA,ARI,,
+
+28515-22038,QB,Kirk,Kirk Cousins,Cousins,21.96666718,3,7500,MIN@LAR,MIN,LAR,,
+
+28515-40687,RB,James,James Conner,Conner,20.23333359,3,7500,BAL@PIT,PIT,BAL,,
+
+28515-7659,QB,Ryan,Ryan Fitzpatrick,Fitzpatrick,33.80000051,3,7400,TB@CHI,TB,CHI,,
+
+28515-14225,QB,Andy,Andy Dalton,Dalton,20.73333359,3,7400,CIN@ATL,CIN,ATL,,
+
+28515-54604,QB,Jimmy,Jimmy Garoppolo,Garoppolo,17.00666682,3,7300,SF@LAC,SF,LAC,IR,Knee - acl
+
+28515-21939,QB,Andrew,Andrew Luck,Luck,15.89333344,3,7300,HOU@IND,IND,HOU,,
+
+28515-6654,QB,Matthew,Matthew Stafford,Stafford,18.40000025,3,7300,DET@DAL,DET,DAL,,
+
+28515-22031,WR,T.Y.,T.Y. Hilton,Hilton,12.80000051,3,7300,HOU@IND,IND,HOU,,
+
+28515-70324,QB,Carson,Carson Wentz,Wentz,12.19999981,1,7300,PHI@TEN,PHI,TEN,,
+
+28515-27776,RB,Tevin,Tevin Coleman,Coleman,12.40000025,3,7200,CIN@ATL,ATL,CIN,,
+
+28515-42142,RB,Jordan,Jordan Howard,Howard,12.19999949,3,7200,TB@CHI,CHI,TB,,
+
+28515-14626,WR,Doug,Doug Baldwin,Baldwin,0,1,7200,SEA@ARI,SEA,ARI,Q,Knee - mcl
+
+28515-52442,RB,Joe,Joe Mixon,Mixon,16.29999924,2,7100,CIN@ATL,CIN,ATL,O,Knee - meniscus
+
+28515-6826,QB,Eli,Eli Manning,Manning,13.83333333,3,7100,NO@NYG,NYG,NO,,
+
+28515-29780,TE,Zach,Zach Ertz,Ertz,10.66666667,3,7000,PHI@TEN,PHI,TEN,,
+
+28515-22027,QB,Nick,Nick Foles,Foles,10.61999989,2,7000,PHI@TEN,PHI,TEN,,
+
+28515-31394,WR,Jarvis,Jarvis Landry,Landry,13.26666641,3,7000,CLE@OAK,CLE,OAK,,
+
+28515-45859,QB,Derek,Derek Carr,Carr,13.44666672,3,7000,CLE@OAK,OAK,CLE,,
+
+28515-29685,WR,Robert,Robert Woods,Woods,15.19999949,3,7000,MIN@LAR,LAR,MIN,,
+
+28515-6714,QB,Joe,Joe Flacco,Flacco,18.95333354,3,6900,BAL@PIT,BAL,PIT,,
+
+28515-41535,QB,Baker,Baker Mayfield,Mayfield,9.840000153,1,6900,CLE@OAK,CLE,OAK,,
+
+28515-11485,WR,Golden,Golden Tate,Tate,14.19999949,3,6800,DET@DAL,DET,DAL,,
+
+28515-24920,RB,Devonta,Devonta Freeman,Freeman,6.5,1,6800,CIN@ATL,ATL,CIN,Q,Knee
+
+28515-27050,WR,Tyler,Tyler Lockett,Lockett,14.69999949,3,6800,SEA@ARI,SEA,ARI,,
+
+28515-21948,QB,Ryan,Ryan Tannehill,Tannehill,19.62666702,3,6800,MIA@NE,MIA,NE,,
+
+28515-38628,QB,Mitchell,Mitchell Trubisky,Trubisky,12.34666697,3,6800,TB@CHI,CHI,TB,,
+
+28515-28473,RB,Carlos,Carlos Hyde,Hyde,15.93333308,3,6800,CLE@OAK,CLE,OAK,,
+
+28515-31716,QB,Dak,Dak Prescott,Prescott,11.47333272,3,6800,DET@DAL,DAL,DET,,
+
+28515-11505,WR,Emmanuel,Emmanuel Sanders,Sanders,17.30000051,3,6700,KC@DEN,DEN,KC,,
+
+28515-14704,WR,Chris,Chris Hogan,Hogan,7.96666654,3,6700,MIA@NE,NE,MIA,,
+
+28515-34308,QB,Blake,Blake Bortles,Bortles,18.89333344,3,6700,NYJ@JAC,JAC,NYJ,,
+
+28515-31001,WR,Amari,Amari Cooper,Cooper,7.200000127,3,6600,CLE@OAK,OAK,CLE,,
+
+28515-46882,RB,Jay,Jay Ajayi,Ajayi,14.69999981,2,6600,PHI@TEN,PHI,TEN,,
+
+28515-11432,WR,Demaryius,Demaryius Thomas,Thomas,9.46666654,3,6500,KC@DEN,DEN,KC,,
+
+28515-22994,QB,Case,Case Keenum,Keenum,14.77333323,3,6500,KC@DEN,DEN,KC,,
+
+28515-21980,WR,Alshon,Alshon Jeffery,Jeffery,10.46249962,16,6500,PHI@TEN,PHI,TEN,Q,Shoulder
+
+28515-22037,RB,Lamar,Lamar Miller,Miller,10.33333333,3,6500,HOU@IND,HOU,IND,,
+
+28515-6739,WR,DeSean,DeSean Jackson,Jackson,18.40000025,3,6500,TB@CHI,TB,CHI,,
+
+28515-22103,WR,Marvin,Marvin Jones Jr.,Jones Jr.,11.90000025,3,6500,DET@DAL,DET,DAL,,
+
+28515-6779,RB,LeSean,LeSean McCoy,McCoy,5.699999809,2,6500,BUF@GB,BUF,GB,Q,Ribs
+
+28515-23194,WR,Josh,Josh Gordon,Gordon,8.199999809,1,6500,MIA@NE,NE,MIA,Q,Hamstring
+
+28515-7859,WR,Julian,Julian Edelman,Edelman,0,0,6500,MIA@NE,NE,MIA,O,Suspension
+
+28515-54140,RB,Dalvin,Dalvin Cook,Cook,10.5,2,6500,MIN@LAR,MIN,LAR,Q,Hamstring
+
+28515-40843,RB,Alex,Alex Collins,Collins,10.59999975,3,6500,BAL@PIT,BAL,PIT,,
+
+28515-62364,QB,Josh,Josh Rosen,Rosen,1.639999986,1,6500,SEA@ARI,ARI,SEA,,
+
+28515-28643,WR,Allen,Allen Robinson II,Robinson II,9.299999873,3,6500,TB@CHI,CHI,TB,,
+
+28515-53303,RB,Matt,Matt Breida,Breida,14.06666692,3,6400,SF@LAC,SF,LAC,Q,Knee
+
+28515-24641,WR,Sammy,Sammy Watkins,Watkins,11.90000025,3,6400,KC@DEN,KC,DEN,,
+
+28515-9371,RB,Marshawn,Marshawn Lynch,Lynch,13.93333308,3,6400,CLE@OAK,OAK,CLE,Q,Shoulder
+
+28515-9392,WR,Michael,Michael Crabtree,Crabtree,9.666666667,3,6400,BAL@PIT,BAL,PIT,,
+
+28515-54684,RB,Isaiah,Isaiah Crowell,Crowell,15.06666692,3,6400,NYJ@JAC,NYJ,JAC,,
+
+28515-6627,WR,Ted,Ted Ginn Jr.,Ginn Jr.,11.33333333,3,6400,NO@NYG,NO,NYG,,
+
+28515-64119,RB,Chris,Chris Carson,Carson,9.733333588,3,6400,SEA@ARI,SEA,ARI,Q,Hip
+
+28515-25290,RB,Giovani,Giovani Bernard,Bernard,8.233333588,3,6400,CIN@ATL,CIN,ATL,Q,Thigh
+
+28515-6883,WR,Larry,Larry Fitzgerald,Fitzgerald,5.766666412,3,6400,SEA@ARI,ARI,SEA,Q,Hamstring
+
+28515-62239,QB,Josh,Josh Allen,Allen,16.09999975,3,6400,BUF@GB,BUF,GB,,
+
+28515-27457,WR,Kenny,Kenny Stills,Stills,13.63333384,3,6400,MIA@NE,MIA,NE,,
+
+28515-64555,WR,Calvin,Calvin Ridley,Ridley,17.23333359,3,6300,CIN@ATL,ATL,CIN,,
+
+28515-79970,WR,Cooper,Cooper Kupp,Kupp,13.13333384,3,6300,MIN@LAR,LAR,MIN,,
+
+28515-11414,QB,Sam,Sam Bradford,Bradford,5.566666921,3,6300,SEA@ARI,ARI,SEA,Q,Pectoral
+
+28515-30989,RB,Kenyan,Kenyan Drake,Drake,8.366666794,3,6300,MIA@NE,MIA,NE,,
+
+28515-29358,QB,Marcus,Marcus Mariota,Mariota,6.360000134,2,6300,PHI@TEN,TEN,PHI,,
+
+28515-39829,WR,Mike,Mike Williams,Williams,14.13333384,3,6300,SF@LAC,LAC,SF,,
+
+28515-29683,WR,Nelson,Nelson Agholor,Agholor,10.96666718,3,6300,PHI@TEN,PHI,TEN,,
+
+28515-63589,QB,Sam,Sam Darnold,Darnold,11.68000031,3,6200,NYJ@JAC,NYJ,JAC,,
+
+28515-79998,WR,Keelan,Keelan Cole,Cole,11.5,3,6200,NYJ@JAC,JAC,NYJ,,
+
+28515-80001,RB,Austin,Austin Ekeler,Ekeler,13,3,6200,SF@LAC,LAC,SF,,
+
+28515-24849,QB,Jameis,Jameis Winston,Winston,16.35846182,13,6200,TB@CHI,TB,CHI,,
+
+28515-54606,WR,John,John Brown,Brown,13.43333308,3,6200,BAL@PIT,BAL,PIT,,
+
+28515-27986,QB,C.J.,C.J. Beathard,Beathard,15.80000051,6,6200,SF@LAC,SF,LAC,,
+
+28515-55635,WR,Chris,Chris Godwin,Godwin,13.19999949,3,6200,TB@CHI,TB,CHI,,
+
+28515-27477,WR,Sterling,Sterling Shepard,Shepard,9.400000254,3,6200,NO@NYG,NYG,NO,,
+
+28515-28930,RB,James,James White,White,12.69999949,3,6100,MIA@NE,NE,MIA,,
+
+28515-41426,RB,Phillip,Phillip Lindsay,Lindsay,10.26666641,3,6100,KC@DEN,DEN,KC,,
+
+28515-27266,WR,Quincy,Quincy Enunwa,Enunwa,11.90000025,3,6100,NYJ@JAC,NYJ,JAC,,
+
+28515-63115,QB,Lamar,Lamar Jackson,Jackson,1.820000013,3,6100,BAL@PIT,BAL,PIT,,
+
+28515-14194,QB,Blaine,Blaine Gabbert,Gabbert,4.293333371,3,6100,PHI@TEN,TEN,PHI,Q,Concussion
+
+28515-14257,WR,Randall,Randall Cobb,Cobb,10.63333321,3,6100,BUF@GB,GB,BUF,Q,Hamstring
+
+28515-29715,QB,Kevin,Kevin Hogan,Hogan,9.694999695,4,6000,KC@DEN,DEN,KC,,
+
+28515-24607,QB,Chad,Chad Kelly,Kelly,0,0,6000,KC@DEN,DEN,KC,,
+
+28515-14377,QB,Tyrod,Tyrod Taylor,Taylor,14.32666651,3,6000,CLE@OAK,CLE,OAK,Q,Concussion
+
+28515-30761,QB,Nathan,Nathan Peterman,Peterman,-9.4E-01,1,6000,BUF@GB,BUF,GB,,
+
+28515-30788,QB,Tyler,Tyler Bray,Bray,-2,1,6000,TB@CHI,CHI,TB,,
+
+28515-39034,QB,Kurt,Kurt Benkert,Benkert,0,0,6000,CIN@ATL,ATL,CIN,,
+
+28515-83079,QB,Kyle,Kyle Lauletta,Lauletta,0,0,6000,NO@NYG,NYG,NO,,
+
+28515-27801,QB,Nate,Nate Sudfeld,Sudfeld,7.559999943,1,6000,PHI@TEN,PHI,TEN,,
+
+28515-83130,QB,Chad,Chad Kanoff,Kanoff,0,0,6000,SEA@ARI,ARI,SEA,,
+
+28515-57537,QB,DeShone,DeShone Kizer,Kizer,-8.E-01,1,6000,BUF@GB,GB,BUF,,
+
+28515-45259,QB,Logan,Logan Woodside,Woodside,0,0,6000,PHI@TEN,TEN,PHI,,
+
+28515-29915,QB,Brett,Brett Hundley,Hundley,12.35818204,11,6000,SEA@ARI,SEA,ARI,,
+
+28515-54507,QB,Alex,Alex McGough,McGough,0,0,6000,SEA@ARI,SEA,ARI,,
+
+28515-11512,TE,Jimmy,Jimmy Graham,Graham,7.099999746,3,6000,BUF@GB,GB,BUF,Q,Knee
+
+28515-39179,QB,Tanner,Tanner Lee,Lee,0,0,6000,NYJ@JAC,JAC,NYJ,,
+
+28515-31047,QB,AJ,AJ McCarron,McCarron,1.320000052,2,6000,CLE@OAK,OAK,CLE,,
+
+28515-27982,QB,Jake,Jake Rudock,Rudock,-4.E-02,1,6000,DET@DAL,DET,DAL,,
+
+28515-31061,RB,T.J.,T.J. Yeldon,Yeldon,11.5,3,6000,NYJ@JAC,JAC,NYJ,Q,Ankle
+
+28515-11615,QB,Joe,Joe Webb III,Webb III,2.900000095,2,6000,HOU@IND,HOU,IND,,
+
+28515-39280,RB,Derrick,Derrick Henry,Henry,5.073333422,3,6000,PHI@TEN,TEN,PHI,,
+
+28515-21941,QB,Robert,Robert Griffin III,Griffin III,0,0,6000,BAL@PIT,BAL,PIT,,
+
+28515-31170,QB,Brandon,Brandon Allen,Allen,0,0,6000,MIN@LAR,LAR,MIN,,
+
+28515-21959,QB,Brandon,Brandon Weeden,Weeden,0,0,6000,HOU@IND,HOU,IND,,
+
+28515-40407,QB,Joshua,Joshua Dobbs,Dobbs,0,0,6000,BAL@PIT,PIT,BAL,,
+
+28515-53729,QB,Mason,Mason Rudolph,Rudolph,0,0,6000,BAL@PIT,PIT,BAL,,
+
+28515-21994,QB,Brock,Brock Osweiler,Osweiler,12.15333303,6,6000,MIA@NE,MIA,NE,,
+
+28515-33259,QB,Teddy,Teddy Bridgewater,Bridgewater,-1.299999952,1,6000,NO@NYG,NO,NYG,,
+
+28515-45565,QB,Taysom,Taysom Hill,Hill,1.950000048,2,6000,NO@NYG,NO,NYG,,
+
+28515-6679,QB,Matt,Matt Schaub,Schaub,0,1,6000,CIN@ATL,ATL,CIN,,
+
+28515-30231,QB,Jacoby,Jacoby Brissett,Brissett,0,1,6000,HOU@IND,IND,HOU,,
+
+28515-40482,QB,Tim,Tim Boyle,Boyle,0,0,6000,BUF@GB,GB,BUF,,
+
+28515-23075,QB,Alex,Alex Tanney,Tanney,0,0,6000,NO@NYG,NYG,NO,,
+
+28515-30253,QB,Jeff,Jeff Driskel,Driskel,0,0,6000,CIN@ATL,CIN,ATL,,
+
+28515-40534,QB,Mike,Mike White,White,0,0,6000,DET@DAL,DAL,DET,,
+
+28515-41562,QB,Nick,Nick Mullens,Mullens,0,0,6000,SF@LAC,SF,LAC,,
+
+28515-7778,QB,Matt,Matt Cassel,Cassel,-5.4E-01,1,6000,DET@DAL,DET,DAL,,
+
+28515-8803,QB,Chase,Chase Daniel,Daniel,-2.E-01,1,6000,TB@CHI,CHI,TB,,
+
+28515-6803,QB,Josh,Josh McCown,McCown,16.4953848,13,6000,NYJ@JAC,NYJ,JAC,,
+
+28515-55970,RB,Royce,Royce Freeman,Freeman,9.400000254,3,6000,KC@DEN,DEN,KC,,
+
+28515-7844,QB,Chad,Chad Henne,Henne,-0.25,2,6000,KC@DEN,KC,DEN,,
+
+28515-44715,QB,Cooper,Cooper Rush,Rush,6.9E-01,2,6000,DET@DAL,DAL,DET,,
+
+28515-62133,QB,Chase,Chase Litton,Litton,0,0,6000,KC@DEN,KC,DEN,,
+
+28515-7872,QB,Brian,Brian Hoyer,Hoyer,6.787999725,10,6000,MIA@NE,NE,MIA,,
+
+28515-41732,QB,Christian,Christian Hackenberg,Hackenberg,0,0,6000,CIN@ATL,CIN,ATL,,
+
+28515-29445,QB,Sean,Sean Mannion,Mannion,1.039999962,5,6000,MIN@LAR,LAR,MIN,,
+
+28515-28434,QB,Trevor,Trevor Siemian,Siemian,12.73636419,11,6000,MIN@LAR,MIN,LAR,,
+
+28515-25410,QB,Mike,Mike Glennon,Glennon,9.680000305,4,6000,SEA@ARI,ARI,SEA,,
+
+28515-28515,QB,Cardale,Cardale Jones,Jones,0,0,6000,SF@LAC,LAC,SF,,
+
+28515-41827,QB,Phillip,Phillip Walker,Walker,0,0,6000,HOU@IND,IND,HOU,,
+
+28515-33647,QB,Kyle,Kyle Sloter,Sloter,0,0,6000,MIN@LAR,MIN,LAR,,
+
+28515-26483,QB,Geno,Geno Smith,Smith,-1.E-01,1,6000,SF@LAC,LAC,SF,,
+
+28515-39795,QB,Davis,Davis Webb,Webb,0,0,6000,NYJ@JAC,NYJ,JAC,,
+
+28515-38796,QB,J.T.,J.T. Barrett IV,Barrett IV,0,0,6000,NO@NYG,NO,NYG,,
+
+28515-29587,QB,Cody,Cody Kessler,Kessler,1.313333352,3,6000,NYJ@JAC,JAC,NYJ,,
+
+28515-40857,RB,Peyton,Peyton Barber,Barber,4.53333346,3,6000,TB@CHI,TB,CHI,,
+
+28515-14237,TE,Kyle,Kyle Rudolph,Rudolph,10.53333346,3,6000,MIN@LAR,MIN,LAR,,
+
+28515-33702,QB,Ryan,Ryan Griffin,Griffin,0,0,6000,TB@CHI,TB,CHI,,
+
+28515-43956,QB,David,David Fales,Fales,10.19999981,2,6000,MIA@NE,MIA,NE,,
+
+28515-38837,QB,Danny,Danny Etling,Etling,0,0,6000,MIA@NE,NE,MIA,,
+
+28515-41966,QB,Luke,Luke Falk,Falk,0,0,6000,MIA@NE,MIA,NE,,
+
+28515-52560,WR,Geronimo,Geronimo Allison,Allison,13.13333384,3,5900,BUF@GB,GB,BUF,,
+
+28515-53640,RB,Sony,Sony Michel,Michel,5,2,5900,MIA@NE,NE,MIA,,
+
+28515-6893,WR,Jordy,Jordy Nelson,Nelson,11.36666616,3,5900,CLE@OAK,OAK,CLE,,
+
+28515-14320,RB,Bilal,Bilal Powell,Powell,10.26666641,3,5900,NYJ@JAC,NYJ,JAC,,
+
+28515-22113,RB,Alfred,Alfred Morris,Morris,7.833333333,3,5800,SF@LAC,SF,LAC,,
+
+28515-27338,RB,Rex,Rex Burkhead,Burkhead,4.399999936,3,5800,MIA@NE,NE,MIA,IR,Neck
+
+28515-40669,WR,Tyler,Tyler Boyd,Boyd,14.96666718,3,5800,CIN@ATL,CIN,ATL,,
+
+28515-54244,WR,Kenny,Kenny Golladay,Golladay,15.69999949,3,5800,DET@DAL,DET,DAL,,
+
+28515-14339,RB,Dion,Dion Lewis,Lewis,9.933333079,3,5700,PHI@TEN,TEN,PHI,,
+
+28515-63806,RB,Kerryon,Kerryon Johnson,Johnson,8.766666412,3,5700,DET@DAL,DET,DAL,,
+
+28515-57840,RB,Rashaad,Rashaad Penny,Penny,3.26666673,3,5700,SEA@ARI,SEA,ARI,,
+
+28515-57909,RB,Marlon,Marlon Mack,Mack,4.099999905,1,5700,HOU@IND,IND,HOU,Q,Hamstring
+
+28515-39793,TE,George,George Kittle,Kittle,9.03333346,3,5700,SF@LAC,SF,LAC,,
+
+28515-79974,RB,Tarik,Tarik Cohen,Cohen,5.633333206,3,5600,TB@CHI,CHI,TB,,
+
+28515-39286,TE,O.J.,O.J. Howard,Howard,11.23333359,3,5600,TB@CHI,TB,CHI,,
+
+28515-34331,RB,Latavius,Latavius Murray,Murray,3.899999936,3,5600,MIN@LAR,MIN,LAR,,
+
+28515-30297,TE,Trey,Trey Burton,Burton,6.566666921,3,5600,TB@CHI,CHI,TB,,
+
+28515-22288,WR,Cole,Cole Beasley,Beasley,6.400000254,3,5600,DET@DAL,DAL,DET,Q,Ankle
+
+28515-33260,WR,DeVante,DeVante Parker,Parker,5,1,5500,MIA@NE,MIA,NE,,
+
+28515-32243,WR,Marquise,Marquise Goodwin,Goodwin,5.150000095,2,5500,SF@LAC,SF,LAC,Q,Quadriceps
+
+28515-40442,RB,Aaron,Aaron Jones,Jones,5.199999809,1,5500,BUF@GB,GB,BUF,,
+
+28515-11779,RB,LeGarrette,LeGarrette Blount,Blount,3.73333327,3,5500,DET@DAL,DET,DAL,,
+
+28515-11864,RB,Chris,Chris Ivory,Ivory,8.200000127,3,5500,BUF@GB,BUF,GB,,
+
+28515-6759,WR,Brandon,Brandon Marshall,Marshall,7.5,3,5500,SEA@ARI,SEA,ARI,,
+
+28515-38509,RB,Wendell,Wendell Smallwood,Smallwood,9.050000191,2,5500,PHI@TEN,PHI,TEN,,
+
+28515-25272,TE,Eric,Eric Ebron,Ebron,9.666666667,3,5500,HOU@IND,IND,HOU,,
+
+28515-41872,TE,Evan,Evan Engram,Engram,7.133333206,3,5500,NO@NYG,NYG,NO,O,Knee - mcl
+
+28515-62535,WR,Tyrell,Tyrell Williams,Williams,6.233333588,3,5400,SF@LAC,LAC,SF,,
+
+28515-25760,WR,Allen,Allen Hurns,Hurns,2.366666635,3,5400,DET@DAL,DAL,DET,,
+
+28515-25813,WR,Phillip,Phillip Dorsett,Dorsett,7.666666667,3,5400,MIA@NE,NE,MIA,,
+
+28515-45439,WR,Corey,Corey Davis,Davis,7.200000127,3,5400,PHI@TEN,TEN,PHI,,
+
+28515-60858,WR,Christian,Christian Kirk,Kirk,6.03333346,3,5400,SEA@ARI,ARI,SEA,,
+
+28515-45631,RB,Jamaal,Jamaal Williams,Williams,6.266666412,3,5400,BUF@GB,GB,BUF,,
+
+28515-7761,TE,Jared,Jared Cook,Cook,11.66666667,3,5400,CLE@OAK,OAK,CLE,,
+
+28515-26251,WR,Robby,Robby Anderson,Anderson,4.366666794,3,5400,NYJ@JAC,NYJ,JAC,,
+
+28515-33465,RB,Theo,Theo Riddick,Riddick,6.766666412,3,5400,DET@DAL,DET,DAL,,
+
+28515-26458,WR,Tavon,Tavon Austin,Austin,8.666666667,3,5400,DET@DAL,DAL,DET,,
+
+28515-29645,RB,Javorius,Javorius Allen,Allen,13.56666692,3,5400,BAL@PIT,BAL,PIT,,
+
+28515-41936,WR,Anthony,Anthony Miller,Miller,5.333333333,3,5400,TB@CHI,CHI,TB,D,Shoulder
+
+28515-40977,TE,Ricky,Ricky Seals-Jones,Seals-Jones,5.700000127,3,5300,SEA@ARI,ARI,SEA,,
+
+28515-31836,WR,Terrance,Terrance Williams,Williams,1.399999976,2,5300,DET@DAL,DAL,DET,,
+
+28515-63591,RB,Ronald,Ronald Jones II,Jones II,0,0,5300,TB@CHI,TB,CHI,,
+
+28515-56708,TE,Will,Will Dissly,Dissly,10.20000013,3,5300,SEA@ARI,SEA,ARI,,
+
+28515-44449,WR,Willie,Willie Snead IV,Snead IV,8.733333588,3,5300,BAL@PIT,BAL,PIT,,
+
+28515-6607,WR,Mike,Mike Wallace,Wallace,0,1,5300,PHI@TEN,PHI,TEN,IR,Lower leg
+
+28515-22018,WR,Mohamed,Mohamed Sanu,Sanu,6.633333206,3,5300,CIN@ATL,ATL,CIN,,
+
+28515-40758,RB,Corey,Corey Clement,Clement,9.53333346,3,5300,PHI@TEN,PHI,TEN,Q,Quadriceps
+
+28515-41867,RB,Jordan,Jordan Wilkins,Wilkins,6,3,5300,HOU@IND,IND,HOU,,
+
+28515-28694,TE,Jesse,Jesse James,James,10.33333333,3,5200,BAL@PIT,PIT,BAL,,
+
+28515-55335,TE,David,David Njoku,Njoku,3.799999873,3,5200,CLE@OAK,CLE,OAK,,
+
+28515-24675,WR,Martavis,Martavis Bryant,Bryant,4.699999809,2,5200,CLE@OAK,OAK,CLE,,
+
+28515-12554,D,Jacksonville,Jacksonville Jaguars,Jaguars,8.333333333,3,5200,NYJ@JAC,JAC,NYJ,,
+
+28515-24929,WR,Kelvin,Kelvin Benjamin,Benjamin,4.933333397,3,5200,BUF@GB,BUF,GB,,
+
+28515-60910,WR,Dede,Dede Westbrook,Westbrook,9.266666412,3,5200,NYJ@JAC,JAC,NYJ,,
+
+28515-7870,TE,Benjamin,Benjamin Watson,Watson,6.46666654,3,5200,NO@NYG,NO,NYG,,
+
+28515-39859,TE,Jack,Jack Doyle,Doyle,5.25,2,5200,HOU@IND,IND,HOU,Q,Hip
+
+28515-29734,RB,Ty,Ty Montgomery,Montgomery,5.933333079,3,5100,BUF@GB,GB,BUF,,
+
+28515-55748,WR,James,James Washington,Washington,5.699999809,2,5100,BAL@PIT,PIT,BAL,,
+
+28515-21970,RB,Doug,Doug Martin,Martin,3.299999873,3,5100,CLE@OAK,OAK,CLE,,
+
+28515-31269,RB,Corey,Corey Grant,Grant,3.899999936,3,5100,NYJ@JAC,JAC,NYJ,,
+
+28515-6774,WR,Pierre,Pierre Garcon,Garcon,4.133333206,3,5100,SF@LAC,SF,LAC,,
+
+28515-15212,WR,Terrelle,Terrelle Pryor,Pryor,6.599999746,3,5100,NYJ@JAC,NYJ,JAC,Q,Groin
+
+28515-33703,WR,Ryan,Ryan Grant,Grant,8.299999873,3,5100,HOU@IND,IND,HOU,,
+
+28515-32703,WR,Jakeem,Jakeem Grant,Grant,12.16666667,3,5100,MIA@NE,MIA,NE,,
+
+28515-83081,RB,Chase,Chase Edmonds,Edmonds,4.100000064,3,5000,SEA@ARI,ARI,SEA,,
+
+28515-63625,RB,Nyheim,Nyheim Hines,Hines,7.5,3,5000,HOU@IND,IND,HOU,,
+
+28515-40126,TE,Austin,Austin Hooper,Hooper,8.03333346,3,5000,CIN@ATL,ATL,CIN,,
+
+28515-48344,WR,Albert,Albert Wilson,Wilson,12.59333293,3,5000,MIA@NE,MIA,NE,,
+
+28515-54753,WR,Taylor,Taylor Gabriel,Gabriel,6.03333346,3,5000,TB@CHI,CHI,TB,,
+
+28515-32234,RB,Malcolm,Malcolm Brown,Brown,4.700000127,3,5000,MIN@LAR,LAR,MIN,,
+
+28515-27229,RB,Ameer,Ameer Abdullah,Abdullah,7.992857252,14,5000,DET@DAL,DET,DAL,,
+
+28515-22163,WR,Rishard,Rishard Matthews,Matthews,8.66667E-01,3,5000,PHI@TEN,TEN,PHI,,
+
+28515-31406,RB,Alfred,Alfred Blue,Blue,5.133333206,3,5000,HOU@IND,HOU,IND,,
+
+28515-6840,RB,Frank,Frank Gore,Gore,4.066666603,3,5000,MIA@NE,MIA,NE,,
+
+28515-22219,WR,Jermaine,Jermaine Kearse,Kearse,2.700000048,2,5000,NYJ@JAC,NYJ,JAC,,
+
+28515-7972,RB,Darren,Darren Sproles,Sproles,5.199999809,1,5000,PHI@TEN,PHI,TEN,Q,Hamstring
+
+28515-31561,WR,Donte,Donte Moncrief,Moncrief,4.633333206,3,5000,NYJ@JAC,JAC,NYJ,,
+
+28515-28545,RB,Rod,Rod Smith,Smith,0.5,1,5000,DET@DAL,DAL,DET,,
+
+28515-62538,WR,Cameron,Cameron Meredith,Meredith,7.599999905,1,4900,NO@NYG,NO,NYG,,
+
+28515-39580,RB,Devontae,Devontae Booker,Booker,3.700000127,3,4900,KC@DEN,DEN,KC,,
+
+28515-70372,WR,Chester,Chester Rogers,Rogers,2.96666654,3,4900,HOU@IND,IND,HOU,,
+
+28515-30837,WR,Jordan,Jordan Matthews,Matthews,3.099999905,1,4800,PHI@TEN,PHI,TEN,Q,Hamstring
+
+28515-25837,RB,Duke,Duke Johnson Jr.,Johnson Jr.,3.100000064,3,4800,CLE@OAK,CLE,OAK,,
+
+28515-43413,RB,Kenneth,Kenneth Dixon,Dixon,10.39999962,1,4800,BAL@PIT,BAL,PIT,IR,Knee
+
+28515-54741,WR,Seth,Seth Roberts,Roberts,6.699999809,2,4800,CLE@OAK,OAK,CLE,,
+
+28515-22035,WR,Travis,Travis Benjamin,Benjamin,2.5,1,4800,SF@LAC,LAC,SF,Q,Foot
+
+28515-53913,WR,Cody,Cody Hollister,Hollister,0,0,4800,MIA@NE,NE,MIA,O,Back
+
+28515-7965,TE,Antonio,Antonio Gates,Gates,3.53333346,3,4800,SF@LAC,LAC,SF,,
+
+28515-57403,WR,Courtland,Courtland Sutton,Sutton,3.866666794,3,4700,KC@DEN,DEN,KC,,
+
+28515-12538,D,Los Angeles,Los Angeles Rams,Rams,14.66666667,3,4700,MIN@LAR,LAR,MIN,,
+
+28515-53562,RB,Nick,Nick Chubb,Chubb,1.366666635,3,4700,CLE@OAK,CLE,OAK,,
+
+28515-41305,WR,Zay,Zay Jones,Jones,4.53333346,3,4700,BUF@GB,BUF,GB,,
+
+28515-22898,RB,Brandon,Brandon Bolden,Bolden,2.633333365,3,4700,MIA@NE,MIA,NE,,
+
+28515-22959,WR,Deonte,Deonte Thompson,Thompson,4.26666673,3,4700,DET@DAL,DAL,DET,,
+
+28515-31207,TE,C.J.,C.J. Uzomah,Uzomah,5.26666673,3,4700,CIN@ATL,CIN,ATL,,
+
+28515-41475,WR,John,John Ross,Ross,3.633333206,3,4700,CIN@ATL,CIN,ATL,,
+
+28515-6733,RB,Jonathan,Jonathan Stewart,Stewart,5.66667E-01,3,4700,NO@NYG,NYG,NO,Q,Foot
+
+28515-32418,RB,Christine,Christine Michael,Michael,9.E-01,1,4700,HOU@IND,IND,HOU,,
+
+28515-30733,WR,Cordarrelle,Cordarrelle Patterson,Patterson,2.633333365,3,4600,MIA@NE,NE,MIA,,
+
+28515-14362,TE,Charles,Charles Clay,Clay,2.23333327,3,4600,BUF@GB,BUF,GB,Q,Shoulder
+
+28515-24671,WR,Adam,Adam Humphries,Humphries,3.46666654,3,4600,TB@CHI,TB,CHI,,
+
+28515-79983,RB,De'Angelo,De'Angelo Henderson,Henderson,3.96666654,3,4600,NYJ@JAC,NYJ,JAC,,
+
+28515-83074,TE,Dallas,Dallas Goedert,Goedert,8.850000381,2,4600,PHI@TEN,PHI,TEN,,
+
+28515-11495,WR,Brandon,Brandon LaFell,LaFell,6.175000191,16,4600,CLE@OAK,OAK,CLE,,
+
+28515-12545,D,Philadelphia,Philadelphia Eagles,Eagles,6.333333333,3,4600,PHI@TEN,PHI,TEN,,
+
+28515-32045,TE,Vance,Vance McDonald,McDonald,11.64999962,2,4600,BAL@PIT,PIT,BAL,,
+
+28515-69956,WR,Michael,Michael Gallup,Gallup,1.533333302,3,4600,DET@DAL,DAL,DET,,
+
+28515-34154,WR,J.J.,J.J. Nelson,Nelson,0,2,4600,SEA@ARI,ARI,SEA,,
+
+28515-33137,WR,Justin,Justin Hardy,Hardy,0,3,4600,CIN@ATL,ATL,CIN,,
+
+28515-38264,WR,Demarcus,Demarcus Robinson,Robinson,3.400000095,2,4600,KC@DEN,KC,DEN,,
+
+28515-56698,WR,Dante,Dante Pettis,Pettis,5.700000127,3,4600,SF@LAC,SF,LAC,,
+
+28515-16923,TE,Austin,Austin Seferian-Jenkins,Seferian-Jenkins,5.700000127,3,4600,NYJ@JAC,JAC,NYJ,Q,General soreness
+
+28515-30237,RB,Mike,Mike Gillislee,Gillislee,5.66667E-01,3,4600,NO@NYG,NO,NYG,,
+
+28515-33472,RB,C.J.,C.J. Prosise,Prosise,3.700000048,1,4600,SEA@ARI,SEA,ARI,Q,Abdomen
+
+28515-52931,RB,Elijhaa,Elijhaa Penny,Penny,4.314285823,7,4600,NO@NYG,NYG,NO,,
+
+28515-31459,RB,Spencer,Spencer Ware,Ware,2.933333397,3,4600,KC@DEN,KC,DEN,,
+
+28515-33557,TE,Tyler,Tyler Eifert,Eifert,6.53333346,3,4600,CIN@ATL,CIN,ATL,,
+
+28515-33578,RB,Jalen,Jalen Richard,Richard,7.200000127,3,4600,CLE@OAK,OAK,CLE,,
+
+28515-41806,WR,Laquon,Laquon Treadwell,Treadwell,5.799999873,3,4600,MIN@LAR,MIN,LAR,,
+
+28515-39818,RB,Wayne,Wayne Gallman Jr.,Gallman Jr.,2.033333302,3,4600,NO@NYG,NYG,NO,,
+
+28515-8117,WR,Danny,Danny Amendola,Amendola,5.166666667,3,4600,MIA@NE,MIA,NE,,
+
+28515-30709,WR,Bruce,Bruce Ellington,Ellington,6.400000254,3,4600,HOU@IND,HOU,IND,IR,Hamstring
+
+28515-14336,RB,Jacquizz,Jacquizz Rodgers,Rodgers,2.866666794,3,4500,TB@CHI,TB,CHI,,
+
+28515-46088,RB,Jhurell,Jhurell Pressley,Pressley,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-24589,WR,Jaron,Jaron Brown,Brown,5.26666673,3,4500,SEA@ARI,SEA,ARI,,
+
+28515-23569,TE,Rico,Rico Gathers,Gathers,0,1,4500,DET@DAL,DAL,DET,,
+
+28515-14358,WR,Dwayne,Dwayne Harris,Harris,1.049999952,2,4500,CLE@OAK,OAK,CLE,,
+
+28515-55323,RB,Jaylen,Jaylen Samuels,Samuels,0,0,4500,BAL@PIT,PIT,BAL,,
+
+28515-14372,WR,Aldrick,Aldrick Robinson,Robinson,1.399999976,1,4500,MIN@LAR,MIN,LAR,,
+
+28515-32804,WR,Dres,Dres Anderson,Anderson,0,0,4500,DET@DAL,DAL,DET,,
+
+28515-56356,WR,Isaiah,Isaiah Ford,Ford,0,0,4500,MIA@NE,MIA,NE,,
+
+28515-56358,WR,Cam,Cam Phillips,Phillips,0,0,4500,BUF@GB,BUF,GB,,
+
+28515-24621,WR,Charone,Charone Peake,Peake,8.E-01,1,4500,NYJ@JAC,NYJ,JAC,Q,Hamstring
+
+28515-25654,RB,Tommy,Tommy Bohanon,Bohanon,1,1,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-30775,WR,Justin,Justin Hunter,Hunter,1.100000024,1,4500,BAL@PIT,PIT,BAL,,
+
+28515-28744,RB,Raheem,Raheem Mostert,Mostert,1.299999952,1,4500,SF@LAC,SF,LAC,,
+
+28515-41042,WR,Marcell,Marcell Ateman,Ateman,0,0,4500,CLE@OAK,OAK,CLE,,
+
+28515-57432,WR,Cameron,Cameron Batson,Batson,0,0,4500,PHI@TEN,TEN,PHI,,
+
+28515-79972,WR,Chad,Chad Williams,Williams,4.33333E-01,3,4500,SEA@ARI,ARI,SEA,Q,Illness
+
+28515-65646,WR,Julian,Julian Williams,Williams,0,0,4500,CIN@ATL,ATL,CIN,,
+
+28515-79987,WR,David,David Moore,Moore,0,1,4500,SEA@ARI,SEA,ARI,,
+
+28515-52345,WR,Brandon,Brandon Powell,Powell,0,0,4500,DET@DAL,DET,DAL,,
+
+28515-27771,WR,Cody,Cody Latimer,Latimer,2.366666635,3,4500,NO@NYG,NYG,NO,Q,Knee
+
+28515-42107,WR,Robert,Robert Foster,Foster,1.333333333,3,4500,BUF@GB,BUF,GB,,
+
+28515-84098,WR,Jawill,Jawill Davis,Davis,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-84101,WR,Vyncint,Vyncint Smith,Smith,1.649999976,2,4500,HOU@IND,HOU,IND,,
+
+28515-83083,WR,Justin,Justin Watson,Watson,0,0,4500,TB@CHI,TB,CHI,,
+
+28515-53390,WR,Zach,Zach Pascal,Pascal,1.033333302,3,4500,HOU@IND,IND,HOU,,
+
+28515-83086,WR,Reece,Reece Fountain,Fountain,0,0,4500,HOU@IND,IND,HOU,,
+
+28515-83091,RB,Trenton,Trenton Cannon,Cannon,2.599999905,1,4500,NYJ@JAC,NYJ,JAC,,
+
+28515-52371,RB,Kalen,Kalen Ballage,Ballage,0,0,4500,MIA@NE,MIA,NE,,
+
+28515-28827,RB,Dare,Dare Ogunbowale,Ogunbowale,0,0,4500,TB@CHI,TB,CHI,,
+
+28515-84122,RB,Detrez,Detrez Newsome,Newsome,0,1,4500,SF@LAC,LAC,SF,,
+
+28515-84124,WR,J.J.,J.J. Jones,Jones,-6.66667E-01,3,4500,SF@LAC,LAC,SF,,
+
+28515-46244,RB,Donnel,Donnel Pumphrey,Pumphrey,0,0,4500,DET@DAL,DET,DAL,,
+
+28515-62628,WR,DeAndre,DeAndre Carter,Carter,1.5,1,4500,PHI@TEN,PHI,TEN,,
+
+28515-65706,WR,Deontay,Deontay Burnett,Burnett,0,0,4500,NYJ@JAC,NYJ,JAC,,
+
+28515-83122,WR,Dorren,Dorren Miller,Miller,0,0,4500,PHI@TEN,PHI,TEN,,
+
+28515-40118,WR,Steven,Steven Mitchell Jr.,Mitchell Jr.,0,0,4500,MIN@LAR,LAR,MIN,,
+
+28515-52410,WR,Josh,Josh Malone,Malone,8.5E-01,2,4500,CIN@ATL,CIN,ATL,,
+
+28515-83136,WR,Jalen,Jalen Tolliver,Tolliver,0,0,4500,SEA@ARI,ARI,SEA,,
+
+28515-41155,RB,Taquan,Taquan Mizzell,Mizzell,0,0,4500,TB@CHI,CHI,TB,,
+
+28515-83140,RB,Christopher,Christopher Ezeala,Ezeala,0,0,4500,BAL@PIT,BAL,PIT,,
+
+28515-28890,RB,Derek,Derek Watt,Watt,1.E-01,1,4500,SF@LAC,LAC,SF,,
+
+28515-55514,RB,Buddy,Buddy Howell,Howell,0,0,4500,HOU@IND,HOU,IND,,
+
+28515-22754,TE,Garrett,Garrett Celek,Celek,5.199999809,2,4500,SF@LAC,SF,LAC,,
+
+28515-40164,WR,Shelton,Shelton Gibson,Gibson,0,2,4500,PHI@TEN,PHI,TEN,,
+
+28515-40167,RB,Gus,Gus Edwards,Edwards,0,0,4500,BAL@PIT,BAL,PIT,,
+
+28515-64744,RB,Josh,Josh Adams,Adams,3,1,4500,PHI@TEN,PHI,TEN,,
+
+28515-40170,WR,Stacy,Stacy Coley,Coley,0,2,4500,NO@NYG,NYG,NO,Q,Hamstring
+
+28515-28907,WR,Alex,Alex Erickson,Erickson,0,3,4500,CIN@ATL,CIN,ATL,,
+
+28515-11504,WR,Andre,Andre Roberts,Roberts,2.066666603,3,4500,NYJ@JAC,NYJ,JAC,,
+
+28515-45299,RB,David,David Fluellen,Fluellen,7.E-01,3,4500,PHI@TEN,TEN,PHI,Q,Groin
+
+28515-44280,WR,JoJo,JoJo Natson Jr.,Natson Jr.,0,2,4500,MIN@LAR,LAR,MIN,O,Hand
+
+28515-53498,WR,Richie,Richie James Jr.,James Jr.,0,0,4500,SF@LAC,SF,LAC,,
+
+28515-41211,WR,Janarion,Janarion Grant,Grant,0,2,4500,BAL@PIT,BAL,PIT,,
+
+28515-29949,WR,Marvin,Marvin Hall,Hall,2.349999905,2,4500,CIN@ATL,ATL,CIN,,
+
+28515-45309,WR,Alonzo,Alonzo Russell,Russell,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-32000,TE,Luke,Luke Willson,Willson,1.266666651,3,4500,DET@DAL,DET,DAL,,
+
+28515-55552,RB,Jeff,Jeff Wilson,Wilson,0,0,4500,SF@LAC,SF,LAC,,
+
+28515-56580,WR,Christian,Christian Blake,Blake,0,0,4500,CIN@ATL,ATL,CIN,,
+
+28515-41221,WR,Andre,Andre Patton,Patton,0,0,4500,SF@LAC,LAC,SF,,
+
+28515-22800,RB,Derrick,Derrick Coleman,Coleman,9.E-01,2,4500,SEA@ARI,ARI,SEA,,
+
+28515-83221,RB,De'Lance,De'Lance Turner,Turner,0,0,4500,BAL@PIT,BAL,PIT,,
+
+28515-33047,WR,Chris,Chris Moore,Moore,1.549999952,2,4500,BAL@PIT,BAL,PIT,,
+
+28515-34073,TE,Ryan,Ryan Griffin,Griffin,2.600000064,3,4500,HOU@IND,HOU,IND,,
+
+28515-68890,WR,Devin,Devin Gray,Gray,0,0,4500,CIN@ATL,ATL,CIN,,
+
+28515-24862,WR,Rashad,Rashad Greene Sr.,Greene Sr.,0,0,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-29985,WR,Jaydon,Jaydon Mickens,Mickens,0,3,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-46374,WR,Tanner,Tanner Gentry,Gentry,1.25,4,4500,TB@CHI,CHI,TB,,
+
+28515-27947,WR,Riley,Riley McCarron,McCarron,-2,1,4500,MIA@NE,NE,MIA,,
+
+28515-85306,WR,KhaDarel,KhaDarel Hodge,Hodge,0,0,4500,MIN@LAR,LAR,MIN,,
+
+28515-62791,RB,Mark,Mark Walton,Walton,0,0,4500,CIN@ATL,CIN,ATL,,
+
+28515-64841,WR,Equanimeous,Equanimeous St. Brown,St. Brown,0,0,4500,BUF@GB,GB,BUF,,
+
+28515-34125,WR,Geremy,Geremy Davis,Davis,0,0,4500,SF@LAC,LAC,SF,,
+
+28515-14683,RB,Patrick,Patrick DiMarco,DiMarco,2.900000095,1,4500,BUF@GB,BUF,GB,,
+
+28515-41319,WR,Jeff,Jeff Badet,Badet,0,0,4500,MIN@LAR,MIN,LAR,,
+
+28515-40298,WR,Derrick,Derrick Willies,Willies,0,0,4500,CLE@OAK,CLE,OAK,,
+
+28515-55684,RB,Roc,Roc Thomas,Thomas,0,0,4500,MIN@LAR,MIN,LAR,,
+
+28515-29064,WR,Trey,Trey Griffey,Griffey,0,0,4500,BAL@PIT,PIT,BAL,,
+
+28515-55689,RB,Ito,Ito Smith,Smith,5.449999809,2,4500,CIN@ATL,ATL,CIN,Q,Ribs
+
+28515-55694,WR,Michael,Michael Thomas,Thomas,2.360000038,5,4500,MIN@LAR,LAR,MIN,IR,Hip
+
+28515-43416,WR,Trent,Trent Taylor,Taylor,2.899999936,3,4500,SF@LAC,SF,LAC,,
+
+28515-80289,WR,Kendrick,Kendrick Bourne,Bourne,3.366666794,3,4500,SF@LAC,SF,LAC,,
+
+28515-32161,WR,Gehrig,Gehrig Dieter,Dieter,0,0,4500,KC@DEN,KC,DEN,,
+
+28515-54690,WR,Freddie,Freddie Martino,Martino,0,1,4500,TB@CHI,TB,CHI,,
+
+28515-47523,WR,Tajae,Tajae Sharpe,Sharpe,1.899999936,3,4500,PHI@TEN,TEN,PHI,,
+
+28515-80294,TE,Anthony,Anthony Firkser,Firkser,0,0,4500,PHI@TEN,TEN,PHI,,
+
+28515-14761,WR,Andre,Andre Holmes,Holmes,2.100000064,3,4500,BUF@GB,BUF,GB,,
+
+28515-43433,RB,Boston,Boston Scott,Scott,0,0,4500,NO@NYG,NO,NYG,,
+
+28515-80299,RB,Patrick,Patrick Ricard,Ricard,3.799999952,4,4500,BAL@PIT,BAL,PIT,,
+
+28515-26038,TE,Tyler,Tyler Kroft,Kroft,1.866666635,3,4500,CIN@ATL,CIN,ATL,,
+
+28515-32185,RB,Zach,Zach Line,Line,2.833333333,3,4500,NO@NYG,NO,NYG,,
+
+28515-26045,WR,Leonte,Leonte Carroo,Carroo,2.599999905,4,4500,MIA@NE,MIA,NE,,
+
+28515-60861,WR,Damion,Damion Ratley,Ratley,0,0,4500,CLE@OAK,CLE,OAK,,
+
+28515-53697,WR,Kaelin,Kaelin Clay,Clay,-1,2,4500,NO@NYG,NYG,NO,IR,Ankle
+
+28515-55750,WR,Chris,Chris Lacy,Lacy,0,0,4500,DET@DAL,DET,DAL,,
+
+28515-26057,RB,Michael,Michael Burton,Burton,1.100000024,1,4500,TB@CHI,CHI,TB,,
+
+28515-28106,RB,Joe,Joe Kerridge,Kerridge,8.E-01,1,4500,BUF@GB,GB,BUF,,
+
+28515-57803,WR,Jordan,Jordan Lasley,Lasley,0,0,4500,BAL@PIT,BAL,PIT,,
+
+28515-31184,RB,Jonathan,Jonathan Williams,Williams,2.E-01,3,4500,NO@NYG,NO,NYG,,
+
+28515-27096,WR,Marcus,Marcus Lucas,Lucas,0,0,4500,SEA@ARI,SEA,ARI,,
+
+28515-40410,WR,Josh,Josh Smith,Smith,0,0,4500,NO@NYG,NO,NYG,,
+
+28515-33244,WR,Eli,Eli Rogers,Rogers,2.324999968,12,4500,BAL@PIT,PIT,BAL,NA,Knee - acl
+
+28515-80353,TE,Robert,Robert Tonyan,Tonyan,0,0,4500,BUF@GB,GB,BUF,,
+
+28515-14820,RB,Nick,Nick Bellore,Bellore,0,1,4500,DET@DAL,DET,DAL,,
+
+28515-56809,WR,Allen,Allen Lazard,Lazard,0,0,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-32235,WR,Marcus,Marcus Johnson,Johnson,-2.E-01,1,4500,HOU@IND,IND,HOU,,
+
+28515-40434,WR,Greg,Greg Ward Jr.,Ward Jr.,0,0,4500,PHI@TEN,PHI,TEN,,
+
+28515-41459,RB,Keith,Keith Ford,Ford,0,0,4500,BUF@GB,BUF,GB,,
+
+28515-54782,TE,Cameron,Cameron Brate,Brate,5.449999809,2,4500,TB@CHI,TB,CHI,,
+
+28515-39428,RB,Kyle,Kyle Juszczyk,Juszczyk,6.566666921,3,4500,SF@LAC,SF,LAC,,
+
+28515-23046,RB,Jamize,Jamize Olawale,Olawale,2.76666673,6,4500,DET@DAL,DAL,DET,,
+
+28515-31241,WR,Sammie,Sammie Coates Jr.,Coates Jr.,0,1,4500,HOU@IND,HOU,IND,Q,Hamstring
+
+28515-6672,TE,Marcedes,Marcedes Lewis,Lewis,0,1,4500,BUF@GB,GB,BUF,,
+
+28515-64031,TE,Hayden,Hayden Hurst,Hurst,0,0,4500,BAL@PIT,BAL,PIT,Q,Foot
+
+28515-33320,RB,Senorise,Senorise Perry,Perry,7.6E-01,5,4500,MIA@NE,MIA,NE,,
+
+28515-38441,RB,Justin,Justin Davis,Davis,1.E-01,1,4500,MIN@LAR,LAR,MIN,,
+
+28515-46633,WR,Keenan,Keenan Reynolds,Reynolds,0,0,4500,SEA@ARI,SEA,ARI,,
+
+28515-57900,RB,Quinton,Quinton Flowers,Flowers,0,0,4500,CIN@ATL,CIN,ATL,,
+
+28515-14905,WR,Kamar,Kamar Aiken,Aiken,6.400000095,1,4500,PHI@TEN,PHI,TEN,,
+
+28515-27199,RB,Marcus,Marcus Murphy,Murphy,2.933333397,3,4500,BUF@GB,BUF,GB,Q,Ribs
+
+28515-64070,WR,Tim,Tim White,White,0,1,4500,BAL@PIT,BAL,PIT,,
+
+28515-12872,RB,James,James Develin,Develin,1.399999936,3,4500,MIA@NE,NE,MIA,,
+
+28515-52808,RB,Dontrell,Dontrell Hilliard,Hilliard,0,0,4500,CLE@OAK,CLE,OAK,,
+
+28515-32331,RB,Tra,Tra Carson,Carson,0,0,4500,CIN@ATL,CIN,ATL,IR,Hamstring
+
+28515-47695,RB,Jordan,Jordan Chunn,Chunn,0,0,4500,DET@DAL,DAL,DET,,
+
+28515-41552,WR,Dylan,Dylan Cantrell,Cantrell,0,0,4500,SF@LAC,LAC,SF,,
+
+28515-31329,WR,Russell,Russell Shepard,Shepard,0,1,4500,NO@NYG,NYG,NO,,
+
+28515-56931,RB,Robert,Robert Martin,Martin,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-62055,WR,Ray-Ray,Ray-Ray McCloud III,McCloud III,1.100000024,1,4500,BUF@GB,BUF,GB,,
+
+28515-7784,WR,Darrius,Darrius Heyward-Bey,Heyward-Bey,2.979999924,5,4500,BAL@PIT,PIT,BAL,,
+
+28515-55912,WR,Saeed,Saeed Blacknall,Blacknall,0,0,4500,CLE@OAK,OAK,CLE,,
+
+28515-38514,WR,Kevin,Kevin White,White,1.600000024,1,4500,TB@CHI,CHI,TB,,
+
+28515-33403,WR,Tevin,Tevin Jones,Jones,0,0,4500,BAL@PIT,PIT,BAL,,
+
+28515-27273,RB,Andy,Andy Janovich,Janovich,9.E-01,2,4500,KC@DEN,DEN,KC,,
+
+28515-40602,WR,Kermit,Kermit Whitfield,Whitfield,0,0,4500,CIN@ATL,CIN,ATL,,
+
+28515-52897,RB,Darrel,Darrel Williams,Williams,0,0,4500,KC@DEN,KC,DEN,,
+
+28515-80546,TE,Dan,Dan Arnold,Arnold,0,0,4500,NO@NYG,NO,NYG,,
+
+28515-40612,WR,Bobo,Bobo Wilson,Wilson,3.03333346,3,4500,TB@CHI,TB,CHI,,
+
+28515-47780,WR,Taywan,Taywan Taylor,Taylor,5.23333327,3,4500,PHI@TEN,TEN,PHI,,
+
+28515-29351,WR,De'Anthony,De'Anthony Thomas,Thomas,2.199999968,3,4500,KC@DEN,KC,DEN,,
+
+28515-84648,WR,Josh,Josh Crockett,Crockett,0,0,4500,KC@DEN,KC,DEN,,
+
+28515-29357,RB,Kenjon,Kenjon Barner,Barner,1.523076864,13,4500,MIA@NE,NE,MIA,,
+
+28515-7856,WR,Matthew,Matthew Slater,Slater,0,0,4500,MIA@NE,NE,MIA,,
+
+28515-52916,WR,Russell,Russell Gage,Gage,0,0,4500,CIN@ATL,ATL,CIN,,
+
+28515-52917,WR,D.J.,D.J. Chark Jr.,Chark Jr.,-1.E-01,2,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-58041,RB,Mike,Mike Boone,Boone,1.600000024,1,4500,MIN@LAR,MIN,LAR,,
+
+28515-71359,WR,Javon,Javon Wims,Wims,0,0,4500,TB@CHI,CHI,TB,,
+
+28515-30403,WR,Chris,Chris Conley,Conley,5.666666667,3,4500,KC@DEN,KC,DEN,,
+
+28515-70341,WR,Moritz,Moritz Boehringer,Boehringer,0,0,4500,CIN@ATL,CIN,ATL,,
+
+28515-40647,WR,Marquez,Marquez Valdes-Scantling,Valdes-Scantling,2.66667E-01,3,4500,BUF@GB,GB,BUF,,
+
+28515-80584,WR,Lance,Lance Lenoir,Lenoir,0,0,4500,DET@DAL,DAL,DET,,
+
+28515-81616,WR,Rashard,Rashard Davis,Davis,0,0,4500,PHI@TEN,PHI,TEN,,
+
+28515-45791,WR,Rashard,Rashard Higgins,Higgins,5.400000254,3,4500,CLE@OAK,CLE,OAK,,
+
+28515-38624,RB,T.J.,T.J. Logan,Logan,0,1,4500,SEA@ARI,ARI,SEA,,
+
+28515-39649,RB,Benny,Benny Cunningham,Cunningham,7.E-01,2,4500,TB@CHI,CHI,TB,,
+
+28515-40674,WR,Jester,Jester Weah,Weah,0,0,4500,HOU@IND,HOU,IND,,
+
+28515-57064,RB,Ryan,Ryan Nall,Nall,0,0,4500,TB@CHI,CHI,TB,,
+
+28515-38634,WR,Ryan,Ryan Switzer,Switzer,3.866666794,3,4500,BAL@PIT,PIT,BAL,,
+
+28515-44784,RB,Darius,Darius Jackson,Jackson,0,0,4500,BUF@GB,GB,BUF,,
+
+28515-64242,WR,Keke,Keke Coutee,Coutee,0,0,4500,HOU@IND,HOU,IND,Q,Hamstring
+
+28515-56051,WR,Caleb,Caleb Scott,Scott,0,0,4500,SEA@ARI,SEA,ARI,,
+
+28515-56059,WR,Trent,Trent Sherfield,Sherfield,0,0,4500,SEA@ARI,ARI,SEA,,
+
+28515-56064,RB,Bo,Bo Scarbrough,Scarbrough,0,0,4500,DET@DAL,DAL,DET,,
+
+28515-57091,WR,Tim,Tim Patrick,Patrick,1.549999952,2,4500,KC@DEN,DEN,KC,,
+
+28515-45835,WR,Da'Mari,Da'Mari Scott,Scott,0,0,4500,CLE@OAK,CLE,OAK,,
+
+28515-41741,WR,DaeSean,DaeSean Hamilton,Hamilton,0,1,4500,KC@DEN,DEN,KC,,
+
+28515-33552,WR,TJ,TJ Jones,Jones,1,2,4500,DET@DAL,DET,DAL,,
+
+28515-97046,WR,Frank,Frank Stephens,Stephens,0,0,4500,SF@LAC,SF,LAC,,
+
+28515-29466,RB,Ricky,Ricky Ortiz,Ortiz,0,0,4500,CIN@ATL,ATL,CIN,,
+
+28515-31524,WR,Cody,Cody Core,Core,0,2,4500,CIN@ATL,CIN,ATL,,
+
+28515-82731,WR,Brandon,Brandon Zylstra,Zylstra,0,0,4500,MIN@LAR,MIN,LAR,,
+
+28515-28463,WR,Austin,Austin Carr,Carr,2,3,4500,NO@NYG,NO,NYG,,
+
+28515-55088,WR,Malik,Malik Turner,Turner,0,0,4500,SEA@ARI,SEA,ARI,,
+
+28515-27441,RB,Damien,Damien Williams,Williams,1.099999984,3,4500,KC@DEN,KC,DEN,,
+
+28515-43826,WR,Tommylee,Tommylee Lewis,Lewis,0,2,4500,NO@NYG,NO,NYG,IR,Knee
+
+28515-22336,WR,Josh,Josh Bellamy,Bellamy,9.E-01,2,4500,TB@CHI,CHI,TB,,
+
+28515-55113,RB,Shaun,Shaun Wilson,Wilson,1.133333365,3,4500,TB@CHI,TB,CHI,,
+
+28515-64339,WR,Auden,Auden Tate,Tate,0,0,4500,CIN@ATL,CIN,ATL,,
+
+28515-58202,RB,Ryan,Ryan Yurachek,Yurachek,0,0,4500,CLE@OAK,OAK,CLE,,
+
+28515-44893,RB,Roosevelt,Roosevelt Nix,Nix,2.400000095,1,4500,BAL@PIT,PIT,BAL,,
+
+28515-43870,RB,Joel,Joel Bouagnon,Bouagnon,0,0,4500,BUF@GB,GB,BUF,,
+
+28515-38753,TE,Jake,Jake Butt,Butt,4.166666667,3,4500,KC@DEN,DEN,KC,O,Knee
+
+28515-70501,RB,C.J.,C.J. Ham,Ham,2.566666603,3,4500,MIN@LAR,MIN,LAR,,
+
+28515-32613,RB,DeAndre,DeAndre Washington,Washington,4.533333333,15,4500,CLE@OAK,OAK,CLE,,
+
+28515-53097,WR,Josh,Josh Reynolds,Reynolds,2.737499952,8,4500,MIN@LAR,LAR,MIN,,
+
+28515-55153,RB,Garrett,Garrett Dickerson,Dickerson,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-55165,RB,Justin,Justin Jackson,Jackson,0,0,4500,SF@LAC,LAC,SF,,
+
+28515-63360,WR,Antonio,Antonio Callaway,Callaway,6.766666412,3,4500,CLE@OAK,CLE,OAK,,
+
+28515-41857,RB,Dalyn,Dalyn Dawkins,Dawkins,0,0,4500,PHI@TEN,TEN,PHI,,
+
+28515-43912,WR,Chad,Chad Beebe,Beebe,0,0,4500,MIN@LAR,MIN,LAR,,
+
+28515-45964,WR,Marcus,Marcus Kemp,Kemp,1.200000048,1,4500,KC@DEN,KC,DEN,,
+
+28515-40866,WR,J'Mon,J'Mon Moore,Moore,0,0,4500,BUF@GB,GB,BUF,,
+
+28515-25513,WR,Darius,Darius Jennings,Jennings,3.599999905,2,4500,PHI@TEN,TEN,PHI,,
+
+28515-34729,RB,Dwayne,Dwayne Washington,Washington,1.360000038,5,4500,NO@NYG,NO,NYG,,
+
+28515-56233,WR,Steve,Steve Ishmael,Ishmael,0,0,4500,HOU@IND,IND,HOU,,
+
+28515-30635,RB,Mike,Mike Davis,Davis,9.5E-01,2,4500,SEA@ARI,SEA,ARI,,
+
+28515-45997,WR,Keith,Keith Kirkwood,Kirkwood,0,0,4500,NO@NYG,NO,NYG,,
+
+28515-29624,RB,Tre,Tre Madden,Madden,7.E-01,2,4500,SEA@ARI,SEA,ARI,,
+
+28515-43961,RB,Tyler,Tyler Ervin,Ervin,5.66667E-01,3,4500,HOU@IND,HOU,IND,,
+
+28515-14268,RB,Stevan,Stevan Ridley,Ridley,1.5,2,4500,BAL@PIT,PIT,BAL,,
+
+28515-30652,WR,Tanner,Tanner McEvoy,McEvoy,1.54285717,7,4500,MIA@NE,MIA,NE,,
+
+28515-43970,RB,Shane,Shane Smith,Smith,0,0,4500,NO@NYG,NYG,NO,,
+
+28515-43973,RB,Keith,Keith Smith,Smith,1.450000048,2,4500,CLE@OAK,OAK,CLE,,
+
+28515-57299,TE,Gerald,Gerald Everett,Everett,1.5,2,4500,MIN@LAR,LAR,MIN,,
+
+28515-55257,WR,Steven,Steven Dunbar,Dunbar,0,0,4500,SF@LAC,SF,LAC,,
+
+28515-30684,RB,Brandon,Brandon Wilds,Wilds,4.5E-01,2,4500,NYJ@JAC,JAC,NYJ,,
+
+28515-40927,RB,David,David Williams,Williams,0,0,4500,KC@DEN,DEN,KC,,
+
+28515-14319,RB,Taiwan,Taiwan Jones,Jones,0,1,4500,BUF@GB,BUF,GB,,
+
+28515-40948,RB,Ralph,Ralph Webb,Webb,0,0,4500,MIA@NE,NE,MIA,,
+
+28515-14327,RB,Anthony,Anthony Sherman,Sherman,6.099999905,2,4500,KC@DEN,KC,DEN,,
+
+28515-63479,RB,John,John Kelly,Kelly,0,0,4500,MIN@LAR,LAR,MIN,,
+
+28515-39930,WR,Reggie,Reggie Davis,Davis,0,0,4500,PHI@TEN,PHI,TEN,,
+
+28515-57342,WR,Tre'Quan,Tre'Quan Smith,Smith,1.149999976,2,4500,NO@NYG,NO,NYG,,
+
+28515-62510,TE,Nick,Nick Boyle,Boyle,3.26666673,3,4400,BAL@PIT,BAL,PIT,,
+
+28515-11431,TE,Jermaine,Jermaine Gresham,Gresham,1.399999976,1,4400,SEA@ARI,ARI,SEA,Q,Achilles
+
+28515-12548,D,Los Angeles,Los Angeles Chargers,Chargers,4.666666667,3,4400,SF@LAC,LAC,SF,,
+
+28515-12550,D,Seattle,Seattle Seahawks,Seahawks,9.666666667,3,4400,SEA@ARI,SEA,ARI,,
+
+28515-39305,TE,A.J.,A.J. Derby,Derby,5.25,2,4400,MIA@NE,MIA,NE,Q,Foot
+
+28515-22004,TE,Dwayne,Dwayne Allen,Allen,1.633333365,12,4400,MIA@NE,NE,MIA,,
+
+28515-70335,TE,Seth,Seth DeValve,DeValve,3.75,16,4400,CLE@OAK,CLE,OAK,Q,Hamstring
+
+28515-26355,TE,Logan,Logan Thomas,Thomas,2.049999952,2,4400,BUF@GB,BUF,GB,,
+
+28515-28487,TE,Jeff,Jeff Heuerman,Heuerman,1.899999936,3,4400,KC@DEN,DEN,KC,,
+
+28515-39814,TE,Jordan,Jordan Leggett,Leggett,0,1,4400,NYJ@JAC,NYJ,JAC,,
+
+28515-56265,TE,Mike,Mike Gesicki,Gesicki,3.099999905,2,4400,MIA@NE,MIA,NE,,
+
+28515-29725,TE,Levine,Levine Toilolo,Toilolo,1.200000048,1,4300,DET@DAL,DET,DAL,,
+
+28515-14394,TE,Virgil,Virgil Green,Green,3.73333327,3,4300,SF@LAC,LAC,SF,,
+
+28515-12527,D,Chicago,Chicago Bears,Bears,14.66666667,3,4300,TB@CHI,CHI,TB,,
+
+28515-12533,D,Green Bay,Green Bay Packers,Packers,6.333333333,3,4300,BUF@GB,GB,BUF,,
+
+28515-38301,TE,Darren,Darren Fells,Fells,2.099999905,2,4300,CLE@OAK,CLE,OAK,,
+
+28515-28144,TE,Dion,Dion Sims,Sims,1.899999976,1,4300,TB@CHI,CHI,TB,,
+
+28515-28346,TE,Maxx,Maxx Williams,Williams,3.666666667,3,4300,BAL@PIT,BAL,PIT,,
+
+28515-26384,TE,Trey,Trey Edmunds,Edmunds,3.600000064,3,4300,BAL@PIT,PIT,BAL,,
+
+28515-28570,TE,Nick,Nick Vannett,Vannett,3.366666794,3,4300,SEA@ARI,SEA,ARI,,
+
+28515-14240,TE,Lance,Lance Kendricks,Kendricks,9.E-01,3,4300,BUF@GB,GB,BUF,,
+
+28515-14355,TE,Niles,Niles Paul,Paul,1.350000024,2,4200,NYJ@JAC,JAC,NYJ,,
+
+28515-12540,D,Minnesota,Minnesota Vikings,Vikings,8.333333333,3,4200,MIN@LAR,MIN,LAR,,
+
+28515-12541,D,New England,New England Patriots,Patriots,4.666666667,3,4200,MIA@NE,NE,MIA,,
+
+28515-12556,D,Houston,Houston Texans,Texans,4.666666667,3,4200,HOU@IND,HOU,IND,,
+
+28515-45335,TE,Michael,Michael Roberts,Roberts,8,1,4200,DET@DAL,DET,DAL,Q,Knee
+
+28515-48482,TE,David,David Morgan,Morgan,2.150000095,2,4200,MIN@LAR,MIN,LAR,,
+
+28515-29277,TE,Stephen,Stephen Anderson,Anderson,3.764285769,14,4200,MIA@NE,NE,MIA,,
+
+28515-47870,TE,Tyler,Tyler Higbee,Higbee,5.650000095,2,4200,MIN@LAR,LAR,MIN,,
+
+28515-19342,TE,Demetrius,Demetrius Harris,Harris,7.800000191,1,4200,KC@DEN,KC,DEN,,
+
+28515-29592,TE,Xavier,Xavier Grimble,Grimble,0,1,4200,BAL@PIT,PIT,BAL,,
+
+28515-48116,TE,Jonnu,Jonnu Smith,Smith,1.549999952,2,4200,PHI@TEN,TEN,PHI,,
+
+28515-60451,TE,Tyler,Tyler Conklin,Conklin,1.149999976,2,4100,MIN@LAR,MIN,LAR,,
+
+28515-12537,D,Oakland,Oakland Raiders,Raiders,1.666666667,3,4100,CLE@OAK,OAK,CLE,,
+
+28515-22920,TE,Derek,Derek Carrier,Carrier,2,2,4100,CLE@OAK,OAK,CLE,,
+
+28515-22065,TE,Rhett,Rhett Ellison,Ellison,5,3,4100,NO@NYG,NYG,NO,,
+
+28515-39492,TE,Josh,Josh Hill,Hill,1.73333327,3,4100,NO@NYG,NO,NYG,,
+
+28515-12055,TE,Logan,Logan Paulsen,Paulsen,1.549999952,2,4100,CIN@ATL,ATL,CIN,,
+
+28515-14348,TE,Lee,Lee Smith,Smith,1.933333397,6,4000,CLE@OAK,OAK,CLE,,
+
+28515-27672,TE,Matt,Matt LaCosse,LaCosse,0,1,4000,KC@DEN,DEN,KC,,
+
+28515-55336,TE,Chris,Chris Herndon,Herndon,2.450000048,2,4000,NYJ@JAC,NYJ,JAC,,
+
+28515-62505,TE,MyCole,MyCole Pruitt,Pruitt,0,0,4000,PHI@TEN,TEN,PHI,,
+
+28515-62508,TE,James,James O'Shaughnessy,O'Shaughnessy,7.33333E-01,3,4000,NYJ@JAC,JAC,NYJ,,
+
+28515-62515,TE,Neal,Neal Sterling,Sterling,4.199999809,1,4000,NYJ@JAC,NYJ,JAC,Q,Concussion
+
+28515-42046,TE,Durham,Durham Smythe,Smythe,0,0,4000,MIA@NE,MIA,NE,,
+
+28515-30787,TE,Alex,Alex Ellis,Ellis,0,0,4000,KC@DEN,KC,DEN,,
+
+28515-62534,TE,Brian,Brian Parker,Parker,0,0,4000,KC@DEN,DEN,KC,,
+
+28515-30800,TE,Jason,Jason Croom,Croom,4.53333346,3,4000,BUF@GB,BUF,GB,Q,Knee
+
+28515-29805,TE,Ryan,Ryan Hewitt,Hewitt,0,1,4000,HOU@IND,IND,HOU,,
+
+28515-79980,TE,Eric,Eric Saubert,Saubert,0,1,4000,CIN@ATL,ATL,CIN,,
+
+28515-28807,TE,Gabe,Gabe Holmes,Holmes,0,1,4000,SEA@ARI,ARI,SEA,,
+
+28515-80011,TE,Antony,Antony Auclair,Auclair,1.75,2,4000,TB@CHI,TB,CHI,,
+
+28515-62617,TE,Khari,Khari Lee,Lee,0,0,4000,BUF@GB,BUF,GB,,
+
+28515-62633,TE,Matt,Matt Lengel,Lengel,0,0,4000,HOU@IND,HOU,IND,,
+
+28515-83117,TE,Tanner,Tanner Hudson,Hudson,0,0,4000,TB@CHI,TB,CHI,,
+
+28515-32957,TE,Eric,Eric Tomlinson,Tomlinson,2,3,4000,NYJ@JAC,NYJ,JAC,,
+
+28515-83138,TE,Ross,Ross Dwelley,Dwelley,0,0,4000,SF@LAC,SF,LAC,,
+
+28515-52436,TE,Mark,Mark Andrews,Andrews,6.900000254,3,4000,BAL@PIT,BAL,PIT,,
+
+28515-57556,TE,Jerome,Jerome Cunningham,Cunningham,0,0,4000,DET@DAL,DET,DAL,,
+
+28515-62718,TE,Daniel,Daniel Brown,Brown,2.424999952,8,4000,TB@CHI,CHI,TB,,
+
+28515-12544,D,New York,New York Jets,Jets,13,3,4000,NYJ@JAC,NYJ,JAC,,
+
+28515-12546,D,Arizona,Arizona Cardinals,Cardinals,5.333333333,3,4000,SEA@ARI,ARI,SEA,,
+
+28515-83202,TE,Christian,Christian Scotland-Williamson,Scotland-Williamson,0,0,4000,BAL@PIT,PIT,BAL,,
+
+28515-29956,TE,Joshua,Joshua Perkins,Perkins,4.599999905,2,4000,PHI@TEN,PHI,TEN,,
+
+28515-27918,TE,Henry,Henry Krieger-Coble,Krieger-Coble,0,0,4000,MIN@LAR,LAR,MIN,,
+
+28515-83253,TE,Paul,Paul Butler,Butler,0,0,4000,CLE@OAK,OAK,CLE,,
+
+28515-45472,TE,Garrett,Garrett Griffin,Griffin,4.5E-01,2,4000,NO@NYG,NO,NYG,,
+
+28515-25011,TE,Darren,Darren Waller,Waller,0,0,4000,BAL@PIT,BAL,PIT,,
+
+28515-40371,TE,Johnny,Johnny Mundt,Mundt,0,0,4000,MIN@LAR,LAR,MIN,,
+
+28515-47551,TE,Mason,Mason Schreck,Schreck,0,0,4000,CIN@ATL,CIN,ATL,,
+
+28515-54742,TE,Scott,Scott Simonson,Simonson,0,0,4000,NO@NYG,NYG,NO,,
+
+28515-84440,TE,Jaeden,Jaeden Graham,Graham,0,0,4000,CIN@ATL,ATL,CIN,,
+
+28515-27117,TE,Sean,Sean Culkin,Culkin,0,0,4000,SF@LAC,LAC,SF,,
+
+28515-41469,TE,Darrell,Darrell Daniels,Daniels,6.83333E-01,6,4000,SEA@ARI,SEA,ARI,,
+
+28515-22051,TE,Orson,Orson Charles,Charles,0,1,4000,CLE@OAK,CLE,OAK,,
+
+28515-80486,TE,Alex,Alex Gray,Gray,0,0,4000,CIN@ATL,ATL,CIN,,
+
+28515-38523,TE,Geoff,Geoff Swaim,Swaim,5.25,2,4000,DET@DAL,DAL,DET,,
+
+28515-33418,TE,Alan,Alan Cross,Cross,0,1,4000,TB@CHI,TB,CHI,,
+
+28515-47788,TE,Deon,Deon Yelder,Yelder,0,0,4000,NO@NYG,NO,NYG,,
+
+28515-62127,TE,Cole,Cole Hikutini,Hikutini,1.25,2,4000,MIN@LAR,MIN,LAR,,
+
+28515-70342,TE,Temarrick,Temarrick Hemingway,Hemingway,0,0,4000,MIN@LAR,LAR,MIN,,
+
+28515-40649,TE,Pharoah,Pharoah McKever,McKever,0,0,4000,CLE@OAK,CLE,OAK,,
+
+28515-70363,TE,Hakeem,Hakeem Valles,Valles,1,1,4000,DET@DAL,DET,DAL,,
+
+28515-71386,TE,Jordan,Jordan Thomas,Thomas,3.166666667,3,4000,HOU@IND,HOU,IND,,
+
+28515-54007,TE,Jacob,Jacob Hollister,Hollister,5,1,4000,MIA@NE,NE,MIA,Q,Chest
+
+28515-40697,TE,Bucky,Bucky Hodges,Hodges,0,0,4000,BAL@PIT,PIT,BAL,,
+
+28515-25346,TE,David,David Grinnage,Grinnage,0,0,4000,NYJ@JAC,JAC,NYJ,,
+
+28515-55042,TE,Dalton,Dalton Schultz,Schultz,0,0,4000,DET@DAL,DAL,DET,,
+
+28515-70457,TE,Cole,Cole Wick,Wick,0,0,4000,SF@LAC,SF,LAC,,
+
+28515-70489,TE,Ben,Ben Braunecker,Braunecker,0,0,4000,TB@CHI,CHI,TB,,
+
+28515-38772,TE,Nate,Nate Wozniak,Wozniak,0,0,4000,NO@NYG,NO,NYG,,
+
+28515-27527,TE,Blake,Blake Jarwin,Jarwin,0,2,4000,DET@DAL,DAL,DET,,
+
+28515-40913,TE,Thomas,Thomas Duarte,Duarte,0,0,4000,SF@LAC,LAC,SF,,
+
+28515-24533,TE,Mo,Mo Alie-Cox,Alie-Cox,0,0,4000,HOU@IND,IND,HOU,,
+
+28515-43993,TE,Andrew,Andrew Vollert,Vollert,0,0,4000,SEA@ARI,ARI,SEA,,
+
+28515-14304,TE,Luke,Luke Stocker,Stocker,2.933333397,3,4000,PHI@TEN,TEN,PHI,,
+
+28515-57325,TE,Jordan,Jordan Franks,Franks,0,0,4000,CIN@ATL,CIN,ATL,,
+
+28515-57338,TE,Jordan,Jordan Akins,Akins,2.5,3,4000,HOU@IND,HOU,IND,,
+
+28515-12536,D,Kansas City,Kansas City Chiefs,Chiefs,3.666666667,3,3900,KC@DEN,KC,DEN,,
+
+28515-12547,D,Pittsburgh,Pittsburgh Steelers,Steelers,9.666666667,3,3900,BAL@PIT,PIT,BAL,,
+
+28515-12555,D,Baltimore,Baltimore Ravens,Ravens,7.333333333,3,3900,BAL@PIT,BAL,PIT,,
+
+28515-12528,D,Cincinnati,Cincinnati Bengals,Bengals,7.333333333,3,3800,CIN@ATL,CIN,ATL,,
+
+28515-12530,D,Dallas,Dallas Cowboys,Cowboys,6.666666667,3,3700,DET@DAL,DAL,DET,,
+
+28515-12542,D,New Orleans,New Orleans Saints,Saints,1,3,3700,NO@NYG,NO,NYG,,
+
+28515-12535,D,Indianapolis,Indianapolis Colts,Colts,8,3,3600,HOU@IND,IND,HOU,,
+
+28515-12529,D,Cleveland,Cleveland Browns,Browns,10.66666667,3,3500,CLE@OAK,CLE,OAK,,
+
+28515-12531,D,Denver,Denver Broncos,Broncos,7.333333333,3,3500,KC@DEN,DEN,KC,,
+
+28515-12532,D,Detroit,Detroit Lions,Lions,7,3,3500,DET@DAL,DET,DAL,,
+
+28515-12534,D,Tennessee,Tennessee Titans,Titans,10,3,3500,PHI@TEN,TEN,PHI,,
+
+28515-12543,D,New York,New York Giants,Giants,4,3,3500,NO@NYG,NYG,NO,,
+
+28515-12551,D,Tampa Bay,Tampa Bay Buccaneers,Buccaneers,6.333333333,3,3500,TB@CHI,TB,CHI,,
+
+28515-12525,D,Atlanta,Atlanta Falcons,Falcons,2.666666667,3,3400,CIN@ATL,ATL,CIN,,
+
+28515-12549,D,San Francisco,San Francisco 49ers,49ers,2.666666667,3,3300,SF@LAC,SF,LAC,,
+
+28515-12526,D,Buffalo,Buffalo Bills,Bills,6,3,3100,BUF@GB,BUF,GB,,
+
+28515-12539,D,Miami,Miami Dolphins,Dolphins,11.33333333,3,3100,MIA@NE,MIA,NE,,
+
+
