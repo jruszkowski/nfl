@@ -1,3 +1,492 @@
-,projection,p1,p2,p3,p4,p5,p6,p7,p8,p9
-0,96.0,Pierre Garcon,Larry Fitzgerald,Chris Hogan,Kenny Golladay,Phillip Lindsay,James White,Blake Bortles,Arizona Cardinals,Tyler Higbee
-1,94.5,Pierre Garcon,Larry Fitzgerald,Chris Hogan,Kenny Golladay,Phillip Lindsay,James White,Derek Carr,Arizona Cardinals,Tyler Higbee
+,1,2,3,4,5,6,7,8,9,Salary,Projection
+0,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,58400,143.8
+1,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,59500,143.4
+2,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,55900,143.1
+3,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,57300,143.0
+4,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,57000,142.7
+5,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54800,142.3
+6,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,59300,142.2
+160,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,59200,142.10000000000002
+7,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,58500,142.1
+8,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,58900,141.7
+9,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54200,141.5
+10,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,56000,141.4
+161,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,56700,141.4
+11,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,58200,141.39999999999998
+12,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,57800,141.3
+13,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,57400,141.29999999999998
+14,Rob Gronkowski,Todd Gurley II,James White,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,58100,141.10000000000002
+15,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Tom Brady,Oakland Raiders,55300,141.1
+162,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,57800,141.0
+16,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,56400,141.0
+17,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,New England Patriots,56500,140.8
+18,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,56300,140.70000000000002
+322,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,59100,140.70000000000002
+19,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,55700,140.7
+163,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,56100,140.60000000000002
+20,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,54900,140.6
+21,George Kittle,Todd Gurley II,James White,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,55600,140.4
+164,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,59300,140.4
+22,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,55100,140.3
+165,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,57200,140.20000000000002
+23,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53800,140.0
+166,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,59700,140.0
+323,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,58000,139.9
+24,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,Oakland Raiders,56200,139.9
+25,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,54700,139.8
+167,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,57600,139.8
+26,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,54300,139.79999999999998
+168,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,56800,139.7
+27,George Kittle,Todd Gurley II,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54500,139.60000000000002
+324,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,59600,139.5
+28,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,55800,139.4
+169,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Denver Broncos,58700,139.39999999999998
+29,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Tom Brady,Denver Broncos,59800,139.3
+30,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,57700,139.29999999999998
+170,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,San Francisco 49ers,57900,139.29999999999998
+31,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53200,139.20000000000002
+325,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,56000,139.20000000000002
+32,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,58300,139.2
+171,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,55700,139.10000000000002
+326,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,57400,139.10000000000002
+33,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,57200,139.10000000000002
+172,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,New England Patriots,57300,139.1
+173,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,57000,139.0
+327,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,59200,139.0
+174,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,56200,138.9
+34,George Kittle,Todd Gurley II,James White,Kerryon Johnson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,58000,138.9
+175,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Detroit Lions,58300,138.89999999999998
+35,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,San Francisco 49ers,58800,138.89999999999998
+328,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,57100,138.8
+36,Jared Cook,Todd Gurley II,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53900,138.8
+37,Rob Gronkowski,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,56600,138.70000000000002
+176,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,New England Patriots,58400,138.7
+177,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Denver Broncos,58100,138.60000000000002
+38,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,55200,138.6
+39,George Kittle,Todd Gurley II,James White,Kerryon Johnson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Denver Broncos,59100,138.5
+178,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,56600,138.5
+329,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54900,138.4
+40,Jared Cook,Todd Gurley II,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Tom Brady,Oakland Raiders,55000,138.4
+41,George Kittle,Todd Gurley II,James White,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,56100,138.3
+179,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54600,138.3
+330,Rob Gronkowski,George Kittle,Todd Gurley II,Phillip Lindsay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,58100,138.3
+331,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,58600,138.20000000000002
+180,Rob Gronkowski,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,59100,138.2
+181,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Detroit Lions,57700,138.10000000000002
+42,Jared Cook,Todd Gurley II,James White,Doug Martin,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54400,138.00000000000003
+182,George Kittle,Todd Gurley II,James White,Amari Cooper,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,59000,138.0
+43,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,54000,138.0
+332,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,58300,137.9
+333,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,59000,137.8
+183,Rob Gronkowski,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,San Francisco 49ers,59400,137.7
+334,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,56900,137.60000000000002
+335,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,56100,137.5
+184,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,54000,137.5
+44,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,53300,137.5
+185,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,55800,137.4
+336,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,57900,137.4
+45,George Kittle,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53500,137.3
+46,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,53000,137.2
+337,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,56500,137.10000000000002
+186,Jared Cook,Todd Gurley II,James White,Jordy Nelson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,56400,137.10000000000002
+187,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Tom Brady,Oakland Raiders,55100,137.1
+338,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,San Francisco 49ers,57200,137.1
+188,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,San Francisco 49ers,56900,137.0
+339,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,New England Patriots,56600,136.9
+189,Rob Gronkowski,Todd Gurley II,James White,Jordy Nelson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,59600,136.9
+340,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,55000,136.8
+190,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,New England Patriots,56300,136.8
+47,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,52600,136.70000000000002
+341,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,55400,136.70000000000002
+191,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,54700,136.70000000000002
+192,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,55500,136.7
+342,Jared Cook,George Kittle,Todd Gurley II,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Detroit Lions,57600,136.7
+193,Rob Gronkowski,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,Oakland Raiders,58500,136.6
+343,Rob Gronkowski,George Kittle,Todd Gurley II,Phillip Lindsay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,58200,136.6
+48,Jared Cook,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,52900,136.50000000000003
+194,Rob Gronkowski,Todd Gurley II,James White,Jordy Nelson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,60000,136.5
+344,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,55200,136.4
+49,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,52400,136.4
+195,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,54900,136.3
+345,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,58400,136.2
+196,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Jordy Nelson,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,58900,136.10000000000002
+346,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53900,136.10000000000002
+347,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,55500,136.1
+197,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,55200,136.0
+348,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,Oakland Raiders,56300,136.0
+198,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53600,135.9
+199,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,54100,135.8
+349,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,San Francisco 49ers,59500,135.79999999999998
+350,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,57300,135.60000000000002
+50,George Kittle,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,53600,135.6
+351,Rob Gronkowski,George Kittle,Todd Gurley II,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,57800,135.6
+51,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,53100,135.5
+200,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,54300,135.5
+201,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Emmanuel Sanders,Robert Woods,Tom Brady,Oakland Raiders,55600,135.4
+352,Jared Cook,Rob Gronkowski,Todd Gurley II,James White,Kenny Golladay,Emmanuel Sanders,Robert Woods,Tom Brady,Denver Broncos,59900,135.4
+202,George Kittle,Todd Gurley II,James White,Jordy Nelson,Cooper Kupp,Emmanuel Sanders,Robert Woods,Tom Brady,Detroit Lions,58600,135.39999999999998
+353,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Denver Broncos,55900,135.2
+203,Jared Cook,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53000,135.1
+354,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,55100,135.1
+52,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,San Francisco 49ers,52700,135.0
+53,George Kittle,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,52500,134.9
+355,Rob Gronkowski,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,56200,134.8
+204,Jared Cook,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,53800,134.70000000000002
+356,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,55300,134.7
+205,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,55000,134.6
+357,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,54800,134.5
+358,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,54000,134.4
+54,George Kittle,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,52800,134.4
+359,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Detroit Lions,55700,134.3
+360,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,San Francisco 49ers,56400,134.29999999999998
+206,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,53700,134.2
+361,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,54200,134.10000000000002
+55,Jared Cook,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,51900,134.10000000000002
+362,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,54100,134.1
+56,Jared Cook,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,52300,134.00000000000003
+207,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,53900,133.9
+363,Jared Cook,George Kittle,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Tom Brady,Detroit Lions,56800,133.89999999999998
+364,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,54500,133.8
+208,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,54400,133.8
+57,Jared Cook,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,52100,133.70000000000002
+209,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,52700,133.70000000000002
+365,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,52900,133.70000000000002
+366,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,53300,133.60000000000002
+210,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,54200,133.6
+58,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,52200,133.6
+211,Jared Cook,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,53100,133.4
+367,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,53100,133.3
+212,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,53400,133.20000000000002
+213,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,53200,133.2
+214,Jared Cook,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,52100,132.9
+59,George Kittle,Phillip Lindsay,James White,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51600,132.70000000000002
+368,Jared Cook,Jeff Heuerman,Todd Gurley II,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,53700,132.5
+215,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,52800,132.4
+60,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Derek Carr,Oakland Raiders,51800,132.4
+369,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,54300,132.4
+370,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,53800,132.10000000000002
+61,George Kittle,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,51700,132.1
+371,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,53000,132.0
+62,George Kittle,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50500,131.9
+372,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,53200,131.70000000000002
+63,Jared Cook,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,51300,131.60000000000002
+64,Jared Cook,Todd Gurley II,Phillip Lindsay,James White,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,51400,131.6
+373,Jared Cook,George Kittle,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,52000,131.5
+216,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51700,131.4
+374,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,53500,131.4
+65,Jared Cook,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,51100,131.3
+375,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,52300,131.20000000000002
+217,Jared Cook,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,San Francisco 49ers,52200,131.2
+376,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Detroit Lions,53600,131.2
+66,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49900,131.10000000000002
+218,George Kittle,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,52400,131.0
+377,Jared Cook,George Kittle,Todd Gurley II,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,52600,131.0
+378,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,52100,130.9
+219,Jared Cook,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,52600,130.8
+220,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,San Francisco 49ers,52900,130.70000000000002
+379,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50900,130.70000000000002
+221,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51100,130.60000000000002
+222,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50600,130.6
+67,Jared Cook,Phillip Lindsay,James White,Doug Martin,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50400,130.3
+380,Jared Cook,Jeff Heuerman,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,52700,130.20000000000002
+223,Jared Cook,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51800,130.20000000000002
+68,George Kittle,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,50600,130.2
+69,George Kittle,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,50800,129.9
+224,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50000,129.8
+70,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49500,129.60000000000002
+225,Jared Cook,Todd Gurley II,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,52000,129.60000000000002
+71,Jared Cook,Todd Gurley II,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,51200,129.6
+226,Jared Cook,Todd Gurley II,Jalen Richard,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,52500,129.6
+381,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,San Francisco 49ers,52400,129.5
+382,Jared Cook,George Kittle,Phillip Lindsay,James White,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,52500,129.4
+228,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Robert Woods,Derek Carr,Oakland Raiders,51900,129.4
+227,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Jordy Nelson,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,51900,129.4
+72,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,50000,129.4
+383,Jared Cook,George Kittle,Todd Gurley II,Phillip Lindsay,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,52200,129.2
+384,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,51800,129.10000000000002
+73,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,50200,129.10000000000002
+385,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,51000,129.0
+229,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,51500,129.0
+230,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,50700,128.9
+386,Jared Cook,George Kittle,James White,Jalen Richard,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51700,128.8
+74,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,48900,128.8
+231,George Kittle,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,51400,128.70000000000002
+387,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,51200,128.70000000000002
+76,Jared Cook,Todd Gurley II,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,50900,128.60000000000002
+75,Jared Cook,Phillip Lindsay,James White,Doug Martin,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,50900,128.60000000000002
+232,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,50900,128.6
+233,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Robert Woods,Jared Goff,Detroit Lions,51600,128.5
+77,George Kittle,James White,Jalen Richard,Doug Martin,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50700,128.4
+388,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49900,128.4
+389,Jared Cook,George Kittle,Todd Gurley II,James White,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,51900,128.20000000000002
+234,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,50500,128.10000000000002
+235,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,50100,128.1
+78,Jared Cook,Phillip Lindsay,James White,Doug Martin,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49400,128.0
+390,Jared Cook,George Kittle,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50600,127.99999999999999
+79,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,49600,127.9
+236,George Kittle,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50300,127.89999999999999
+237,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,50400,127.8
+80,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,49800,127.60000000000001
+81,George Kittle,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,49700,127.6
+82,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,50300,127.4
+391,Jared Cook,George Kittle,James White,Doug Martin,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,51100,127.2
+238,Jared Cook,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49700,127.1
+83,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,49000,127.1
+392,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,51300,127.0
+239,Jared Cook,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,49800,127.0
+240,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,51000,126.9
+84,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,49100,126.80000000000001
+85,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,48700,126.8
+393,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Denver Broncos,50800,126.8
+394,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Emmanuel Sanders,Robert Woods,Jared Goff,Oakland Raiders,50400,126.7
+241,Jared Cook,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Tom Brady,Oakland Raiders,50800,126.69999999999999
+395,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,50000,126.69999999999999
+396,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,50100,126.4
+397,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,50200,126.39999999999999
+398,Jared Cook,Rob Gronkowski,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,51600,126.3
+86,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,48300,126.3
+242,Jared Cook,James White,Doug Martin,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,50200,126.3
+399,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,New England Patriots,50500,126.1
+87,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,48100,126.0
+400,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,49300,125.89999999999999
+401,Jared Cook,George Kittle,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49600,125.7
+402,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,49100,125.6
+88,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Tom Brady,Oakland Raiders,49200,125.6
+243,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,49200,125.5
+89,Jared Cook,Phillip Lindsay,James White,Doug Martin,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,48800,125.5
+244,Jared Cook,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,San Francisco 49ers,49900,125.30000000000001
+90,Jared Cook,Phillip Lindsay,James White,Doug Martin,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,48600,125.2
+403,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49700,124.8
+245,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,48700,124.7
+404,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Emmanuel Sanders,Jared Goff,San Francisco 49ers,50300,124.69999999999999
+91,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,San Francisco 49ers,48400,124.6
+92,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,New England Patriots,49300,124.5
+93,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,48200,124.30000000000001
+246,Jared Cook,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,49500,124.3
+405,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,San Francisco 49ers,49400,124.19999999999999
+247,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Brandon LaFell,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,49100,124.1
+94,George Kittle,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,48500,124.0
+406,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,49200,123.9
+248,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,49400,123.80000000000001
+407,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Detroit Lions,49800,123.8
+249,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Robert Woods,Derek Carr,Oakland Raiders,49600,123.5
+250,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Emmanuel Sanders,Jared Goff,Oakland Raiders,49600,123.5
+408,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Robert Woods,Nick Mullens,Oakland Raiders,49500,123.30000000000001
+409,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,48600,123.3
+410,Jared Cook,George Kittle,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,49000,123.2
+95,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,47900,123.2
+251,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Jared Goff,San Francisco 49ers,48800,123.0
+411,Jared Cook,George Kittle,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,48800,122.89999999999999
+252,Jared Cook,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,48900,122.8
+412,Jared Cook,George Kittle,Phillip Lindsay,James White,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,48900,122.8
+253,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,48600,122.7
+413,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,48700,122.5
+254,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,48200,122.2
+96,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Derek Carr,Oakland Raiders,47500,122.0
+255,Jared Cook,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,48500,122.0
+256,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,48000,121.89999999999999
+97,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Derek Carr,Oakland Raiders,47300,121.7
+414,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Robert Woods,Derek Carr,Oakland Raiders,48500,121.6
+98,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,San Francisco 49ers,48000,121.5
+257,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Brandon LaFell,Cooper Kupp,Jared Goff,Oakland Raiders,48300,121.3
+415,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Derek Carr,Oakland Raiders,48300,121.3
+99,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,47100,121.2
+100,George Kittle,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Jared Goff,Oakland Raiders,47800,121.1
+101,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,46900,120.9
+416,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,Oakland Raiders,48000,120.8
+102,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Robert Woods,Jared Goff,Oakland Raiders,47400,120.60000000000001
+103,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Case Keenum,Oakland Raiders,47600,120.6
+417,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,47800,120.5
+258,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,47900,120.4
+104,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Jared Goff,Oakland Raiders,47200,120.3
+418,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Case Keenum,Oakland Raiders,48400,119.9
+419,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Brandon LaFell,Cooper Kupp,Jared Goff,Oakland Raiders,48200,119.89999999999999
+259,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,48400,119.8
+260,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,47500,119.60000000000001
+105,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,San Francisco 49ers,47000,119.20000000000002
+261,Jared Cook,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,47700,119.2
+420,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Jared Goff,San Francisco 49ers,48100,119.1
+262,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,47800,118.99999999999999
+421,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,San Francisco 49ers,47900,118.80000000000001
+106,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Nick Mullens,Oakland Raiders,46700,118.6
+107,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,46300,118.4
+422,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Nick Mullens,Oakland Raiders,47700,118.19999999999999
+423,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,47300,118.0
+263,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Derek Carr,Oakland Raiders,47400,117.9
+108,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Jared Goff,Oakland Raiders,46600,117.8
+424,Jared Cook,George Kittle,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,47600,117.8
+109,Jared Cook,Phillip Lindsay,James White,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,46800,117.60000000000001
+264,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,47300,117.60000000000001
+265,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,47200,117.6
+425,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Robert Woods,Jared Goff,Oakland Raiders,47400,117.39999999999999
+266,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46900,117.10000000000001
+267,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,46700,116.8
+110,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,San Francisco 49ers,46400,116.70000000000002
+111,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,46100,116.60000000000001
+426,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Robert Woods,Derek Carr,Oakland Raiders,47200,116.5
+268,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Cooper Kupp,Jared Goff,Oakland Raiders,47000,116.2
+427,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Derek Carr,Oakland Raiders,47000,116.2
+112,Jeff Heuerman,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46500,116.10000000000001
+428,Jared Cook,Matt LaCosse,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Robert Woods,Derek Carr,Oakland Raiders,47500,115.9
+429,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46800,115.7
+430,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,46600,115.4
+113,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Case Keenum,Oakland Raiders,46200,115.20000000000002
+269,Jared Cook,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Derek Carr,Oakland Raiders,47100,115.2
+431,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Robert Woods,Jared Goff,Oakland Raiders,47100,115.10000000000001
+270,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Jared Goff,San Francisco 49ers,46800,115.1
+432,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46900,114.89999999999999
+433,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,46700,114.60000000000001
+271,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Nick Mullens,Oakland Raiders,46600,114.5
+114,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,45500,114.10000000000001
+115,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Nick Mullens,Oakland Raiders,45700,113.80000000000001
+272,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,46500,113.7
+434,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,46500,113.7
+116,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,45900,113.50000000000001
+117,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Derek Carr,Oakland Raiders,45800,113.5
+435,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Nick Mullens,Oakland Raiders,46400,113.1
+436,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,46000,112.9
+273,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Derek Carr,Oakland Raiders,46100,112.80000000000001
+118,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Case Keenum,Oakland Raiders,45600,112.70000000000002
+119,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,45400,112.7
+274,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,45900,112.5
+437,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Jared Goff,Oakland Raiders,46200,112.3
+275,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Robert Woods,Derek Carr,Oakland Raiders,46400,112.2
+438,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,46100,112.10000000000001
+276,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46300,112.0
+277,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Cooper Kupp,Derek Carr,Oakland Raiders,46200,111.9
+278,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,46000,111.39999999999999
+439,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,45800,111.10000000000001
+279,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,45800,111.1
+120,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,45300,111.00000000000001
+121,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,44900,111.0
+440,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Robert Woods,Derek Carr,Oakland Raiders,46300,110.80000000000001
+441,Jared Cook,George Kittle,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,45900,110.6
+122,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Nick Mullens,Oakland Raiders,45200,110.4
+442,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,Oakland Raiders,45600,109.8
+280,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Robert Woods,Nick Mullens,Oakland Raiders,45500,109.70000000000002
+443,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,45400,109.5
+281,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Nick Mullens,Oakland Raiders,45300,109.4
+123,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,San Francisco 49ers,45000,109.30000000000001
+124,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,45100,109.20000000000002
+282,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Cooper Kupp,Nick Mullens,Oakland Raiders,45600,108.80000000000001
+444,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,45200,108.60000000000001
+283,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,45200,108.60000000000001
+125,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,44600,108.4
+126,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,44700,108.2
+445,Jared Cook,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,45500,108.10000000000001
+446,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Jared Goff,San Francisco 49ers,45700,108.1
+447,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,45300,107.80000000000001
+284,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Nick Mullens,San Francisco 49ers,45400,107.7
+127,Jeff Heuerman,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,44800,107.60000000000001
+448,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,45000,107.2
+449,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,44800,107.0
+285,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,45000,106.8
+128,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,44500,106.70000000000002
+286,Jared Cook,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,45100,106.30000000000001
+129,Jeff Heuerman,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,44300,105.9
+450,Jared Cook,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,44900,105.60000000000001
+451,Jared Cook,George Kittle,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,44600,105.5
+130,Jared Cook,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,44000,105.30000000000001
+131,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,44400,105.3
+287,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,44900,105.1
+132,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,44100,105.1
+452,Jared Cook,Jeff Heuerman,Phillip Lindsay,James White,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,44700,104.70000000000002
+453,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,Oakland Raiders,44400,104.7
+288,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,44400,104.30000000000001
+289,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Robert Woods,Nick Mullens,Oakland Raiders,44600,104.0
+290,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Seth Roberts,Jared Goff,Oakland Raiders,44800,103.7
+133,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43900,103.60000000000002
+134,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,San Francisco 49ers,44200,103.4
+454,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Jared Goff,San Francisco 49ers,44500,103.0
+455,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,44200,102.9
+291,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Case Keenum,Oakland Raiders,44500,102.9
+456,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,44000,102.7
+135,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,43800,102.5
+292,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Cooper Kupp,Seth Roberts,Nick Mullens,Oakland Raiders,44300,102.0
+457,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cooper Kupp,Seth Roberts,Case Keenum,Oakland Raiders,44300,101.5
+459,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Case Keenum,Oakland Raiders,44100,101.30000000000001
+458,Jared Cook,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,44100,101.30000000000001
+460,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,43900,101.3
+293,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43800,101.20000000000002
+294,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,44200,101.2
+136,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,43600,101.0
+137,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,43700,100.80000000000001
+461,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Derek Carr,Oakland Raiders,43600,100.4
+138,Jeff Heuerman,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43400,100.20000000000002
+462,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Seth Roberts,Robert Woods,Nick Mullens,Oakland Raiders,43800,100.1
+139,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43500,100.0
+463,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43400,99.6
+295,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,43900,99.50000000000001
+140,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43200,99.4
+296,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Seth Roberts,Derek Carr,Oakland Raiders,44000,99.4
+464,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Jared Goff,Oakland Raiders,43500,99.0
+297,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Cooper Kupp,Seth Roberts,Case Keenum,Oakland Raiders,44100,98.0
+141,Matt LaCosse,Phillip Lindsay,James White,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43000,97.9
+142,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43100,97.70000000000002
+143,Jared Cook,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,43300,97.7
+465,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43000,97.30000000000001
+466,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,43100,97.0
+298,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,43400,96.9
+467,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Nick Mullens,Oakland Raiders,43300,96.70000000000002
+299,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Robert Woods,Nick Mullens,Oakland Raiders,43600,96.6
+468,Jared Cook,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,43200,96.5
+300,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43200,96.1
+301,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Pierre Garcon,Seth Roberts,Nick Mullens,Oakland Raiders,43700,96.0
+302,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Case Keenum,Oakland Raiders,43500,95.5
+144,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,42800,95.1
+303,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43300,94.70000000000002
+469,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,42700,94.7
+145,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42600,94.30000000000001
+470,Jared Cook,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42500,93.9
+304,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42800,93.80000000000001
+146,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Case Keenum,Oakland Raiders,42900,93.69999999999999
+471,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Case Keenum,Oakland Raiders,42800,93.30000000000001
+305,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,43000,93.0
+147,Gerald Everett,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42700,92.9
+472,Jared Cook,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42600,92.5
+473,Jeff Heuerman,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,42400,92.20000000000002
+306,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,42900,92.10000000000001
+148,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42200,92.0
+474,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42100,91.6
+307,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,43100,91.30000000000001
+149,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,42500,91.20000000000002
+150,Michael Roberts,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42400,91.19999999999999
+475,Jared Cook,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42300,90.80000000000001
+151,Matt LaCosse,Phillip Lindsay,Jalen Richard,Doug Martin,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,42300,90.3
+308,Jared Cook,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42700,90.0
+476,Jared Cook,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,42200,89.9
+309,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Kenny Golladay,Seth Roberts,Nick Mullens,Oakland Raiders,42600,88.30000000000001
+152,Jeff Heuerman,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42000,87.80000000000001
+477,Gerald Everett,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42000,87.4
+478,Jeff Heuerman,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41500,86.5
+153,Gerald Everett,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42100,86.4
+310,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,42300,85.7
+479,Michael Roberts,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41700,85.69999999999999
+154,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41600,85.5
+480,Gerald Everett,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41600,85.1
+311,Jeff Heuerman,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42100,84.9
+155,Michael Roberts,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41800,84.69999999999999
+481,Derek Carrier,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Derek Carr,Oakland Raiders,41800,84.5
+312,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Case Keenum,Oakland Raiders,42400,84.30000000000001
+156,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,41700,83.8
+313,Gerald Everett,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,42200,83.5
+482,Michael Roberts,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41300,83.4
+157,Michael Roberts,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,41900,83.0
+314,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41700,82.6
+315,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41900,81.80000000000001
+483,Michael Roberts,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,41400,81.7
+484,Derek Carrier,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41200,81.4
+316,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,41800,80.9
+317,Michael Roberts,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,42000,80.10000000000001
+158,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,Oakland Raiders,41400,80.0
+159,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,San Francisco 49ers,41500,78.3
+485,Michael Roberts,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,Oakland Raiders,41100,77.9
+486,Derek Carrier,Matt LaCosse,Phillip Lindsay,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,Oakland Raiders,41000,75.9
+318,Matt LaCosse,Kyle Juszczyk,Phillip Lindsay,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41600,75.3
+487,Michael Roberts,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,40900,73.4
+319,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41300,72.6
+320,Michael Roberts,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,41500,71.80000000000001
+488,Derek Carrier,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Brandon LaFell,Seth Roberts,Nick Mullens,Oakland Raiders,40800,71.4
+321,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Brandon LaFell,Seth Roberts,Nick Mullens,San Francisco 49ers,41400,70.9
+489,Michael Roberts,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,Oakland Raiders,40700,67.9
+490,Derek Carrier,Matt LaCosse,Kyle Juszczyk,Jalen Richard,Courtland Sutton,Cordarrelle Patterson,Seth Roberts,Nick Mullens,Oakland Raiders,40600,65.9

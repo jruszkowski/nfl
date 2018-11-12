@@ -1,3 +1,5 @@
+#!usr/bin/python3
+
 import sys
 import espn_projections as espn
 import pandas as pd
