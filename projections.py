@@ -10,7 +10,7 @@ def convert_string(s):
         return 0.0
     
 def get_nf_projections():
-    base_page = 'https://www.numberfire.com/nfl/fantasy/fantasy-football-projections'
+    base_page = 'https://www.numberfire.com/nfl/fantasy/fantasy-football-ppr-projections'
     http = urllib3.PoolManager()
     response = http.request('GET', base_page)
     soup = BeautifulSoup(response.data, 'html.parser')
@@ -21,6 +21,25 @@ def get_nf_projections():
         if row.a:
             plyr_list.append(row.a.get_text())
         if len(row)==47:
+            score = [convert_string(td.string) for td in row.find_all('td', {'class': 'nf_fp active'})]
+            if len(score)>0:
+                projections.append(score[0])
+    plyr_list = [p.split('\n')[1] for p in plyr_list]
+    projection_dict = {x: y for (x,y) in zip(plyr_list, projections)}
+    return projection_dict
+
+def get_nf_d_projections():
+    base_page = 'https://www.numberfire.com/nfl/fantasy/fantasy-football-projections/d'
+    http = urllib3.PoolManager()
+    response = http.request('GET', base_page)
+    soup = BeautifulSoup(response.data, 'html.parser')
+    rows = soup.find_all('tr')
+    plyr_list = []
+    projections = []
+    for row in rows:
+        if row.a:
+            plyr_list.append(row.a.get_text().replace(' D/ST',''))
+        if len(row)==41:
             score = [convert_string(td.string) for td in row.find_all('td', {'class': 'nf_fp active'})]
             if len(score)>0:
                 projections.append(score[0])
