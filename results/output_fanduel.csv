@@ -1,718 +1,416 @@
 ,1,2,3,4,5,6,7,8,9,Salary,Projection
-0,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,60000,145.0
-226,Travis Kelce,Alvin Kamara,Lamar Miller,Courtland Sutton,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,60000,145.0
-228,Travis Kelce,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59900,144.6
-227,David Njoku,Alvin Kamara,Lamar Miller,Cooper Kupp,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59900,144.6
-470,Travis Kelce,David Njoku,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,60000,144.4
-1,Travis Kelce,Alvin Kamara,Devontae Booker,Christian McCaffrey,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59700,144.4
-229,Travis Kelce,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59800,144.4
-2,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,59900,144.3
-471,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59900,144.2
-3,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59600,144.2
-230,Travis Kelce,Alvin Kamara,Lamar Miller,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59600,143.8
-4,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59400,143.6
-472,Travis Kelce,David Njoku,Alvin Kamara,Lamar Miller,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59700,143.6
-231,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,59500,143.29999999999998
-232,Travis Kelce,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59400,143.20000000000002
-473,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Jarvis Landry,Cam Newton,Buffalo Bills,59600,143.1
-5,Travis Kelce,Alvin Kamara,Devontae Booker,Christian McCaffrey,Courtland Sutton,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59500,143.1
-233,Travis Kelce,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59300,143.0
-7,Travis Kelce,Alvin Kamara,Devontae Booker,Adrian Peterson,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59300,142.79999999999998
-6,Travis Kelce,Alvin Kamara,Phillip Lindsay,Isaiah Crowell,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59300,142.79999999999998
-234,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59100,142.5
-235,Travis Kelce,Devontae Booker,Lamar Miller,Cooper Kupp,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59200,142.4
-475,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,59500,142.39999999999998
-474,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,59500,142.39999999999998
-476,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,59300,142.29999999999998
-8,Travis Kelce,Alvin Kamara,Isaiah Crowell,Lamar Miller,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59100,142.2
-236,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Cam Newton,Buffalo Bills,59000,141.9
-477,Travis Kelce,David Njoku,Alvin Kamara,Christian McCaffrey,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59400,141.9
-9,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Kenny Golladay,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,59200,141.9
-478,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59100,141.79999999999998
-10,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,59000,141.7
-11,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,59000,141.7
-237,Travis Kelce,Alvin Kamara,Lamar Miller,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58900,141.5
-480,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,59200,141.3
-13,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,58900,141.3
-12,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,58900,141.3
-479,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,59200,141.3
-238,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,58700,141.1
-14,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58800,141.1
-239,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,58800,141.0
-481,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58900,140.9
-15,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58600,140.9
-16,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58500,140.7
-482,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58800,140.7
-240,Travis Kelce,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58500,140.6
-241,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Doug Baldwin,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58600,140.29999999999998
-242,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58400,140.2
-483,Travis Kelce,David Njoku,Alvin Kamara,Lamar Miller,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58600,140.1
-17,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58300,140.1
-243,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58300,139.79999999999998
-484,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Adam Thielen,Kenny Golladay,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,58700,139.79999999999998
-18,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,58400,139.70000000000002
-485,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,58500,139.6
-244,Travis Kelce,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58200,139.5
-19,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58200,139.0
-245,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58000,139.0
-20,Travis Kelce,Alvin Kamara,Devontae Booker,Christian McCaffrey,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58100,138.9
-486,Travis Kelce,David Njoku,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58400,138.9
-246,Travis Kelce,Alvin Kamara,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58100,138.8
-487,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58100,138.79999999999998
-21,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58000,138.4
-247,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,57900,138.4
-22,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58000,138.4
-488,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58300,138.4
-489,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58200,138.2
-23,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57900,138.2
-248,Travis Kelce,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57800,137.70000000000002
-24,Travis Kelce,Alvin Kamara,Phillip Lindsay,Lamar Miller,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57800,137.7
-490,Travis Kelce,David Njoku,Alvin Kamara,Lamar Miller,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,58000,137.6
-249,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57500,137.6
-25,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57700,137.6
-491,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57800,137.4
-26,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57500,137.4
-250,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,57700,137.3
-27,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Ryan Fitzpatrick,Buffalo Bills,57600,137.3
-492,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Adam Thielen,Ryan Fitzpatrick,Buffalo Bills,57900,137.3
-251,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,57700,137.3
-252,Travis Kelce,Alvin Kamara,Phillip Lindsay,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57600,137.0
-28,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57400,136.8
-493,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57700,136.8
-253,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57300,136.7
-254,Travis Kelce,Alvin Kamara,Lamar Miller,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57400,136.4
-494,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57500,136.29999999999998
-255,Travis Kelce,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57200,136.20000000000002
-29,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57200,136.20000000000002
-30,David Njoku,Alvin Kamara,Devontae Booker,Christian McCaffrey,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57300,136.2
-495,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57600,136.2
-496,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Cam Newton,Buffalo Bills,57600,136.2
-497,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,57400,135.89999999999998
-498,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,57400,135.89999999999998
-256,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Willie Snead IV,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57100,135.6
-257,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,57100,135.6
-31,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57000,135.4
-499,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,57300,135.39999999999998
-500,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57000,135.29999999999998
-32,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56900,135.2
-501,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57200,135.2
-259,Travis Kelce,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56900,135.1
-258,Travis Kelce,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56900,135.1
-260,David Njoku,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57000,135.0
-261,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57000,135.0
-262,Travis Kelce,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,57000,135.0
-502,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,57100,134.9
-264,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,56800,134.7
-263,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,56800,134.7
-33,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56700,134.6
-265,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56700,134.29999999999998
-266,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56400,134.1
-503,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Kenny Golladay,Jarvis Landry,Cam Newton,Buffalo Bills,56900,134.1
-34,Travis Kelce,Alvin Kamara,Devontae Booker,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56500,134.0
-267,Travis Kelce,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56600,134.0
-504,Travis Kelce,David Njoku,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56800,134.0
-505,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56700,133.5
-35,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56400,133.5
-268,Travis Kelce,Devontae Booker,Lamar Miller,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56500,133.4
-36,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56300,133.3
-506,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56600,133.3
-37,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56200,132.9
-270,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,56300,132.9
-269,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Cam Newton,Buffalo Bills,56300,132.9
-507,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56500,132.9
-271,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56200,132.8
-508,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56400,132.79999999999998
-38,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56100,132.70000000000002
-272,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56100,132.4
-39,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56000,132.3
-509,Travis Kelce,David Njoku,Alvin Kamara,Lamar Miller,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,56300,132.3
-273,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,56000,132.1
-41,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55900,131.9
-510,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Ryan Fitzpatrick,Buffalo Bills,56100,131.9
-40,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55900,131.9
-511,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jarvis Landry,Cam Newton,Buffalo Bills,56200,131.79999999999998
-274,Travis Kelce,Alvin Kamara,Phillip Lindsay,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55900,131.70000000000002
-275,Travis Kelce,Alvin Kamara,Devontae Booker,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55800,131.6
-512,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55900,131.4
-42,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55800,131.3
-43,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Cam Newton,Buffalo Bills,55800,131.3
-276,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55700,131.2
-44,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,55700,130.9
-513,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,56000,130.9
-514,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,56000,130.9
-45,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,55700,130.9
-277,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55600,130.79999999999998
-46,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55600,130.70000000000002
-515,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55700,130.5
-47,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,55500,130.5
-48,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55300,130.3
-516,Travis Kelce,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55600,130.3
-278,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Cam Newton,Buffalo Bills,55500,130.20000000000002
-279,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,55300,129.8
-49,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.8
-50,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,55400,129.8
-517,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.79999999999998
-51,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55100,129.70000000000002
-518,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55500,129.7
-52,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55200,129.6
-283,Travis Kelce,Devontae Booker,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.5
-282,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,55400,129.5
-280,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.5
-284,Travis Kelce,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.5
-285,David Njoku,Alvin Kamara,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55400,129.5
-281,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Cam Newton,Buffalo Bills,55400,129.5
-286,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55100,129.4
-287,Travis Kelce,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55200,129.3
-519,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Cam Newton,Buffalo Bills,55300,129.2
-288,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54800,128.6
-53,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,55000,128.6
-289,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54900,128.5
-290,Travis Kelce,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54900,128.5
-520,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,55200,128.5
-521,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,55200,128.5
-522,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,55000,128.4
-54,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,54900,128.3
-524,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,55100,128.1
-523,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,55100,128.1
-56,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54800,128.0
-55,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54800,128.0
-525,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54800,127.9
-57,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54700,127.80000000000001
-291,Travis Kelce,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54700,127.69999999999999
-526,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Doug Baldwin,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54900,127.6
-527,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54700,127.5
-292,Travis Kelce,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54600,127.30000000000001
-58,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54500,127.20000000000002
-59,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,54600,127.10000000000001
-60,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54300,127.0
-528,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54600,127.0
-294,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,54500,126.9
-296,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Adam Thielen,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54500,126.9
-295,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54500,126.9
-293,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,54500,126.9
-298,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,54400,126.50000000000001
-297,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,54400,126.50000000000001
-61,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Cam Newton,Buffalo Bills,54400,126.4
-529,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54500,126.4
-299,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Doug Baldwin,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54300,126.4
-300,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54100,126.30000000000001
-62,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,54200,126.0
-530,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54300,125.9
-301,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54000,125.9
-531,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54400,125.80000000000001
-302,David Njoku,Alvin Kamara,Phillip Lindsay,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54200,125.80000000000001
-63,David Njoku,Alvin Kamara,Devontae Booker,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54100,125.80000000000001
-64,Travis Kelce,Alvin Kamara,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54000,125.5
-533,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,54200,125.5
-532,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,54200,125.5
-303,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53900,125.19999999999999
-65,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53900,125.1
-534,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,54100,125.0
-535,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54100,125.0
-66,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53800,124.9
-536,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53800,124.9
-304,Travis Kelce,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53700,124.69999999999999
-305,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53800,124.6
-537,Travis Kelce,David Njoku,Alvin Kamara,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,54000,124.5
-68,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53700,124.5
-67,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53700,124.5
-538,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53900,124.19999999999999
-69,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53600,124.1
-306,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,53600,123.9
-307,Travis Kelce,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53500,123.80000000000001
-70,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53500,123.69999999999999
-539,Travis Kelce,David Njoku,Devontae Booker,Christian McCaffrey,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53700,123.6
-540,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,53700,123.6
-308,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Kenny Golladay,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53400,123.4
-71,Travis Kelce,Alvin Kamara,Devontae Booker,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53400,123.30000000000001
-541,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Adam Thielen,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53600,123.1
-309,Travis Kelce,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53300,123.0
-310,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53300,123.0
-542,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,53400,122.9
-72,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,53200,122.70000000000002
-73,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,53300,122.7
-74,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,53300,122.7
-543,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,53500,122.5
-311,David Njoku,Alvin Kamara,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53200,122.5
-312,Travis Kelce,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53100,122.4
-544,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53200,122.4
-75,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,53100,122.30000000000001
-545,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53300,122.30000000000001
-76,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53000,122.20000000000002
-77,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52900,122.1
-546,Travis Kelce,Antonio Gates,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53100,121.6
-313,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Ryan Fitzpatrick,Buffalo Bills,52900,121.6
-78,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52700,121.5
-79,Travis Kelce,Devontae Booker,Isaiah Crowell,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52800,121.4
-314,Travis Kelce,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52800,121.30000000000001
-315,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52700,121.1
-547,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,53000,121.1
-316,Travis Kelce,Devontae Booker,Lamar Miller,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52600,120.70000000000002
-548,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,52900,120.7
-549,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,52900,120.7
-80,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52600,120.6
-550,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,52700,120.6
-317,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52400,120.4
-551,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52800,120.30000000000001
-318,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52500,120.30000000000001
-319,Travis Kelce,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52500,120.30000000000001
-81,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,52500,120.1
-552,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52500,120.1
-82,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52400,119.80000000000001
-83,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52300,119.6
-320,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52300,119.5
-554,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,52600,119.4
-553,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52600,119.4
-555,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52300,119.30000000000001
-556,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52400,119.19999999999999
-321,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52200,119.1
-322,Travis Kelce,Devontae Booker,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52200,119.1
-84,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52100,119.0
-85,Travis Kelce,Devontae Booker,Isaiah Crowell,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52200,118.9
-86,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,52200,118.9
-87,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51900,118.80000000000001
-323,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,52100,118.7
-324,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,52100,118.7
-557,Travis Kelce,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52100,118.5
-88,Travis Kelce,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52000,118.30000000000001
-325,Travis Kelce,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52000,118.20000000000002
-326,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Doug Baldwin,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51900,118.19999999999999
-558,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52200,118.1
-327,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51700,118.1
-328,Travis Kelce,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51800,118.0
-89,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,51800,117.80000000000001
-559,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,52000,117.6
-560,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51900,117.4
-90,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51600,117.30000000000001
-91,Travis Kelce,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51700,117.20000000000002
-329,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51500,117.0
-330,Travis Kelce,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51600,116.9
-561,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51700,116.80000000000001
-92,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,51500,116.80000000000001
-93,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51400,116.70000000000002
-562,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,51800,116.7
-563,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51500,116.6
-331,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51300,116.5
-332,Travis Kelce,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51400,116.4
-94,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51300,116.30000000000001
-564,Travis Kelce,Antonio Gates,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51600,116.0
-95,David Njoku,Alvin Kamara,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51200,115.69999999999999
-333,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51100,115.6
-565,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,51400,115.6
-335,Travis Kelce,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51200,115.5
-334,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Tyreek Hill,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51200,115.5
-566,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51200,115.1
-96,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51000,115.1
-98,Travis Kelce,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51100,115.0
-97,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51100,115.0
-336,David Njoku,Devontae Booker,Lamar Miller,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50900,114.80000000000001
-567,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,51300,114.7
-568,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,51300,114.7
-569,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,51100,114.6
-570,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,51000,114.5
-99,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,50800,114.5
-100,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50900,114.20000000000002
-337,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50700,114.19999999999999
-338,Travis Kelce,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50800,114.1
-571,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50900,114.1
-101,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50600,114.0
-572,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50800,113.5
-102,Antonio Gates,Alvin Kamara,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50700,113.4
-573,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50700,113.4
-339,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50600,113.4
-103,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50400,113.20000000000002
-340,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50400,113.1
-574,Travis Kelce,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50600,112.9
-105,David Njoku,Devontae Booker,Isaiah Crowell,Christian McCaffrey,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50500,112.70000000000002
-104,Travis Kelce,Devontae Booker,Isaiah Crowell,Lamar Miller,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50500,112.70000000000002
-342,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,50500,112.7
-341,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,50500,112.7
-343,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50200,112.5
-106,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50200,112.4
-575,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,50400,112.30000000000001
-107,David Njoku,Phillip Lindsay,Devontae Booker,Lamar Miller,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,50300,112.20000000000002
-344,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50100,112.1
-576,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,50500,111.9
-577,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50200,111.80000000000001
-345,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,50300,111.8
-108,David Njoku,Phillip Lindsay,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50100,111.70000000000002
-346,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50000,111.69999999999999
-578,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,50300,111.4
-109,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50000,111.30000000000001
-579,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50100,110.9
-347,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49800,110.9
-110,David Njoku,Alvin Kamara,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,49900,110.80000000000001
-348,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49900,110.80000000000001
-111,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49800,110.70000000000002
-580,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,50000,110.69999999999999
-581,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,50000,110.69999999999999
-582,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49800,110.19999999999999
-112,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49600,110.1
-349,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49600,110.0
-350,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,49700,109.90000000000002
-351,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49400,109.80000000000001
-583,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,49900,109.69999999999999
-114,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,49700,109.60000000000001
-113,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,49700,109.60000000000001
-115,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,49500,109.5
-352,Travis Kelce,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49500,109.30000000000001
-584,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,49700,109.19999999999999
-585,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,49600,109.1
-116,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49300,109.0
-353,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49200,108.69999999999999
-586,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49400,108.6
-117,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,49400,108.50000000000001
-354,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49300,108.5
-118,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49100,108.4
-355,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49000,108.19999999999999
-119,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,49200,108.1
-587,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,49500,108.0
-588,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49200,107.9
-356,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49100,107.79999999999998
-589,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49300,107.69999999999999
-120,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48900,107.4
-357,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48800,107.30000000000001
-358,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48900,107.19999999999999
-359,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,48900,107.19999999999999
-121,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49000,107.1
-590,Antonio Gates,David Njoku,Alvin Kamara,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49000,107.0
-592,Travis Kelce,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,49100,106.9
-591,Travis Kelce,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,49100,106.9
-122,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48700,106.80000000000001
-360,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48700,106.69999999999999
-593,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,48900,106.4
-123,David Njoku,Phillip Lindsay,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,48800,106.30000000000001
-362,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48600,106.19999999999999
-361,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,48600,106.19999999999999
-363,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48500,106.1
-594,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,48700,105.9
-364,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48400,105.9
-124,David Njoku,Alvin Kamara,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,48500,105.80000000000001
-595,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Denver Broncos,48800,105.7
-596,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Washington Redskins,48800,105.7
-597,Antonio Gates,David Njoku,Devontae Booker,Lamar Miller,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48600,105.30000000000001
-125,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,48600,105.2
-126,Antonio Gates,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48400,105.10000000000002
-598,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48400,105.1
-127,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48300,105.1
-365,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48300,105.1
-599,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,48500,104.80000000000001
-600,Jeff Heuerman,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48500,104.80000000000001
-128,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48100,104.5
-367,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48100,104.4
-366,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,48100,104.4
-368,David Njoku,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48200,104.30000000000001
-129,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,48200,104.20000000000002
-601,Antonio Gates,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,48300,104.1
-602,Mike Gesicki,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48300,104.1
-369,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,47900,103.9
-370,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47900,103.9
-604,Antonio Gates,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48100,103.6
-603,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,48100,103.6
-130,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,48000,103.6
-371,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Detroit Lions,48000,103.50000000000001
-372,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47700,103.4
-605,Jeff Heuerman,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48200,103.30000000000001
-606,Jordan Reed,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,48200,103.30000000000001
-131,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,47800,103.1
-607,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Kenny Golladay,Ryan Fitzpatrick,Buffalo Bills,48000,103.1
-608,Antonio Gates,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47900,103.0
-373,Antonio Gates,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47800,102.80000000000001
-132,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Detroit Lions,47900,102.60000000000001
-609,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Kenny Golladay,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47800,102.6
-133,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,47600,102.5
-374,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47500,102.30000000000001
-375,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47600,102.1
-610,Travis Kelce,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,47700,102.0
-376,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,47300,101.6
-134,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Detroit Lions,47700,101.50000000000001
-135,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,47400,101.4
-611,Antonio Gates,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47500,101.4
-377,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,47400,101.30000000000001
-612,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47600,101.30000000000001
-613,Nick Boyle,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47600,101.30000000000001
-136,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,47500,101.20000000000002
-378,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47100,101.1
-614,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,47300,100.80000000000001
-137,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,47200,100.80000000000001
-615,Nick Boyle,David Njoku,Devontae Booker,Lamar Miller,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47400,100.70000000000002
-379,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,47200,100.69999999999999
-616,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47100,100.30000000000001
-139,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Detroit Lions,47300,100.30000000000001
-138,Antonio Gates,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,47300,100.30000000000001
-140,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,47000,100.20000000000002
-380,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47000,100.1
-617,Jeff Heuerman,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47200,100.0
-382,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46900,100.0
-381,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46900,100.0
-141,Antonio Gates,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,47100,99.80000000000001
-383,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46700,99.5
-618,Mike Gesicki,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,47000,99.30000000000001
-142,Antonio Gates,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,46900,99.20000000000002
-384,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,46800,99.19999999999999
-619,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,46900,99.19999999999999
-620,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46900,99.19999999999999
-143,David Njoku,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46800,99.19999999999999
-621,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46700,98.69999999999999
-144,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46600,98.6
-622,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,46800,98.5
-385,David Njoku,Phillip Lindsay,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46600,98.5
-145,Antonio Gates,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,46700,98.10000000000002
-386,David Njoku,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46500,98.1
-387,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,46400,98.0
-623,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46600,98.0
-388,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Kenny Golladay,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46300,97.5
-146,Antonio Gates,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46500,97.5
-624,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46500,97.30000000000001
-147,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46400,97.20000000000002
-625,Antonio Gates,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,46400,97.1
-148,Antonio Gates,Devontae Booker,Isaiah Crowell,Lamar Miller,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46300,96.9
-626,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Cooper Kupp,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46300,96.9
-389,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Doug Baldwin,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46200,96.9
-627,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46100,96.4
-149,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46200,96.20000000000002
-150,David Njoku,Devontae Booker,Isaiah Crowell,Lamar Miller,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46200,96.20000000000002
-390,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46000,96.19999999999999
-391,Nick Boyle,Devontae Booker,Isaiah Crowell,Courtland Sutton,Cooper Kupp,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46100,96.0
-151,Antonio Gates,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46100,95.9
-392,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45800,95.69999999999999
-393,Nick Boyle,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,45900,95.5
-629,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Washington Redskins,46200,95.5
-628,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Denver Broncos,46200,95.5
-631,Antonio Gates,David Njoku,Phillip Lindsay,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46000,95.4
-630,Mike Gesicki,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,46000,95.4
-152,Antonio Gates,Devontae Booker,Isaiah Crowell,Lamar Miller,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45900,95.30000000000001
-394,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45600,95.19999999999999
-153,Nick Boyle,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,46000,95.19999999999999
-632,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,45800,94.9
-633,Nick Boyle,David Njoku,Devontae Booker,Lamar Miller,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,45900,94.80000000000001
-395,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,45700,94.70000000000002
-154,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45700,94.6
-634,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,45600,94.4
-396,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45400,94.1
-397,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Jarvis Landry,Ryan Fitzpatrick,Buffalo Bills,45500,93.9
-155,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Detroit Lions,45800,93.60000000000001
-156,Nick Boyle,Phillip Lindsay,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45600,93.6
-157,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,45600,93.6
-158,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45500,93.5
-635,Mike Gesicki,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Ryan Fitzpatrick,Buffalo Bills,45500,93.4
-636,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,45400,93.30000000000001
-159,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45300,93.0
-398,David Njoku,Devontae Booker,Isaiah Crowell,Maurice Harris,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45200,92.80000000000001
-399,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45200,92.80000000000001
-637,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Ryan Fitzpatrick,Buffalo Bills,45300,92.6
-400,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,45300,92.5
-401,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,45300,92.5
-402,Antonio Gates,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45100,92.4
-403,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45000,92.19999999999999
-638,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Doug Baldwin,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45200,92.19999999999999
-639,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45000,92.1
-404,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44900,91.9
-160,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,45400,91.9
-161,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,45400,91.9
-162,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45100,91.6
-163,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,45000,91.30000000000001
-405,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44800,91.19999999999999
-406,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44800,91.19999999999999
-640,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Detroit Lions,45100,91.10000000000001
-641,Mike Gesicki,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44900,91.1
-642,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44800,91.0
-407,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44700,90.80000000000001
-164,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,45200,90.8
-165,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,45200,90.8
-166,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44900,90.6
-167,David Njoku,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44900,90.6
-643,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44600,90.5
-168,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44800,90.19999999999999
-644,Jeff Heuerman,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44700,90.19999999999999
-408,Nick Boyle,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44600,90.1
-645,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44500,89.80000000000001
-169,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44600,89.69999999999999
-409,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44400,89.6
-410,Antonio Gates,Devontae Booker,Isaiah Crowell,Maurice Harris,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44500,89.5
-411,Antonio Gates,Devontae Booker,Isaiah Crowell,Courtland Sutton,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44500,89.5
-170,Jeff Heuerman,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44700,89.4
-646,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44400,89.1
-171,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44500,89.0
-412,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44300,88.9
-647,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44300,88.7
-413,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44200,88.5
-172,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44400,88.30000000000001
-648,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44100,88.2
-649,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44200,88.1
-650,Antonio Gates,David Njoku,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44200,88.1
-173,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44300,87.9
-414,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44100,87.9
-415,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44100,87.9
-174,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44100,87.4
-175,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44200,87.30000000000001
-176,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44200,87.30000000000001
-416,Nick Boyle,Devontae Booker,Isaiah Crowell,Maurice Harris,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44000,87.2
-417,Nick Boyle,Devontae Booker,Isaiah Crowell,Courtland Sutton,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44000,87.2
-651,Jeff Heuerman,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44000,86.9
-652,Nick Boyle,David Njoku,Duke Johnson Jr.,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44000,86.9
-653,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43900,86.80000000000001
-418,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43900,86.7
-419,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43800,86.6
-654,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43800,86.5
-177,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43900,86.1
-178,Nick Boyle,Devontae Booker,Isaiah Crowell,Mike Davis,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,44000,85.9
-656,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43700,85.80000000000001
-655,Nick Boyle,David Njoku,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43700,85.80000000000001
-420,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43700,85.60000000000001
-421,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43600,85.6
-422,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43600,85.6
-657,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43600,85.4
-179,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43800,85.4
-181,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43700,85.0
-180,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43700,85.0
-658,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43400,84.9
-659,Nick Boyle,Jeff Heuerman,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,84.60000000000001
-424,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Courtland Sutton,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,84.30000000000001
-182,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43600,84.30000000000001
-425,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Maurice Harris,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,84.30000000000001
-423,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,84.30000000000001
-427,Nick Boyle,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43400,84.2
-426,Nick Boyle,Devontae Booker,Isaiah Crowell,Maurice Harris,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43400,84.2
-660,Mike Gesicki,Nick Boyle,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43300,83.9
-183,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43400,83.80000000000001
-428,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43300,83.7
-184,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,83.7
-185,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43500,83.7
-661,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43200,83.5
-429,Nick Boyle,Devontae Booker,Isaiah Crowell,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43200,83.2
-430,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43100,82.7
-431,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43100,82.7
-662,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43000,82.5
-663,Nick Boyle,Antonio Gates,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43000,82.5
-186,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43300,82.5
-187,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43200,82.4
-664,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42900,82.0
-432,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43000,82.0
-434,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42900,81.4
-188,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43000,81.4
-433,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42900,81.4
-189,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,43000,81.4
-666,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,43100,81.2
-665,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,43100,81.2
-667,Mike Gesicki,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42800,81.0
-190,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42900,80.9
-436,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42800,80.7
-435,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Courtland Sutton,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42800,80.7
-668,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42700,80.6
-437,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42700,80.30000000000001
-438,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42600,80.1
-669,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Courtland Sutton,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42600,80.0
-670,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42500,79.6
-671,Nick Boyle,Antonio Gates,Duke Johnson Jr.,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42500,79.6
-191,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42700,79.5
-192,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42800,79.4
-440,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42400,79.1
-439,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42400,79.1
-441,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42500,79.0
-672,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Jermaine Kearse,Willie Snead IV,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42400,78.9
-194,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42500,78.5
-193,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42500,78.5
-673,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42200,78.4
-674,Nick Boyle,Jeff Heuerman,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42300,78.1
-195,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42600,78.0
-442,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42200,77.7
-443,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42200,77.7
-675,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42100,77.4
-444,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Kelvin Benjamin,Ryan Fitzpatrick,Buffalo Bills,42300,77.30000000000001
-445,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Kelvin Benjamin,Ryan Fitzpatrick,Buffalo Bills,42300,77.30000000000001
-197,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42400,77.0
-196,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42400,77.0
-676,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42000,77.0
-446,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42000,76.7
-678,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41800,76.0
-677,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41800,76.0
-680,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41700,75.0
-679,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41700,75.0
-447,Darren Fells,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42100,74.9
-198,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,42300,74.80000000000001
-682,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,41900,74.0
-683,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,41900,74.0
-684,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Denver Broncos,41900,74.0
-681,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Washington Redskins,41900,74.0
-199,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,42200,73.9
-200,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,42100,73.8
-201,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,42100,73.8
-685,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41500,73.4
-686,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41500,73.4
-448,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Josh Doctson,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41800,73.0
-449,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Josh Doctson,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41800,73.0
-687,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41600,72.9
-450,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41900,72.8
-451,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41900,72.8
-202,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,42000,72.5
-204,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41900,72.4
-203,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41900,72.4
-452,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41600,72.0
-688,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41400,71.9
-689,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Ryan Fitzpatrick,Buffalo Bills,41400,71.9
-205,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41800,71.5
-453,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41700,71.5
-454,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41700,71.5
-206,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Isaiah Crowell,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41800,71.5
-207,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41700,71.0
-455,Nick Boyle,Duke Johnson Jr.,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41500,70.4
-691,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41300,70.30000000000001
-690,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41300,70.30000000000001
-456,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41400,70.2
-208,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41500,69.6
-209,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41600,69.5
-457,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41200,69.2
-458,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41200,69.2
-459,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41300,69.10000000000001
-692,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Jermaine Kearse,Willie Snead IV,Tim Patrick,Nathan Peterman,Buffalo Bills,41200,69.0
-694,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41100,68.7
-693,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Brock Osweiler,Buffalo Bills,41100,68.7
-210,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41300,68.6
-211,Nick Boyle,Duke Johnson Jr.,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41300,68.6
-695,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41000,68.5
-212,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41400,68.10000000000001
-460,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41000,67.8
-461,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41000,67.8
-696,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40900,67.5
-463,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Kelvin Benjamin,Nathan Peterman,Buffalo Bills,41100,67.4
-462,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Kelvin Benjamin,Nathan Peterman,Buffalo Bills,41100,67.4
-697,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40800,67.10000000000001
-214,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41200,67.10000000000001
-213,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Mike Davis,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41200,67.10000000000001
-464,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40800,66.8
-699,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40600,66.10000000000001
-698,Nick Boyle,Antonio Gates,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40600,66.10000000000001
-701,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40500,65.10000000000001
-700,Mike Gesicki,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40500,65.10000000000001
-465,Darren Fells,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40900,65.0
-215,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Tre'Quan Smith,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41100,64.9
-703,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Denver Broncos,40700,64.1
-704,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Washington Redskins,40700,64.1
-702,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Washington Redskins,40700,64.1
-705,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Denver Broncos,40700,64.1
-216,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40900,63.5
-706,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40300,63.5
-707,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40300,63.5
-217,Nick Boyle,Jacquizz Rodgers,C.J. Anderson,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,41000,63.400000000000006
-708,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40400,63.0
-219,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40700,62.5
-218,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40700,62.5
-221,Nick Boyle,Jacquizz Rodgers,C.J. Anderson,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40800,62.400000000000006
-220,Nick Boyle,Jacquizz Rodgers,C.J. Anderson,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40800,62.400000000000006
-709,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40200,62.0
-710,Darren Fells,Nick Boyle,Jacquizz Rodgers,Devontae Booker,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40200,62.0
-467,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Laquon Treadwell,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40700,60.900000000000006
-466,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Maurice Harris,Josh Doctson,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40700,60.900000000000006
-468,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40500,59.900000000000006
-469,Nick Boyle,Jacquizz Rodgers,C.J. Anderson,Maurice Harris,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40600,59.8
-711,Nick Boyle,Matt LaCosse,Spencer Ware,Jacquizz Rodgers,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40000,56.60000000000001
-712,Nick Boyle,Matt LaCosse,Spencer Ware,Jacquizz Rodgers,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40000,56.60000000000001
-713,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,C.J. Anderson,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40100,56.5
-714,Nick Boyle,Matt LaCosse,Jacquizz Rodgers,C.J. Anderson,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40100,56.5
-222,Nick Boyle,Spencer Ware,Jacquizz Rodgers,C.J. Anderson,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40500,55.5
-223,Nick Boyle,Spencer Ware,Jacquizz Rodgers,C.J. Anderson,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40500,55.5
-715,Darren Fells,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,39900,55.10000000000001
-716,Darren Fells,Nick Boyle,Spencer Ware,Jacquizz Rodgers,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,39900,55.10000000000001
-224,Nick Boyle,Spencer Ware,Rashaad Penny,Jacquizz Rodgers,Maurice Harris,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40600,55.0
-225,Nick Boyle,Spencer Ware,Rashaad Penny,Jacquizz Rodgers,Laquon Treadwell,Jermaine Kearse,Tim Patrick,Nathan Peterman,Buffalo Bills,40600,55.0
+138,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59900,147.84
+0,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59800,147.34
+1,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Lamar Jackson,Minnesota,59900,146.94
+139,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,59800,146.66
+2,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59700,146.61
+140,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,D.J. Moore,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,60000,146.41
+3,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59500,146.29
+141,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59700,146.16000000000003
+272,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,60000,146.06
+142,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59500,146.04000000000002
+143,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Houston,59600,145.69
+4,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59600,145.66
+273,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59900,145.56
+274,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59700,145.44
+5,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,59400,145.3
+144,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59300,145.09
+275,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Houston,59800,145.09
+145,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59200,144.99
+146,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,59400,144.98
+6,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,59000,144.92000000000002
+7,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59300,144.81
+8,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59100,144.75
+276,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59600,144.71
+9,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,59200,144.66
+147,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,59000,144.47
+148,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,59100,144.43
+277,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59400,144.39
+10,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58700,144.37
+11,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58900,144.09
+149,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,58700,143.92000000000002
+278,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,59200,143.87
+279,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Justin Fields,Minnesota,59500,143.81
+280,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59300,143.79
+12,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58800,143.52
+150,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,58900,143.36
+13,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,58600,143.19
+151,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58400,143.07000000000002
+281,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,58900,143.02
+152,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,58800,142.97
+153,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58600,142.79000000000002
+282,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,59100,142.76
+14,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,58500,142.69
+15,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58300,142.57000000000002
+283,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58600,142.47
+16,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,58400,142.46
+154,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58200,142.41
+284,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,59000,142.37
+285,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,58700,142.36
+155,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58500,142.22
+286,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58800,142.19
+156,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,58300,142.12
+17,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58100,141.91000000000003
+157,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58100,141.84
+287,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58400,141.81
+18,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Mac Jones,Minnesota,58200,141.51
+19,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58000,141.34
+288,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,58500,141.29000000000002
+289,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58300,141.24
+158,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,58000,141.07
+20,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57800,141.0
+21,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,57900,140.92000000000002
+159,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57800,140.61
+160,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57900,140.47
+290,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,58200,140.19
+22,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57700,140.13
+161,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57700,140.04000000000002
+291,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58000,140.01
+162,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57500,139.70000000000002
+23,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Carson Wentz,Minnesota,57500,139.67000000000002
+292,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,58100,139.66
+163,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57600,139.66
+24,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57600,139.5
+25,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,57300,139.49
+293,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57900,139.44
+26,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57400,139.32
+164,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57200,139.15
+27,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57200,139.12
+294,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57700,139.1
+165,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57300,139.04
+295,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,57800,139.02
+166,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57400,138.96
+28,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57000,138.94
+167,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57000,138.49
+296,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57500,138.44
+29,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56900,138.37
+297,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57600,138.36
+30,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Teddy Bridgewater,Minnesota,57100,138.05
+31,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57100,138.05
+168,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Cleveland,57100,137.97
+169,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56900,137.92000000000002
+298,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,57400,137.87
+299,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57200,137.85
+170,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56700,137.64000000000001
+32,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,56800,137.32000000000002
+300,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57100,137.22
+33,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56600,137.14000000000001
+171,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56600,137.07000000000002
+301,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56900,137.04000000000002
+302,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57300,136.9
+172,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,56800,136.87
+34,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,56700,136.79
+35,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56500,136.57000000000002
+303,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56800,136.47
+36,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56400,136.44
+304,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56700,136.34
+305,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57000,136.15
+306,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Teddy Bridgewater,Minnesota,57000,136.15
+173,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56500,136.12
+37,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56300,135.87
+307,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56600,135.77
+174,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,56400,135.70000000000002
+175,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,56300,135.6
+38,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56100,135.57
+39,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56200,135.49
+176,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56200,135.04
+308,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,56500,135.0
+40,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56000,135.0
+41,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55800,134.98000000000002
+309,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56300,134.54000000000002
+177,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56100,134.47
+178,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,56000,134.45000000000002
+179,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55800,134.27
+310,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,56400,134.19
+180,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55900,134.19
+42,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55900,134.13
+311,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56200,133.97
+181,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55700,133.9
+43,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55700,133.85000000000002
+182,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55500,133.72
+312,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56000,133.67000000000002
+44,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,55500,133.65
+313,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56100,133.59
+45,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55300,133.47
+46,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55600,133.28
+47,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55400,133.18
+183,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55400,133.15
+314,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55900,133.1
+315,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55700,133.08
+184,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55300,133.02
+316,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55800,132.97
+48,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55200,132.9
+185,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55600,132.83
+186,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55200,132.45000000000002
+317,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55500,132.42000000000002
+49,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55100,131.95000000000002
+318,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Cleveland,55600,131.9
+319,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55400,131.85
+50,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,54900,131.67000000000002
+320,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55200,131.57
+187,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55100,131.4
+51,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,55000,131.32
+188,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54900,131.22
+52,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,54800,131.10000000000002
+321,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55100,131.0
+189,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,55000,130.87
+322,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55300,130.8
+190,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54800,130.65
+53,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54700,130.29
+54,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54600,130.28
+191,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54700,130.27
+55,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54400,130.1
+323,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55000,130.05
+56,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54500,129.93
+57,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54300,129.73000000000002
+192,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54600,129.70000000000002
+58,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54100,129.55
+324,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,54900,129.42000000000002
+193,Mark Andrews,Joe Mixon,Javonte Williams,D.J. Moore,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54500,129.10000000000002
+194,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54400,128.99
+59,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54000,128.98000000000002
+325,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Houston,54800,128.85
+60,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,54200,128.66000000000003
+195,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Green Bay,54300,128.54
+196,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54000,128.43
+326,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54600,128.39
+327,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54500,128.38
+197,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53800,128.25
+328,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54300,128.2
+198,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Green Bay,54200,127.97
+61,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,53900,127.93
+329,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54200,127.83000000000001
+62,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53700,127.75
+199,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53700,127.68
+330,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54000,127.65
+200,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Baker Mayfield,Minnesota,54100,127.43
+63,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53800,127.4
+331,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Green Bay,54400,127.37
+201,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,53900,127.36
+64,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53600,127.18
+332,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53900,127.08000000000001
+333,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,54100,126.76
+202,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53600,126.5
+203,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53500,126.1
+65,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53500,126.0
+334,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53800,125.9
+66,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53400,125.6
+204,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53400,125.53
+335,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53700,125.5
+205,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53200,125.07
+67,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53300,125.03
+336,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53600,124.93
+206,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Tee Higgins,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53300,124.77000000000001
+207,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53100,124.5
+68,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,53200,124.11
+337,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,53500,124.01
+338,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,53400,123.91000000000001
+69,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,53000,123.75999999999999
+208,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,53000,123.69
+339,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,53300,123.66
+70,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,53100,123.53999999999999
+71,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,52900,123.28
+72,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52700,123.10000000000001
+340,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,53200,123.09
+209,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52900,122.91999999999999
+341,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53100,122.69
+73,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52600,122.53
+210,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,52800,122.35
+342,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,53000,122.32
+74,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,52800,122.21000000000001
+343,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52800,122.14
+344,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52700,121.57
+211,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,52700,121.42999999999999
+75,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,52500,121.35000000000001
+345,Mark Andrews,Hunter Henry,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52900,121.34
+212,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,52500,121.07999999999998
+76,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52400,120.95
+213,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,52600,120.85999999999999
+346,Mark Andrews,Hunter Henry,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52600,120.79
+347,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52500,120.54
+348,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52400,120.52000000000001
+214,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,52400,120.50999999999999
+77,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,52300,120.38000000000001
+349,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52200,119.99000000000001
+350,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52300,119.95000000000002
+78,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,52200,119.46000000000001
+351,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52100,119.42000000000002
+79,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,52000,119.11000000000001
+80,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,52100,118.89000000000001
+215,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Tim Patrick,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,52300,118.55000000000001
+81,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51900,118.54
+352,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,52000,118.24000000000001
+216,Mark Andrews,Jamaal Williams,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52200,118.12
+353,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51900,117.84
+217,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52100,117.56
+354,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51800,117.27000000000001
+218,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,51900,117.09
+219,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52000,116.99000000000001
+355,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51700,116.53
+220,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51800,116.52000000000001
+82,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51700,116.47999999999999
+83,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,51800,116.25999999999999
+356,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51500,116.0
+357,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51600,115.96000000000001
+84,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51600,115.91
+221,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,51700,115.85000000000002
+358,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51400,115.43
+85,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51500,115.02000000000001
+222,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51600,114.94
+223,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51500,114.37
+86,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,51400,113.84
+224,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,51400,113.70000000000002
+87,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51300,113.44
+359,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51200,113.37
+360,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51300,113.33000000000001
+225,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51200,113.1
+226,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51300,113.0
+88,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51200,112.87
+361,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51100,112.80000000000001
+227,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51100,112.53
+89,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51100,112.13
+362,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,50900,112.01
+363,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51000,111.97
+228,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,51000,111.86000000000001
+90,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,51000,111.82000000000001
+91,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50900,111.6
+364,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,50800,111.44
+92,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50800,111.03
+365,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,50700,110.26
+366,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,50600,109.86
+229,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50800,109.80000000000001
+93,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,50700,109.67
+230,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,50900,109.58000000000001
+367,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,50500,109.29
+231,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,50700,109.23
+94,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,50600,109.10000000000001
+368,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50400,108.55000000000001
+232,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,50500,108.44
+95,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50500,108.4
+233,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,50600,108.34
+369,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50200,108.02000000000001
+370,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50300,107.98
+234,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,50400,107.87
+96,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50300,107.83000000000001
+97,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,50400,107.61000000000001
+371,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50100,107.45
+98,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,50200,107.26
+235,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,50300,106.69
+236,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,50200,106.28999999999999
+237,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,50100,105.72
+372,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,49900,105.38999999999999
+373,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50000,105.35
+238,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50000,105.02
+99,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,50100,104.84
+374,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,49800,104.82
+100,Mark Andrews,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50000,104.5
+239,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49800,104.44999999999999
+240,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49900,104.35
+101,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49900,104.31
+375,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49700,104.15
+241,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49700,103.88
+102,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49800,103.74000000000001
+103,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49700,102.56
+376,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,49600,102.31
+104,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,49600,102.16
+242,Mark Andrews,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49500,101.82
+243,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49600,101.72
+105,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,49500,101.59
+377,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,49500,101.39
+378,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49400,101.26
+244,Mark Andrews,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49400,101.25
+379,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,49300,101.03999999999999
+106,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49400,100.85
+380,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49200,100.73
+245,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49300,100.36000000000001
+107,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49200,100.32
+108,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49300,100.28
+381,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49100,100.16
+109,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49100,99.75
+246,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49200,99.18
+382,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49000,98.98
+247,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,49100,98.78
+383,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48900,98.58
+248,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,49000,98.21000000000001
+110,Mark Andrews,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49000,98.17
+384,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,48800,98.01
+249,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48900,97.47
+385,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48700,97.27000000000001
+111,Robert Tonyan,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48900,96.99000000000001
+250,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48700,96.94
+251,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48800,96.9
+386,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48500,96.74000000000001
+387,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48600,96.7
+112,Robert Tonyan,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48800,96.42
+252,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48600,96.37
+388,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48400,96.17
+113,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,48700,95.22
+114,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,48600,94.65
+253,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48400,94.31
+254,Jared Cook,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48500,94.27000000000001
+389,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,48300,93.75
+255,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48300,93.74000000000001
+115,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,48500,93.47
+390,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,48200,93.18
+116,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48400,93.07
+117,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,48300,92.5
+391,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,48100,92.0
+256,Robert Tonyan,Jamaal Williams,Javonte Williams,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48200,91.78
+118,Jared Cook,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48200,91.75999999999999
+392,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48000,91.6
+119,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48000,91.22999999999999
+120,Jared Cook,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48100,91.19
+393,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,47900,91.03
+121,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47900,90.66
+394,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,New York Giants,47800,90.11
+395,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47600,89.75999999999999
+396,Tyler Higbee,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47700,89.72999999999999
+397,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47500,89.19
+257,Jared Cook,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48100,88.43
+258,Robert Tonyan,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47900,87.9
+259,Jared Cook,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48000,87.86
+260,Robert Tonyan,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47800,87.33
+122,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,47800,87.29
+123,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,47700,86.72
+398,C.J. Uzomah,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47400,86.22
+124,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,47600,85.54
+261,Robert Tonyan,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47600,85.27000000000001
+262,Jared Cook,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47700,85.23
+125,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,47500,85.14
+263,Robert Tonyan,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47500,84.7
+126,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,47400,84.57000000000001
+127,Jared Cook,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,83.83000000000001
+399,Jared Cook,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,83.6
+128,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47100,83.30000000000001
+129,Jared Cook,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,83.26
+400,Robert Tonyan,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47100,83.07
+401,Jared Cook,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,83.03
+264,Robert Tonyan,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47400,82.74
+130,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47000,82.73
+402,Robert Tonyan,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47000,82.5
+403,Jared Cook,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46800,80.72
+404,Tyler Higbee,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46900,80.69
+405,Jared Cook,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46700,80.15
+265,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,79.11
+266,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,78.53999999999999
+406,C.J. Uzomah,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46600,77.18
+131,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46800,77.14000000000001
+132,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,46900,76.92000000000002
+267,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47100,76.58
+133,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46700,76.57000000000001
+407,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46500,74.56
+408,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46300,74.03
+409,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46400,73.99000000000001
+410,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46200,73.46000000000001
+268,Robert Tonyan,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,47000,70.13
+134,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46600,70.12
+269,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46800,65.93
+270,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,New York Giants,46900,64.32
+135,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,New York Giants,46500,64.31
+271,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46700,63.97
+136,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46300,63.96000000000001
+137,Jody Fortson,Latavius Murray,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46400,62.85000000000001
+411,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46000,61.38
+412,Tyler Higbee,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46100,61.35
+413,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,45800,60.85
+414,Robert Tonyan,Jody Fortson,Jamaal Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,45900,59.17
