@@ -1,416 +1,293 @@
 ,1,2,3,4,5,6,7,8,9,Salary,Projection
-138,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59900,147.84
-0,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59800,147.34
-1,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Lamar Jackson,Minnesota,59900,146.94
-139,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,59800,146.66
-2,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59700,146.61
-140,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,D.J. Moore,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,60000,146.41
-3,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59500,146.29
-141,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59700,146.16000000000003
-272,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,60000,146.06
-142,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59500,146.04000000000002
-143,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Houston,59600,145.69
-4,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59600,145.66
-273,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,59900,145.56
-274,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59700,145.44
-5,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,59400,145.3
-144,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59300,145.09
-275,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Houston,59800,145.09
-145,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59200,144.99
-146,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,59400,144.98
-6,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,59000,144.92000000000002
-7,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59300,144.81
-8,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59100,144.75
-276,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Lamar Jackson,Minnesota,59600,144.71
-9,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,59200,144.66
-147,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,59000,144.47
-148,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,59100,144.43
-277,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Patrick Mahomes,Minnesota,59400,144.39
-10,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58700,144.37
-11,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58900,144.09
-149,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,58700,143.92000000000002
-278,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,59200,143.87
-279,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Justin Fields,Minnesota,59500,143.81
-280,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,59300,143.79
-12,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58800,143.52
-150,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,58900,143.36
-13,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,58600,143.19
-151,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58400,143.07000000000002
-281,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Lamar Jackson,Minnesota,58900,143.02
-152,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,58800,142.97
-153,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58600,142.79000000000002
-282,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Green Bay,59100,142.76
-14,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Darnell Mooney,Lamar Jackson,Minnesota,58500,142.69
-15,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58300,142.57000000000002
-283,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,58600,142.47
-16,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,58400,142.46
-154,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58200,142.41
-284,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,59000,142.37
-285,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,58700,142.36
-155,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58500,142.22
-286,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58800,142.19
-156,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,58300,142.12
-17,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58100,141.91000000000003
-157,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58100,141.84
-287,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58400,141.81
-18,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,DeAndre Hopkins,Jakobi Meyers,Mac Jones,Minnesota,58200,141.51
-19,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58000,141.34
-288,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Cleveland,58500,141.29000000000002
-289,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,58300,141.24
-158,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,58000,141.07
-20,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57800,141.0
-21,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,57900,140.92000000000002
-159,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57800,140.61
-160,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57900,140.47
-290,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,58200,140.19
-22,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57700,140.13
-161,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57700,140.04000000000002
-291,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,58000,140.01
-162,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57500,139.70000000000002
-23,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Carson Wentz,Minnesota,57500,139.67000000000002
-292,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,58100,139.66
-163,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57600,139.66
-24,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57600,139.5
-25,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Mac Jones,Minnesota,57300,139.49
-293,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57900,139.44
-26,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57400,139.32
-164,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57200,139.15
-27,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57200,139.12
-294,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57700,139.1
-165,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57300,139.04
-295,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Lamar Jackson,Minnesota,57800,139.02
-166,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57400,138.96
-28,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57000,138.94
-167,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57000,138.49
-296,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,57500,138.44
-29,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56900,138.37
-297,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,57600,138.36
-30,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Teddy Bridgewater,Minnesota,57100,138.05
-31,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57100,138.05
-168,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Cleveland,57100,137.97
-169,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56900,137.92000000000002
-298,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,57400,137.87
-299,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,57200,137.85
-170,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56700,137.64000000000001
-32,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,56800,137.32000000000002
-300,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57100,137.22
-33,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56600,137.14000000000001
-171,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56600,137.07000000000002
-301,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56900,137.04000000000002
-302,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,57300,136.9
-172,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,56800,136.87
-34,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,56700,136.79
-35,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56500,136.57000000000002
-303,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56800,136.47
-36,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56400,136.44
-304,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56700,136.34
-305,Darren Waller,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,57000,136.15
-306,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Teddy Bridgewater,Minnesota,57000,136.15
-173,Mark Andrews,Joe Mixon,Antonio Gibson,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56500,136.12
-37,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56300,135.87
-307,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56600,135.77
-174,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,56400,135.70000000000002
-175,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,56300,135.6
-38,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56100,135.57
-39,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56200,135.49
-176,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56200,135.04
-308,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Patrick Mahomes,Minnesota,56500,135.0
-40,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56000,135.0
-41,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55800,134.98000000000002
-309,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56300,134.54000000000002
-177,Mark Andrews,Joe Mixon,D'Andre Swift,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,56100,134.47
-178,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,56000,134.45000000000002
-179,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55800,134.27
-310,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,56400,134.19
-180,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55900,134.19
-42,Mark Andrews,Joe Mixon,Jonathan Taylor,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55900,134.13
-311,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,56200,133.97
-181,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55700,133.9
-43,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55700,133.85000000000002
-182,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55500,133.72
-312,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,56000,133.67000000000002
-44,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Carson Wentz,Minnesota,55500,133.65
-313,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,56100,133.59
-45,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55300,133.47
-46,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55600,133.28
-47,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55400,133.18
-183,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55400,133.15
-314,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Davante Adams,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55900,133.1
-315,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Minnesota,55700,133.08
-184,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55300,133.02
-316,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55800,132.97
-48,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55200,132.9
-185,Mark Andrews,Joe Mixon,Jonathan Taylor,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55600,132.83
-186,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55200,132.45000000000002
-317,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,55500,132.42000000000002
-49,Mark Andrews,Joe Mixon,D'Andre Swift,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55100,131.95000000000002
-318,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Lamar Jackson,Cleveland,55600,131.9
-319,Darren Waller,Mark Andrews,Joe Mixon,D'Andre Swift,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55400,131.85
-50,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,54900,131.67000000000002
-320,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,55200,131.57
-187,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55100,131.4
-51,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,55000,131.32
-188,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54900,131.22
-52,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,54800,131.10000000000002
-321,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Minnesota,55100,131.0
-189,Mark Andrews,Joe Mixon,D'Andre Swift,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,55000,130.87
-322,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,55300,130.8
-190,Mark Andrews,Joe Mixon,Antonio Gibson,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54800,130.65
-53,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54700,130.29
-54,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54600,130.28
-191,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54700,130.27
-55,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54400,130.1
-323,Darren Waller,Mark Andrews,Joe Mixon,Antonio Gibson,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,55000,130.05
-56,Mark Andrews,Joe Mixon,Jonathan Taylor,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54500,129.93
-57,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54300,129.73000000000002
-192,Mark Andrews,Joe Mixon,Javonte Williams,DeAndre Hopkins,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54600,129.70000000000002
-58,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54100,129.55
-324,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Houston,54900,129.42000000000002
-193,Mark Andrews,Joe Mixon,Javonte Williams,D.J. Moore,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54500,129.10000000000002
-194,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54400,128.99
-59,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,54000,128.98000000000002
-325,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Justin Fields,Houston,54800,128.85
-60,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,54200,128.66000000000003
-195,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Green Bay,54300,128.54
-196,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54000,128.43
-326,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Mac Jones,Minnesota,54600,128.39
-327,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54500,128.38
-197,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53800,128.25
-328,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54300,128.2
-198,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Green Bay,54200,127.97
-61,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,53900,127.93
-329,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,54200,127.83000000000001
-62,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53700,127.75
-199,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53700,127.68
-330,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,54000,127.65
-200,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Baker Mayfield,Minnesota,54100,127.43
-63,Mark Andrews,Joe Mixon,D'Andre Swift,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53800,127.4
-331,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Green Bay,54400,127.37
-201,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,53900,127.36
-64,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53600,127.18
-332,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53900,127.08000000000001
-333,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,54100,126.76
-202,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53600,126.5
-203,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53500,126.1
-65,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53500,126.0
-334,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,53800,125.9
-66,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53400,125.6
-204,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53400,125.53
-335,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,53700,125.5
-205,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53200,125.07
-67,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53300,125.03
-336,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,53600,124.93
-206,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Tee Higgins,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53300,124.77000000000001
-207,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,53100,124.5
-68,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,53200,124.11
-337,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,53500,124.01
-338,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Mac Jones,Minnesota,53400,123.91000000000001
-69,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,53000,123.75999999999999
-208,Mark Andrews,Joe Mixon,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,53000,123.69
-339,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,53300,123.66
-70,Mark Andrews,Joe Mixon,Antonio Gibson,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,53100,123.53999999999999
-71,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,52900,123.28
-72,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52700,123.10000000000001
-340,Darren Waller,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,53200,123.09
-209,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52900,122.91999999999999
-341,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,53100,122.69
-73,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52600,122.53
-210,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,52800,122.35
-342,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Carson Wentz,Minnesota,53000,122.32
-74,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Teddy Bridgewater,Minnesota,52800,122.21000000000001
-343,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52800,122.14
-344,Mark Andrews,Noah Fant,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52700,121.57
-211,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,52700,121.42999999999999
-75,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,52500,121.35000000000001
-345,Mark Andrews,Hunter Henry,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52900,121.34
-212,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,52500,121.07999999999998
-76,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52400,120.95
-213,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,52600,120.85999999999999
-346,Mark Andrews,Hunter Henry,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52600,120.79
-347,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Amari Cooper,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52500,120.54
-348,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52400,120.52000000000001
-214,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,52400,120.50999999999999
-77,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,52300,120.38000000000001
-349,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52200,119.99000000000001
-350,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52300,119.95000000000002
-78,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,52200,119.46000000000001
-351,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52100,119.42000000000002
-79,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,52000,119.11000000000001
-80,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,52100,118.89000000000001
-215,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Tim Patrick,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,52300,118.55000000000001
-81,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51900,118.54
-352,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,52000,118.24000000000001
-216,Mark Andrews,Jamaal Williams,Javonte Williams,Amari Cooper,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,52200,118.12
-353,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51900,117.84
-217,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,52100,117.56
-354,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51800,117.27000000000001
-218,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,51900,117.09
-219,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,52000,116.99000000000001
-355,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51700,116.53
-220,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51800,116.52000000000001
-82,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51700,116.47999999999999
-83,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,New York Giants,51800,116.25999999999999
-356,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51500,116.0
-357,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51600,115.96000000000001
-84,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51600,115.91
-221,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,51700,115.85000000000002
-358,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51400,115.43
-85,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51500,115.02000000000001
-222,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51600,114.94
-223,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51500,114.37
-86,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,51400,113.84
-224,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,51400,113.70000000000002
-87,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,51300,113.44
-359,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51200,113.37
-360,Mark Andrews,Jared Cook,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51300,113.33000000000001
-225,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51200,113.1
-226,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51300,113.0
-88,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,51200,112.87
-361,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51100,112.80000000000001
-227,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,51100,112.53
-89,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,51100,112.13
-362,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Minnesota,50900,112.01
-363,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,51000,111.97
-228,Mark Andrews,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,51000,111.86000000000001
-90,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,51000,111.82000000000001
-91,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50900,111.6
-364,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Minnesota,50800,111.44
-92,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50800,111.03
-365,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Cleveland,50700,110.26
-366,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Houston,50600,109.86
-229,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50800,109.80000000000001
-93,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,50700,109.67
-230,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,50900,109.58000000000001
-367,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,50500,109.29
-231,Mark Andrews,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,50700,109.23
-94,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,50600,109.10000000000001
-368,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50400,108.55000000000001
-232,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,50500,108.44
-95,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50500,108.4
-233,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,50600,108.34
-369,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,50200,108.02000000000001
-370,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50300,107.98
-234,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,50400,107.87
-96,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50300,107.83000000000001
-97,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,50400,107.61000000000001
-371,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50100,107.45
-98,Mark Andrews,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,50200,107.26
-235,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,50300,106.69
-236,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,50200,106.28999999999999
-237,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,50100,105.72
-372,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,49900,105.38999999999999
-373,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50000,105.35
-238,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,50000,105.02
-99,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,50100,104.84
-374,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,Justin Fields,Washington,49800,104.82
-100,Mark Andrews,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,50000,104.5
-239,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49800,104.44999999999999
-240,Robert Tonyan,Joe Mixon,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49900,104.35
-101,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49900,104.31
-375,Mark Andrews,Robert Tonyan,Joe Mixon,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49700,104.15
-241,Mark Andrews,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49700,103.88
-102,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49800,103.74000000000001
-103,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49700,102.56
-376,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Justin Fields,Houston,49600,102.31
-104,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,49600,102.16
-242,Mark Andrews,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49500,101.82
-243,Robert Tonyan,Joe Mixon,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49600,101.72
-105,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,49500,101.59
-377,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,New York Giants,49500,101.39
-378,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49400,101.26
-244,Mark Andrews,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49400,101.25
-379,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,Mac Jones,Washington,49300,101.03999999999999
-106,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49400,100.85
-380,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,49200,100.73
-245,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49300,100.36000000000001
-107,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,49200,100.32
-108,Jared Cook,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49300,100.28
-381,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,49100,100.16
-109,Robert Tonyan,Joe Mixon,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49100,99.75
-246,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49200,99.18
-382,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,49000,98.98
-247,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,49100,98.78
-383,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48900,98.58
-248,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,49000,98.21000000000001
-110,Mark Andrews,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,49000,98.17
-384,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,48800,98.01
-249,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48900,97.47
-385,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48700,97.27000000000001
-111,Robert Tonyan,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48900,96.99000000000001
-250,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48700,96.94
-251,Jared Cook,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48800,96.9
-386,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48500,96.74000000000001
-387,Mark Andrews,Jared Cook,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48600,96.7
-112,Robert Tonyan,Antonio Gibson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48800,96.42
-252,Robert Tonyan,Jamaal Williams,Javonte Williams,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48600,96.37
-388,Mark Andrews,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48400,96.17
-113,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,48700,95.22
-114,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,48600,94.65
-253,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48400,94.31
-254,Jared Cook,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48500,94.27000000000001
-389,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,48300,93.75
-255,Robert Tonyan,Jamaal Williams,Javonte Williams,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48300,93.74000000000001
-115,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,48500,93.47
-390,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,48200,93.18
-116,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48400,93.07
-117,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,48300,92.5
-391,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,48100,92.0
-256,Robert Tonyan,Jamaal Williams,Javonte Williams,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48200,91.78
-118,Jared Cook,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48200,91.75999999999999
-392,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,48000,91.6
-119,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48000,91.22999999999999
-120,Jared Cook,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48100,91.19
-393,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,47900,91.03
-121,Robert Tonyan,Latavius Murray,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47900,90.66
-394,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,New York Giants,47800,90.11
-395,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47600,89.75999999999999
-396,Tyler Higbee,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47700,89.72999999999999
-397,Jared Cook,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47500,89.19
-257,Jared Cook,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,48100,88.43
-258,Robert Tonyan,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47900,87.9
-259,Jared Cook,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,48000,87.86
-260,Robert Tonyan,Javonte Williams,Gary Brightwell,Brandin Cooks,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47800,87.33
-122,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Minnesota,47800,87.29
-123,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Minnesota,47700,86.72
-398,C.J. Uzomah,Robert Tonyan,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47400,86.22
-124,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Cleveland,47600,85.54
-261,Robert Tonyan,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47600,85.27000000000001
-262,Jared Cook,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47700,85.23
-125,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Houston,47500,85.14
-263,Robert Tonyan,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47500,84.7
-126,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Houston,47400,84.57000000000001
-127,Jared Cook,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,83.83000000000001
-399,Jared Cook,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,83.6
-128,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47100,83.30000000000001
-129,Jared Cook,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,83.26
-400,Robert Tonyan,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47100,83.07
-401,Jared Cook,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,83.03
-264,Robert Tonyan,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47400,82.74
-130,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47000,82.73
-402,Robert Tonyan,Jody Fortson,Jamaal Williams,Javonte Williams,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47000,82.5
-403,Jared Cook,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46800,80.72
-404,Tyler Higbee,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46900,80.69
-405,Jared Cook,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46700,80.15
-265,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,47300,79.11
-266,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47200,78.53999999999999
-406,C.J. Uzomah,Robert Tonyan,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46600,77.18
-131,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46800,77.14000000000001
-132,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,New York Giants,46900,76.92000000000002
-267,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,47100,76.58
-133,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46700,76.57000000000001
-407,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46500,74.56
-408,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Mac Jones,Washington,46300,74.03
-409,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46400,73.99000000000001
-410,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Justin Fields,Washington,46200,73.46000000000001
-268,Robert Tonyan,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,47000,70.13
-134,Robert Tonyan,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46600,70.12
-269,Jody Fortson,Javonte Williams,Gary Brightwell,Sterling Shepard,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46800,65.93
-270,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,New York Giants,46900,64.32
-135,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,New York Giants,46500,64.31
-271,Jody Fortson,Javonte Williams,Gary Brightwell,Tim Patrick,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46700,63.97
-136,Jody Fortson,Jamaal Williams,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46300,63.96000000000001
-137,Jody Fortson,Latavius Murray,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46400,62.85000000000001
-411,Jared Cook,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46000,61.38
-412,Tyler Higbee,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,46100,61.35
-413,Robert Tonyan,Jody Fortson,Javonte Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,45800,60.85
-414,Robert Tonyan,Jody Fortson,Jamaal Williams,Gary Brightwell,Jakobi Meyers,Darnell Mooney,C.J. Board,Kendall Hinton,Washington,45900,59.17
+95,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,60000,147.07999999999998
+96,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,59900,146.7
+0,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Kyler Murray,New York Giants,60000,146.26
+1,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Kyler Murray,Philadelphia,59900,145.88
+97,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,59800,145.85
+183,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Mike Evans,Chris Godwin,Kyler Murray,New York Giants,60000,145.74
+184,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Kyler Murray,New York Giants,59900,145.62
+98,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Jets,59700,145.59
+2,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,59800,145.45999999999998
+3,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,59700,145.25
+185,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Kyler Murray,Philadelphia,59800,145.23999999999998
+99,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,59600,144.95999999999998
+4,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,59600,144.87
+100,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,59500,144.76
+186,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,59700,144.73000000000002
+101,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,59400,144.38
+5,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,59500,144.37
+187,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,59600,144.35
+188,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,59500,144.25
+6,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,59400,144.25
+102,Travis Kelce,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,59300,143.95999999999998
+189,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,59400,143.87
+7,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,59300,143.87
+103,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,59200,143.75
+104,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,59100,143.41000000000003
+8,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,59200,143.36
+190,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,59300,143.35
+105,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,59000,143.03
+9,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,59100,143.01999999999998
+10,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,59000,142.89999999999998
+191,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Jets,59200,142.76
+11,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58900,142.51999999999998
+106,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58900,142.51999999999998
+107,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58800,142.39999999999998
+192,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,59000,142.38
+193,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,59100,142.31
+108,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58700,142.01999999999998
+12,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58800,142.01
+194,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58900,142.0
+13,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58700,141.63
+109,Travis Kelce,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,58600,141.51999999999998
+110,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,58500,141.39999999999998
+195,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,58800,141.31
+111,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,58400,141.01999999999998
+14,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,58500,141.01
+15,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Kyler Murray,Philadelphia,58600,140.95999999999998
+196,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,58700,140.92000000000002
+16,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,58400,140.63
+197,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,58600,140.54
+112,Travis Kelce,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,58300,140.51
+198,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58500,140.33999999999997
+113,Travis Kelce,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,58200,140.13
+17,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58300,139.97
+199,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58400,139.95999999999998
+18,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58200,139.59
+200,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,58300,139.54
+114,Mike Gesicki,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58100,139.47
+115,Mike Gesicki,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,58000,139.09
+19,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,58100,139.07
+201,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,58200,139.05
+202,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58100,138.69
+116,Travis Kelce,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,57900,138.66
+203,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,58000,138.57
+117,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57800,138.49
+20,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Jets,58000,138.48
+21,Travis Kelce,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,57900,138.27
+204,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57900,138.19
+118,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57700,138.10999999999999
+22,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57800,138.1
+23,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57700,137.72
+205,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57800,137.68
+119,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57600,137.6
+206,Travis Kelce,Mike Gesicki,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57700,137.29999999999998
+120,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57500,137.22
+24,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,57600,137.03
+207,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57600,136.82
+208,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57500,136.7
+25,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,57500,136.64
+121,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,57300,136.6
+122,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57400,136.57
+209,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57400,136.32
+26,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,57400,136.26
+123,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,57200,136.22
+27,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57300,136.06
+210,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57300,135.81
+28,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57200,135.67999999999998
+124,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57100,135.56
+211,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57200,135.42999999999998
+29,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,57100,135.26
+125,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,57000,135.17999999999998
+212,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,57000,134.81
+126,Mike Gesicki,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56900,134.8
+213,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,57100,134.78
+30,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,57000,134.76999999999998
+127,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,56800,134.56
+214,Travis Kelce,Tyler Higbee,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,56900,134.42999999999998
+31,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56900,134.41000000000003
+32,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56800,134.29000000000002
+128,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,56700,134.17999999999998
+33,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56700,133.91
+129,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56600,133.79000000000002
+215,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56800,133.76999999999998
+216,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56800,133.76999999999998
+130,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56500,133.41
+34,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56600,133.39999999999998
+218,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56700,133.39
+217,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56700,133.39
+35,Mike Gesicki,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56500,133.01999999999998
+131,Tyler Higbee,Miles Sanders,Devontae Booker,Mike Evans,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56400,132.93
+132,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,56300,132.79000000000002
+219,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,56500,132.76999999999998
+220,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,A.J. Brown,Chris Godwin,Kyler Murray,Philadelphia,56600,132.72
+36,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56400,132.54000000000002
+37,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56300,132.42000000000002
+133,Mike Gesicki,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,56200,132.41
+221,Travis Kelce,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,56400,132.39
+38,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56200,132.04
+134,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56100,131.92000000000002
+222,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56300,131.73000000000002
+135,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56000,131.54
+39,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,56100,131.52999999999997
+223,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56200,131.35
+40,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,56000,131.14999999999998
+136,Tyler Higbee,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55900,131.04000000000002
+137,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55800,130.92000000000002
+224,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,56100,130.82999999999998
+138,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55700,130.54
+41,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55800,130.52999999999997
+42,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55900,130.5
+225,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,New York Giants,56000,130.44
+43,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55700,130.14999999999998
+226,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Robert Woods,Chris Godwin,Kyler Murray,Philadelphia,55900,130.06
+139,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55600,130.02999999999997
+227,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55800,129.86
+140,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55500,129.64999999999998
+44,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55600,129.49
+228,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Tyreek Hill,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,55700,129.48
+45,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,55500,129.10999999999999
+229,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Kyler Murray,Philadelphia,55600,129.06
+141,Evan Engram,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55400,129.0
+142,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55300,128.88
+230,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Kyler Murray,New York Giants,55500,128.55
+143,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55200,128.5
+46,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55300,128.49
+47,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,55400,128.40999999999997
+231,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55400,128.20999999999998
+48,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55200,128.10999999999999
+232,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55300,128.08999999999997
+144,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,55100,127.99
+233,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,55200,127.70999999999998
+145,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,55000,127.60999999999999
+49,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,55100,127.40999999999998
+234,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,55100,127.2
+50,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Jets,55000,127.0
+146,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54900,126.90999999999998
+235,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,55000,126.82
+147,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Jets,54800,126.5
+51,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,54900,126.36999999999999
+236,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,54800,126.2
+237,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,54900,126.17
+148,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,54700,126.13999999999999
+238,Mike Gesicki,Tyler Higbee,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,54700,125.82
+149,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54600,125.75999999999999
+52,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,54700,125.75
+53,Evan Engram,D'Andre Swift,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,54800,125.50999999999999
+54,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54600,125.36999999999999
+150,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,54500,125.25
+239,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,54600,125.16
+151,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54400,124.86999999999999
+240,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,54500,124.78
+241,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Mike Evans,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,54400,124.3
+55,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Jets,54400,124.25999999999999
+242,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,54300,124.17999999999999
+56,Evan Engram,D'Andre Swift,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Jets,54500,124.02
+152,Tommy Tremble,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54300,123.86
+243,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,54200,123.79999999999998
+153,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Jets,54200,123.75999999999999
+57,Tommy Tremble,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54300,123.46999999999998
+244,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,54100,123.29
+154,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,54100,122.96999999999998
+245,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,Philadelphia,54000,122.91
+58,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Mac Jones,New York Giants,54200,122.53999999999999
+59,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Houston,54100,122.41
+246,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,53800,122.29
+155,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,54000,122.2
+247,Mike Gesicki,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,53900,122.03999999999999
+156,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53900,121.93
+248,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,Philadelphia,53700,121.91
+60,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,54000,121.80999999999999
+157,Tyler Higbee,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53800,121.55
+61,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53900,121.53999999999999
+62,Tyler Higbee,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53800,121.15999999999998
+249,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,53600,121.05999999999999
+158,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53700,121.03999999999999
+250,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Jets,53500,120.80000000000001
+159,Tyler Higbee,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53600,120.65999999999998
+63,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Mac Jones,New York Giants,53700,120.5
+251,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,53400,120.17
+160,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,53500,120.16
+64,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,New York Giants,53600,120.14999999999999
+161,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53400,119.88999999999999
+65,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,53500,119.77
+252,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,53200,119.55000000000001
+162,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53300,119.50999999999999
+66,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53400,119.5
+253,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Kyler Murray,New York Giants,53300,119.35000000000001
+254,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,53100,119.17
+67,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53300,119.11999999999999
+163,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,53200,119.0
+164,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53100,118.61999999999999
+255,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Giants,53000,118.35000000000001
+256,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Jets,52900,118.06
+68,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,53100,118.00999999999999
+69,Tommy Tremble,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,53200,117.86999999999999
+165,Tommy Tremble,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53000,117.61
+166,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,52900,117.50999999999999
+257,Tyler Higbee,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,52800,117.27
+70,Tommy Tremble,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,53000,117.21999999999998
+258,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Kyler Murray,New York Jets,52700,116.86000000000001
+167,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,52800,116.71999999999998
+71,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Philadelphia,52900,116.47999999999999
+259,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Matthew Stafford,Philadelphia,52600,116.23
+72,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,52800,116.16
+168,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Philadelphia,52700,115.97999999999999
+169,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,52600,115.66
+260,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Giants,52400,115.61000000000001
+261,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Tee Higgins,Daniel Jones,Philadelphia,52500,115.46
+73,Evan Engram,Leonard Fournette,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,New York Jets,52700,115.36999999999999
+262,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,Philadelphia,52300,115.23
+170,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,New York Jets,52500,114.86999999999999
+74,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,52600,114.84
+75,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,52500,114.46
+263,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Mac Jones,New York Giants,52200,114.30000000000001
+264,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Matthew Stafford,New York Jets,52100,114.12
+171,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Philadelphia,52400,114.07999999999998
+172,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,52300,113.75999999999999
+76,Evan Engram,Mike Davis,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,52400,113.72999999999999
+265,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,52000,113.57000000000001
+77,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,52300,113.35
+266,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,51900,113.30000000000001
+173,Evan Engram,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,52200,113.02
+267,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,51800,112.92
+78,Tommy Tremble,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,52200,112.55999999999999
+174,Tommy Tremble,Miles Sanders,Devontae Booker,A.J. Brown,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,52100,112.01
+79,Evan Engram,Mike Davis,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,52100,111.88
+268,Tyler Higbee,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,51600,111.81
+269,Tyler Higbee,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,51700,111.67
+80,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,52000,111.5
+175,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51900,111.11999999999999
+270,Tyler Higbee,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,51500,111.02
+176,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Brandin Cooks,Tee Higgins,Justin Fields,Houston,52000,110.97999999999999
+81,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,New York Jets,51900,110.71
+271,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Mac Jones,New York Giants,51400,110.36000000000001
+272,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,New York Giants,51300,110.01
+82,Tommy Tremble,Mike Davis,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,51800,109.97999999999999
+273,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Daniel Jones,Philadelphia,51200,109.63000000000001
+83,Tommy Tremble,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,51700,109.6
+274,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Giants,51100,109.36000000000001
+275,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Philadelphia,51000,108.98
+84,Evan Engram,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51600,108.86
+177,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Philadelphia,51800,107.88999999999999
+276,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,New York Jets,50800,107.87
+85,Evan Engram,Damien Williams,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51500,107.83
+178,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Mac Jones,Houston,51700,107.57
+277,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Robert Woods,Chris Godwin,Tee Higgins,Zach Wilson,Philadelphia,50900,107.34
+86,Tommy Tremble,Mike Davis,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51400,107.33999999999999
+87,Tommy Tremble,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51300,106.96
+179,Evan Engram,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,51600,106.83
+278,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,New York Giants,50700,106.72
+279,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Philadelphia,50600,106.34
+280,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Mac Jones,Houston,50500,106.02000000000001
+88,Tommy Tremble,Damien Williams,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51200,105.92999999999999
+180,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Tennessee,51500,105.33999999999999
+281,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,New York Jets,50400,105.23
+181,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,51300,104.92999999999999
+182,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Christian Kirk,Tee Higgins,Justin Fields,Houston,51400,104.78999999999999
+89,Tommy Tremble,Khalil Herbert,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,51100,104.17999999999999
+282,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Tennessee,50300,103.79
+283,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,50100,103.38000000000001
+284,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Justin Fields,Houston,50200,103.24000000000001
+90,Tommy Tremble,Chase Edmonds,Miles Sanders,Devontae Booker,Chris Godwin,Christian Kirk,Tee Higgins,Zach Wilson,Houston,51000,101.77
+91,Tommy Tremble,Damien Williams,Miles Sanders,Devontae Booker,Chris Godwin,Christian Kirk,Tee Higgins,Zach Wilson,Houston,50900,100.74
+285,Hayden Hurst,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Zach Wilson,Houston,49900,99.42999999999999
+286,Hayden Hurst,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Brandin Cooks,Tee Higgins,Justin Fields,Houston,50000,99.28999999999999
+92,Tommy Tremble,Khalil Herbert,Miles Sanders,Devontae Booker,Chris Godwin,Christian Kirk,Tee Higgins,Zach Wilson,Houston,50800,98.99
+287,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Chris Godwin,Christian Kirk,Tee Higgins,Zach Wilson,Houston,49800,98.19000000000001
+93,Tommy Tremble,Damien Williams,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,50700,97.27
+94,Tommy Tremble,Khalil Herbert,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,50600,95.52
+288,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,49600,94.72000000000001
+289,Evan Engram,Tommy Tremble,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Justin Fields,Houston,49700,94.58000000000001
+290,Hayden Hurst,Tommy Tremble,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Zach Wilson,Houston,49400,90.77
+291,Hayden Hurst,Tommy Tremble,Miles Sanders,Devontae Booker,Brandin Cooks,Christian Kirk,Tee Higgins,Justin Fields,Houston,49500,90.63
