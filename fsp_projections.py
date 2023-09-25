@@ -1,7 +1,7 @@
-import csv
 import requests
+import pandas as pd
 
-projection_file = 'https://dfs-projections.wetalkfantasysports.com/shiny/DFS/session/e2e4b4000831f7e748fdd3b1e83574df/download/downloadData5?w='
+projection_file = 'https://dfs-projections.wetalkfantasysports.com/shiny/DFS/session/74f65f9ece31e948d703f5f3a4cddcd2/download/downloadData5?w='
 
 def get_csv_file(f):
     req = requests.get(f)
@@ -49,8 +49,8 @@ def remove_suffix(p, fanduel=False):
             p = p.replace(' Jr.', '')
         if fanduel_d.get(p.strip()):
             p = fanduel_d.get(p.strip())
-    if (not fanduel) and defense.get(p.strip()):
-        p = defense.get(p.strip())
+    # if (not fanduel) and defense.get(p.strip()):
+    #     p = defense.get(p.strip())
     p = p.replace(' III', '')
     p = p.replace(' II', '')
     p = p.replace(' IV', '')
@@ -82,7 +82,7 @@ def main():
     get_csv_file(projection_file)
     fsp = pd.read_csv('fsp_projection.csv')
     fsp.set_index('Player', inplace=True)
-    fsp_dict = {k: v['Proj'] for k,v in fsp.to_dict(orient='index').items()}
+    fsp_dict = {k: v['Proj'] for k, v in fsp.to_dict(orient='index').items()}
     df = get_df(fsp_dict)
     return df
 

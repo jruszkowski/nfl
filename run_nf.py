@@ -9,6 +9,41 @@ from joblib import Parallel, delayed
 import datetime
 from collections import defaultdict
 
+d_map = {
+	'49ers':'San Francisco',
+	'Bears':'Chicago',
+	'Bengals':'Cinncinnati',
+	'Broncos':'Denver',
+	'Browns':'Cleveland',
+	'Buccaneers':'Tampa Bay',
+	'Cardinals':'Arizona',
+	'Chargers':'San Diego',
+	'Colts':'Indianapolis',
+	'Commanders':'Washington',
+	'Dolphins':'Miami',
+	'Eagles':'Philadelphia',
+	'Falcons':'Atlanta',
+	'Jaguars':'Jacksonville',
+	'Packers':'Green Bay',
+	'Panthers':'Carolina',
+	'Patriots':'New England',
+	'Raiders':'Las Vegas',
+	'Rams':'Los Angeles Rams',
+	'Ravens':'Baltimore',
+	'Saints':'New Orleans',
+	'Seahawks':'Seattle',
+	'Steelers':'Pittsburgh',
+	'Texans':'Houston',
+	'Titans':'Tennessee',
+	'Vikings':'Minnesota',
+	'Cowboys':'Dallas',
+	'Jets': 'New York Jets',
+	'Giants': 'New York Giants',
+	'Bills': 'Buffalo',
+	'Chiefs': 'Kansas City',
+	'Lions': 'Detroit',
+}
+
 plyr_dict = projections.get_nf_projections()
 d_plyr_dict = projections.get_nf_d_projections()
 f = 'draftkings.csv'
@@ -20,8 +55,10 @@ if f[0] == 'd':
 	df['Name'] = df['Name'].apply(lambda x: x.strip())
 	df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
 	df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
+	df['Name'] = df['Name'].replace(d_map)
 	df.set_index(['Name'], inplace=True)
 	df.loc[df['Position']=='DST', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
+	x = df.loc[df['Position'] == 'DST', 'Projection']
 	df = df[df['ID']!=11192832]
 elif f[0] == 'f':
 	df = df.drop(df.loc[(df['Nickname'] == 'Michael Thomas') & (df.Team == 'LAR')].index)
@@ -176,7 +213,8 @@ if __name__=="__main__":
 	df = pd.concat(results, sort=True)
 	df.reset_index(inplace=True)
 	df = df[list(range(1,10)) + ['Salary', 'Projection']].sort_values('Projection', ascending=False)
-	df.to_csv('results/output_' + sys.argv[1])
+	# df.to_csv('results/output_' + sys.argv[1])
+	df.to_csv('results/output_draftkings.csv')
 
 	print (datetime.datetime.now() - start_time)
 	print (df.iloc[0])
