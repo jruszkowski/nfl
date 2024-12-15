@@ -1,0 +1,46 @@
+
+names = {
+    'draftkings':
+        {'DK Metcalf': 'D.K. Metcalf',
+         'DJ Moore': 'D.J. Moore',
+         'Brian Robinson Jr.': 'Brian Robinson',
+         'Gardner Minshew II': 'Gardner Minshew',
+         'Darrell Henderson Jr.': 'Darrell Henderson',
+         'AJ Dillon': 'A.J. Dillon',
+         'Tony Jones Jr.': 'Tony Jones',}
+}
+
+d_map = {
+    '49ers': 'San Francisco',
+    'Bears': 'Chicago',
+    'Bengals': 'Cincinnati',
+    'Broncos': 'Denver',
+    'Browns': 'Cleveland',
+    'Buccaneers': 'Tampa Bay',
+    'Cardinals': 'Arizona',
+    'Chargers': 'San Diego',
+    'Colts': 'Indianapolis',
+    'Commanders': 'Washington',
+    'Dolphins': 'Miami',
+    'Eagles': 'Philadelphia',
+    'Falcons': 'Atlanta',
+    'Jaguars': 'Jacksonville',
+    'Packers': 'Green Bay',
+    'Panthers': 'Carolina',
+    'Patriots': 'New England',
+    'Raiders': 'Las Vegas',
+    'Rams': 'Los Angeles Rams',
+    'Ravens': 'Baltimore',
+    'Saints': 'New Orleans',
+    'Seahawks': 'Seattle',
+    'Steelers': 'Pittsburgh',
+    'Texans': 'Houston',
+    'Titans': 'Tennessee',
+    'Vikings': 'Minnesota',
+    'Cowboys': 'Dallas',
+    'Jets': 'New York Jets',
+    'Giants': 'New York Giants',
+    'Bills': 'Buffalo',
+    'Chiefs': 'Kansas City',
+    'Lions': 'Detroit',
+}

@@ -1,6 +1,5 @@
 #!usr/bin/python3
 
-import sys
 import projections
 import pandas as pd
 from itertools import combinations
@@ -8,57 +7,27 @@ import numpy as np
 from joblib import Parallel, delayed
 import datetime
 from collections import defaultdict
-
-d_map = {
-	'49ers':'San Francisco',
-	'Bears':'Chicago',
-	'Bengals':'Cinncinnati',
-	'Broncos':'Denver',
-	'Browns':'Cleveland',
-	'Buccaneers':'Tampa Bay',
-	'Cardinals':'Arizona',
-	'Chargers':'San Diego',
-	'Colts':'Indianapolis',
-	'Commanders':'Washington',
-	'Dolphins':'Miami',
-	'Eagles':'Philadelphia',
-	'Falcons':'Atlanta',
-	'Jaguars':'Jacksonville',
-	'Packers':'Green Bay',
-	'Panthers':'Carolina',
-	'Patriots':'New England',
-	'Raiders':'Las Vegas',
-	'Rams':'Los Angeles Rams',
-	'Ravens':'Baltimore',
-	'Saints':'New Orleans',
-	'Seahawks':'Seattle',
-	'Steelers':'Pittsburgh',
-	'Texans':'Houston',
-	'Titans':'Tennessee',
-	'Vikings':'Minnesota',
-	'Cowboys':'Dallas',
-	'Jets': 'New York Jets',
-	'Giants': 'New York Giants',
-	'Bills': 'Buffalo',
-	'Chiefs': 'Kansas City',
-	'Lions': 'Detroit',
-}
+from config import d_map
+from dfs import normalize
 
 plyr_dict = projections.get_nf_projections()
 d_plyr_dict = projections.get_nf_d_projections()
+espn = projections.get_espn_projections()
+
 f = 'draftkings.csv'
+# f = 'fanduel.csv'
 df = pd.read_csv('inputs/' + f)
 if f[0] == 'd':
 	df = df.set_index('Name')
 	df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 	df = df.reset_index()
 	df['Name'] = df['Name'].apply(lambda x: x.strip())
+	df['Name'] = df['Name'].replace(normalize.names['draftkings'])
 	df = df.drop(df.loc[(df['Name'] == 'Michael Thomas') & (df.Salary == 3000)].index)
 	df = df.drop(df.loc[(df['Name'] == 'Chris Thompson') & (df.Salary == 3000)].index)
 	df['Name'] = df['Name'].replace(d_map)
 	df.set_index(['Name'], inplace=True)
 	df.loc[df['Position']=='DST', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
-	x = df.loc[df['Position'] == 'DST', 'Projection']
 	df = df[df['ID']!=11192832]
 elif f[0] == 'f':
 	df = df.drop(df.loc[(df['Nickname'] == 'Michael Thomas') & (df.Team == 'LAR')].index)
@@ -67,6 +36,7 @@ elif f[0] == 'f':
 	df = df.set_index('Nickname')
 	df['Projection'] = pd.DataFrame.from_dict(plyr_dict, orient='index')
 	df = df.reset_index()
+	df['Last Name'] = df['Last Name'].replace(d_map)
 	df.set_index('Last Name', inplace=True)
 	df.loc[df['Position']=='D', 'Projection'] = pd.DataFrame.from_dict(d_plyr_dict, orient='index')[0]
 	df = df.reset_index().set_index('Nickname')
@@ -212,7 +182,7 @@ if __name__=="__main__":
 	results = Parallel(n_jobs=-1)(delayed(get_projections)(k) for k in flex_combos.keys())
 	df = pd.concat(results, sort=True)
 	df.reset_index(inplace=True)
-	df = df[list(range(1,10)) + ['Salary', 'Projection']].sort_values('Projection', ascending=False)
+	df = df[list(range(1, 10)) + ['Salary', 'Projection']].sort_values('Projection', ascending=False)
 	# df.to_csv('results/output_' + sys.argv[1])
 	df.to_csv('results/output_draftkings.csv')
 

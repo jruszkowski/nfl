@@ -3,12 +3,14 @@ import urllib3
 from bs4 import BeautifulSoup
 from collections import defaultdict
 
+
 def convert_string(s):
     try:
         return float(s)
     except:
         return 0.0
-    
+
+
 def get_nf_projections():
     base_page = 'https://www.numberfire.com/nfl/fantasy/fantasy-football-ppr-projections'
     http = urllib3.PoolManager()
@@ -28,6 +30,7 @@ def get_nf_projections():
     projection_dict = {x: y for (x,y) in zip(plyr_list, projections)}
     return projection_dict
 
+
 def get_nf_d_projections():
     base_page = 'https://www.numberfire.com/nfl/fantasy/fantasy-football-projections/d'
     http = urllib3.PoolManager()
@@ -46,6 +49,7 @@ def get_nf_d_projections():
     plyr_list = [p.split('\n')[1] for p in plyr_list]
     projection_dict = {x: y for (x,y) in zip(plyr_list, projections)}
     return projection_dict
+
 
 def get_espn_projections():
     base_page = 'http://games.espn.com/ffl/tools/projections?'
